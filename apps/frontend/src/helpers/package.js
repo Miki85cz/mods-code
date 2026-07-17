@@ -153,7 +153,7 @@ export const createDataPackVersion = async function (
 	if (!newForge && loaders.includes('forge')) {
 		const classFile = new Uint8Array(
 			await (
-				await fetch('https://cdn.modrinth.com/wrapper/ModrinthWrapperRestiched.class')
+				await fetch('https://cdn.cosmods.miki85.cz/wrapper/ModrinthWrapperRestiched.class')
 			).arrayBuffer(),
 		)
 

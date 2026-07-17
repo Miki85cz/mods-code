@@ -69,12 +69,12 @@ jobs:
 
           elif [ "$REF" = "refs/heads/main" ]; then
             echo "env=staging" >> $GITHUB_OUTPUT
-            echo "url=https://staging.modrinth.com" >> $GITHUB_OUTPUT
+            echo "url=https://staging.cosmods.miki85.cz" >> $GITHUB_OUTPUT
 
           else
             # Production env (no preview)
             echo "env=production" >> $GITHUB_OUTPUT
-            echo "url=https://modrinth.com" >> $GITHUB_OUTPUT
+            echo "url=https://cosmods.miki85.cz" >> $GITHUB_OUTPUT
           fi
 
       - name: Setup Node
@@ -152,7 +152,7 @@ jobs:
           curl -X POST \
             -H "Authorization: Bearer ${{ secrets.CF_API_TOKEN }}" \
             -H "Content-Type: application/json" \
-            --data '{"hosts": ["modrinth.com", "www.modrinth.com", "staging.modrinth.com"]}' \
+            --data '{"hosts": ["cosmods.miki85.cz", "www.cosmods.miki85.cz", "staging.cosmods.miki85.cz"]}' \
             https://api.cloudflare.com/client/v4/zones/e39df17b9c4ef44cbce2646346ee6d33/purge_cache
 
       - name: Write deployment URL to file

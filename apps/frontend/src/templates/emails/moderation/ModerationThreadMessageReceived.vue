@@ -8,12 +8,12 @@ import StyledEmail from '../shared/StyledEmail.vue'
 	<StyledEmail
 		title="New moderation message"
 		:manual-links="[
-			{ link: 'https://modrinth.com/legal/rules', label: 'Community Guidelines' },
+			{ link: 'https://cosmods.miki85.cz/legal/rules', label: 'Community Guidelines' },
 			{
-				link: 'https://modrinth.com/project/{project.id}/moderation',
+				link: 'https://cosmods.miki85.cz/project/{project.id}/moderation',
 				label: 'Your project\'s moderation thread',
 			},
-			{ link: 'https://support.modrinth.com', label: 'Support Portal' },
+			{ link: 'https://support.cosmods.miki85.cz', label: 'Support Portal' },
 		]"
 	>
 		<Section class="mb-4 mt-2">
@@ -34,7 +34,7 @@ import StyledEmail from '../shared/StyledEmail.vue'
 		<Text class="text-base">
 			Modrinth's moderation team has left a message on your project,
 			<VLink
-				href="https://modrinth.com/project/{project.id}/moderation"
+				href="https://cosmods.miki85.cz/project/{project.id}/moderation"
 				class="text-green underline"
 				>{project.name}</VLink
 			>.
@@ -44,7 +44,7 @@ import StyledEmail from '../shared/StyledEmail.vue'
 			<Text class="m-0 text-base">
 				Please
 				<VLink
-					href="https://modrinth.com/project/{project.id}/moderation"
+					href="https://cosmods.miki85.cz/project/{project.id}/moderation"
 					class="text-green underline"
 					>sign in to view the message</VLink
 				>

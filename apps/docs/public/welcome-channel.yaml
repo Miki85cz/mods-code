@@ -4,7 +4,7 @@
 - type: embed
   embeds:
     - title: __Welcome to Modrinth's Discord server!__
-      url: https://modrinth.com
+      url: https://cosmods.miki85.cz
       color: 0x1bd96a
       description:
         'Modrinth is the place for Minecraft mods, plugins, data packs, shaders, resource packs, and
@@ -64,18 +64,18 @@
   color: 0x4f9cff
   title: '**:link: __Links__**'
   links:
-    Website: https://modrinth.com
-    Support: https://support.modrinth.com
-    Status page: https://status.modrinth.com
-    Roadmap: https://roadmap.modrinth.com
-    Blog and newsletter: https://modrinth.com/news
-    API documentation: https://docs.modrinth.com
+    Website: https://cosmods.miki85.cz
+    Support: https://support.cosmods.miki85.cz
+    Status page: https://status.cosmods.miki85.cz
+    Roadmap: https://roadmap.cosmods.miki85.cz
+    Blog and newsletter: https://cosmods.miki85.cz/news
+    API documentation: https://docs.cosmods.miki85.cz
     Modrinth source code: https://github.com/modrinth
-    Help translate Modrinth: https://translate.modrinth.com
+    Help translate Modrinth: https://translate.cosmods.miki85.cz
     Follow Modrinth on Mastodon: https://floss.social/@modrinth
     Follow Modrinth on Twitter: https://twitter.com/modrinth
 
 - type: text
   text: |
-    **Main server:** <https://discord.modrinth.com>
-    **Testing server:** <https://discord.modrinth.com/labs>
+    **Main server:** <https://discord.cosmods.miki85.cz>
+    **Testing server:** <https://discord.cosmods.miki85.cz/labs>

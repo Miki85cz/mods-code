@@ -5,7 +5,7 @@
 
 Platform-agnostic TypeScript client for Modrinth's API across Node.js, browsers, Nuxt, and Tauri.
 
-**⚠️ We use this internally to power modrinth.com, Modrinth App, and Modrinth Hosting frontends. It may break without any notice, but you are welcome to use it.**
+**⚠️ We use this internally to power cosmods.miki85.cz, Modrinth App, and Modrinth Hosting frontends. It may break without any notice, but you are welcome to use it.**
 
 ## Installation
 
@@ -74,7 +74,7 @@ import { getVersion } from '@tauri-apps/api/app'
 import { AuthFeature, TauriModrinthClient } from '@modrinth/api-client'
 
 const client = new TauriModrinthClient({
-	userAgent: async () => `modrinth/theseus/${await getVersion()} (support@modrinth.com)`,
+	userAgent: async () => `modrinth/theseus/${await getVersion()} (support@cosmods.miki85.cz)`,
 	features: [new AuthFeature({ token: process.env.MODRINTH_TOKEN })],
 })
 
@@ -101,20 +101,20 @@ const project: Labrinth.Projects.v3.Project = await client.labrinth.projects_v3.
 
 ## Modrinth Hosting API Modules
 
-- These modules are internal to Modrinth and are only supported inside the Modrinth Hosting panel in Modrinth App and on modrinth.com. They should not be expected to work in third-party clients today. We are discussing how to safely expose access to your own server through these APIs in the future.
+- These modules are internal to Modrinth and are only supported inside the Modrinth Hosting panel in Modrinth App and on cosmods.miki85.cz. They should not be expected to work in third-party clients today. We are discussing how to safely expose access to your own server through these APIs in the future.
 
 ## Base URLs
 
 By default, the client uses Modrinth production services:
 
-- `labrinthBaseUrl`: `https://api.modrinth.com`
+- `labrinthBaseUrl`: `https://api.cosmods.miki85.cz`
 
 Override them for staging or custom deployments:
 
 ```ts
 const client = new GenericModrinthClient({
 	userAgent: 'my-app/1.0.0',
-	labrinthBaseUrl: 'https://staging-api.modrinth.com',
+	labrinthBaseUrl: 'https://staging-api.cosmods.miki85.cz',
 })
 ```
 

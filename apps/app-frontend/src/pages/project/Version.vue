@@ -40,14 +40,14 @@
 						:options="[
 							{
 								id: 'open-in-browser',
-								link: `https://modrinth.com/${project.project_type}/${project.slug}/version/${version.id}`,
+								link: `https://cosmods.miki85.cz/${project.project_type}/${project.slug}/version/${version.id}`,
 								external: true,
 							},
 							{
 								id: 'report',
 								color: 'red',
 								hoverFilled: true,
-								link: `https://modrinth.com/report?item=version&itemID=${version.id}`,
+								link: `https://cosmods.miki85.cz/report?item=version&itemID=${version.id}`,
 								external: true,
 							},
 						]"

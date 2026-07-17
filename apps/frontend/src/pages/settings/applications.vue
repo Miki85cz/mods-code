@@ -164,7 +164,7 @@
 		<p>
 			<IntlFormatted :message-id="messages.descriptionIntro">
 				<template #docs-link="{ children }">
-					<a class="text-link" href="https://docs.modrinth.com">
+					<a class="text-link" href="https://docs.cosmods.miki85.cz">
 						<component :is="() => normalizeChildren(children)" />
 					</a>
 				</template>

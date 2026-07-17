@@ -32,7 +32,7 @@ const messages = defineMessages({
 		<template #actions_right>
 			<div class="flex w-fit flex-row">
 				<ButtonStyled color="red">
-					<nuxt-link to="https://support.modrinth.com" target="_blank" rel="noopener">
+					<nuxt-link to="https://support.cosmods.miki85.cz" target="_blank" rel="noopener">
 						<MessageIcon />
 						{{ formatMessage(messages.action) }}
 					</nuxt-link>

@@ -50,7 +50,7 @@
 				<span class="max-w-[90%] text-left text-primary">
 					Do you have the appropriate licenses to redistribute all content in this Modpack?
 					<NuxtLink
-						to="https://support.modrinth.com/en/articles/8797527-obtaining-modpack-permissions"
+						to="https://support.cosmods.miki85.cz/en/articles/8797527-obtaining-modpack-permissions"
 						external
 						target="_blank"
 						class="font-medium text-blue underline"

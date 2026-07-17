@@ -3825,7 +3825,7 @@
     "message": "Exportación de datos"
   },
   "settings.account.delete.confirm.description": {
-    "message": "Esto **eliminará inmediatamente todos tus datos de usuario y tus seguidores**. No se eliminarán tus proyectos. La eliminación de tu cuenta es irreversible.<br><br>Si necesitas ayuda con tu cuenta, solicita asistencia en el [Discord de Modrinth](https://discord.modrinth.com)."
+    "message": "Esto **eliminará inmediatamente todos tus datos de usuario y tus seguidores**. No se eliminarán tus proyectos. La eliminación de tu cuenta es irreversible.<br><br>Si necesitas ayuda con tu cuenta, solicita asistencia en el [Discord de Modrinth](https://discord.cosmods.miki85.cz)."
   },
   "settings.account.delete.confirm.proceed": {
     "message": "Eliminar esta cuenta"
@@ -4158,7 +4158,7 @@
     "message": "año"
   },
   "settings.billing.midas.benefits.ad-free": {
-    "message": "Navegación sin anuncios en modrinth.com y Modrinth App"
+    "message": "Navegación sin anuncios en cosmods.miki85.cz y Modrinth App"
   },
   "settings.billing.midas.benefits.badge": {
     "message": "Insignia de Modrinth+ en tu perfil"

@@ -4098,7 +4098,7 @@
     "message": "Export des données"
   },
   "settings.account.delete.confirm.description": {
-    "message": "Cela supprimera **immédiatement tous vos projets et vos suivis**. La suppression de votre compte est irréversible.<br><br>Si vous avez besoin d'aide avec votre compte, contactez le serveur [Discord de Modrinth](https://discord.modrinth.com)."
+    "message": "Cela supprimera **immédiatement tous vos projets et vos suivis**. La suppression de votre compte est irréversible.<br><br>Si vous avez besoin d'aide avec votre compte, contactez le serveur [Discord de Modrinth](https://discord.cosmods.miki85.cz)."
   },
   "settings.account.delete.confirm.proceed": {
     "message": "Supprimer ce compte"
@@ -4482,7 +4482,7 @@
     "message": "an"
   },
   "settings.billing.midas.benefits.ad-free": {
-    "message": "Navigation sans publicité sur modrinth.com et Modrinth App"
+    "message": "Navigation sans publicité sur cosmods.miki85.cz et Modrinth App"
   },
   "settings.billing.midas.benefits.badge": {
     "message": "Badge Modrinth+ sur votre profil"

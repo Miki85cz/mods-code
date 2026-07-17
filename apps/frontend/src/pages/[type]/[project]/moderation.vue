@@ -84,7 +84,7 @@
 					<p class="mb-0 mt-3 leading-tight">
 						<IntlFormatted :message-id="messages.threadHelpCenterNote1">
 							<template #help-center-link="{ children }">
-								<a class="text-link" href="https://support.modrinth.com" target="_blank">
+								<a class="text-link" href="https://support.cosmods.miki85.cz" target="_blank">
 									<component :is="() => normalizeChildren(children)" />
 								</a>
 							</template>
@@ -93,7 +93,7 @@
 					<p class="mb-0 mt-2 leading-tight">
 						<IntlFormatted :message-id="messages.threadHelpCenterNote2">
 							<template #help-center-link="{ children }">
-								<a class="text-link" href="https://support.modrinth.com" target="_blank">
+								<a class="text-link" href="https://support.cosmods.miki85.cz" target="_blank">
 									<component :is="() => normalizeChildren(children)" />
 								</a>
 							</template>

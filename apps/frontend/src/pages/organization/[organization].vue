@@ -561,14 +561,14 @@ watch(
 		if (org) {
 			const title = `${org.name} - Organization`
 			const description = `${org.description} - View the organization ${org.name} on Modrinth`
-			const canonicalUrl = org ? `https://modrinth.com/organization/${org.id}` : undefined
+			const canonicalUrl = org ? `https://cosmods.miki85.cz/organization/${org.id}` : undefined
 
 			useSeoMeta({
 				title,
 				description,
 				ogTitle: title,
 				ogDescription: org.description,
-				ogImage: org.icon_url ?? 'https://cdn.modrinth.com/placeholder.png',
+				ogImage: org.icon_url ?? 'https://cdn.cosmods.miki85.cz/placeholder.png',
 				ogUrl: canonicalUrl,
 			})
 			useHead({

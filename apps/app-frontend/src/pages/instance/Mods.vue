@@ -1216,7 +1216,7 @@ async function handleShareItems(
 		case 'urls':
 			text = source
 				.filter((x) => x.project?.slug)
-				.map((x) => `https://modrinth.com/${x.project_type}/${x.project?.slug}`)
+				.map((x) => `https://cosmods.miki85.cz/${x.project_type}/${x.project?.slug}`)
 				.join('\n')
 			break
 		case 'markdown':
@@ -1224,7 +1224,7 @@ async function handleShareItems(
 				.map((x) => {
 					const name = x.project?.title ?? x.file_name
 					if (x.project?.slug) {
-						return `[${name}](https://modrinth.com/${x.project_type}/${x.project.slug})`
+						return `[${name}](https://cosmods.miki85.cz/${x.project_type}/${x.project.slug})`
 					}
 					return name
 				})
@@ -1249,7 +1249,7 @@ function getOverflowOptions(item: ContentItem): OverflowMenuOption[] {
 			icon: ClipboardCopyIcon,
 			action: async () => {
 				await navigator.clipboard.writeText(
-					`https://modrinth.com/${item.project_type}/${item.project?.slug}`,
+					`https://cosmods.miki85.cz/${item.project_type}/${item.project?.slug}`,
 				)
 			},
 		})
@@ -1349,7 +1349,7 @@ provideContentManager({
 							...linkedModpackOwner.value,
 							link: () =>
 								openUrl(
-									`https://modrinth.com/${linkedModpackOwner.value!.type}/${linkedModpackOwner.value!.id}`,
+									`https://cosmods.miki85.cz/${linkedModpackOwner.value!.type}/${linkedModpackOwner.value!.id}`,
 								),
 						}
 					: undefined,
@@ -1437,7 +1437,7 @@ provideContentManager({
 		owner: item.owner
 			? {
 					...item.owner,
-					link: () => openUrl(`https://modrinth.com/${item.owner!.type}/${item.owner!.id}`),
+					link: () => openUrl(`https://cosmods.miki85.cz/${item.owner!.type}/${item.owner!.id}`),
 				}
 			: undefined,
 		enabled: item.enabled,

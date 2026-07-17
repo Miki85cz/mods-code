@@ -61,12 +61,12 @@
 						<li v-for="item in errorMessages.list_items" :key="item">
 							<IntlFormatted :message-id="item">
 								<template #status-link="{ children }">
-									<a href="https://status.modrinth.com" target="_blank" rel="noopener">
+									<a href="https://status.cosmods.miki85.cz" target="_blank" rel="noopener">
 										<component :is="() => normalizeChildren(children)" />
 									</a>
 								</template>
 								<template #discord-link="{ children }">
-									<a href="https://discord.modrinth.com" target="_blank" rel="noopener">
+									<a href="https://discord.cosmods.miki85.cz" target="_blank" rel="noopener">
 										<component :is="() => normalizeChildren(children)" />
 									</a>
 								</template>

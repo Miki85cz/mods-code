@@ -29,9 +29,9 @@ pub async fn search_users_returns_compact_prefix_matches_with_exact_first() {
                 "
                 INSERT INTO users (id, username, email, role)
                 VALUES
-                    (1000, 'userland', 'userland@modrinth.com', 'developer'),
-                    (1001, 'useful', 'useful@modrinth.com', 'developer'),
-                    (1002, 'Useless', 'useless@modrinth.com', 'developer')
+                    (1000, 'userland', 'userland@cosmods.miki85.cz', 'developer'),
+                    (1001, 'useful', 'useful@cosmods.miki85.cz', 'developer'),
+                    (1002, 'Useless', 'useless@cosmods.miki85.cz', 'developer')
                 ",
             )
             .execute(&*test_env.db.pool)
@@ -72,7 +72,7 @@ pub async fn search_users_escapes_wildcards_and_limits_results() {
                     ",
                     2000 + i,
                     format!("prefix{i:02}"),
-                    format!("prefix{i:02}@modrinth.com"),
+                    format!("prefix{i:02}@cosmods.miki85.cz"),
                 )
                 .execute(&*test_env.db.pool)
                 .await
@@ -82,7 +82,7 @@ pub async fn search_users_escapes_wildcards_and_limits_results() {
             sqlx::query!(
                 "
                 INSERT INTO users (id, username, email, role)
-                VALUES (2100, 'prefix_under_score', 'prefix_under_score@modrinth.com', 'developer')
+                VALUES (2100, 'prefix_under_score', 'prefix_under_score@cosmods.miki85.cz', 'developer')
                 ",
             )
             .execute(&*test_env.db.pool)

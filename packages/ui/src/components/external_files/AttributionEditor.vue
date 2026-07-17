@@ -482,8 +482,8 @@ function cancelEditing() {
 			/>
 			<span
 				v-if="
-					linkInput.startsWith('https://modrinth.com/') ||
-					linkInput.startsWith('https://www.modrinth.com/')
+					linkInput.startsWith('https://cosmods.miki85.cz/') ||
+					linkInput.startsWith('https://www.cosmods.miki85.cz/')
 				"
 				class="flex text-orange gap-2 font-medium mt-2"
 			>

@@ -46,4 +46,8 @@ export default defineConfig({
 			external: ['vue'],
 		},
 	},
-})
+
+	server: {
+		allowedHosts: true,
+	},
+}),

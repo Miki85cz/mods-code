@@ -76,7 +76,7 @@
 					</ul>
 				</div>
 				<ButtonStyled size="large" type="standard" color="brand">
-					<AutoLink class="mt-6 !w-full" to="https://support.modrinth.com">{{
+					<AutoLink class="mt-6 !w-full" to="https://support.cosmods.miki85.cz">{{
 						formatMessage(messages.contactSupportButton)
 					}}</AutoLink>
 				</ButtonStyled>

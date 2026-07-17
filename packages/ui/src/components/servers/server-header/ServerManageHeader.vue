@@ -137,7 +137,7 @@ const userPreferences = useStorage(`pyro-server-${serverId}-preferences`, {
 
 const headerImage = computed(() => {
 	if (props.server?.is_medal) {
-		return 'https://cdn-raw.modrinth.com/medal_icon.webp'
+		return 'https://cdn-raw.cosmods.miki85.cz/medal_icon.webp'
 	}
 	return props.serverImage ?? undefined
 })

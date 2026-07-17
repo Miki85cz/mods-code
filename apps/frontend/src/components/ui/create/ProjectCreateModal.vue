@@ -47,7 +47,7 @@
 					{{ formatMessage(messages.urlLabel) }}
 				</span>
 				<div class="text-input-wrapper !w-full">
-					<div class="text-input-wrapper__before">https://modrinth.com/project/</div>
+					<div class="text-input-wrapper__before">https://cosmods.miki85.cz/project/</div>
 					<StyledInput
 						id="slug"
 						v-model="slug"

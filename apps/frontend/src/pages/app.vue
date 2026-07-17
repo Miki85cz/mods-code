@@ -55,7 +55,7 @@ const linuxLinks = reactive({
 	appImage: null as string | null,
 	deb: null as string | null,
 	rpm: null as string | null,
-	thirdParty: 'https://support.modrinth.com/en/articles/9298760',
+	thirdParty: 'https://support.cosmods.miki85.cz/en/articles/9298760',
 })
 
 const macLinks = reactive({
@@ -73,7 +73,7 @@ const rows = [
 ]
 
 const { data: launcherUpdates } = await useFetch<LauncherUpdates>(
-	'https://launcher-files.modrinth.com/updates.json?new',
+	'https://launcher-files.cosmods.miki85.cz/updates.json?new',
 	{
 		server: false,
 		getCachedData(key, nuxtApp) {
@@ -137,28 +137,28 @@ const modManagementData = [
 		name: 'Fabric API',
 		author: 'modmuss50',
 		version: '0.86.1+1.20.1',
-		iconUrl: 'https://cdn.modrinth.com/data/P7dR8mSH/icon.png',
+		iconUrl: 'https://cdn.cosmods.miki85.cz/data/P7dR8mSH/icon.png',
 	},
 	{
 		id: 'AANobbMI',
 		name: 'Sodium',
 		author: 'jellysquid3',
 		version: 'mc1.20.1-0.5.0',
-		iconUrl: 'https://cdn.modrinth.com/data/AANobbMI/icon.png',
+		iconUrl: 'https://cdn.cosmods.miki85.cz/data/AANobbMI/icon.png',
 	},
 	{
 		id: 'YL57xq9U',
 		name: 'Iris Shaders',
 		author: 'coderbot',
 		version: '1.6.5+1.20.1',
-		iconUrl: 'https://cdn.modrinth.com/data/YL57xq9U/dc558eece920db435f9823ce86de0c4cde89800b.png',
+		iconUrl: 'https://cdn.cosmods.miki85.cz/data/YL57xq9U/dc558eece920db435f9823ce86de0c4cde89800b.png',
 	},
 	{
 		id: 'gvQqBUqZ',
 		name: 'Lithium',
 		author: 'jellysquid3',
 		version: 'mc1.20.1-0.11.2',
-		iconUrl: 'https://cdn.modrinth.com/data/gvQqBUqZ/icon.png',
+		iconUrl: 'https://cdn.cosmods.miki85.cz/data/gvQqBUqZ/icon.png',
 	},
 	{
 		id: 'mOgUt4GM',
@@ -166,28 +166,28 @@ const modManagementData = [
 		author: 'Prospector',
 		version: '7.2.1',
 		iconUrl:
-			'https://cdn.modrinth.com/data/mOgUt4GM/1bfe2006b38340e9d064700e41adf84a8abb1bd4_96.webp',
+			'https://cdn.cosmods.miki85.cz/data/mOgUt4GM/1bfe2006b38340e9d064700e41adf84a8abb1bd4_96.webp',
 	},
 	{
 		id: '9s6osm5g',
 		name: 'Cloth Config API',
 		author: 'shedaniel',
 		version: '11.1.106+fabric',
-		iconUrl: 'https://cdn.modrinth.com/data/9s6osm5g/icon.png',
+		iconUrl: 'https://cdn.cosmods.miki85.cz/data/9s6osm5g/icon.png',
 	},
 	{
 		id: 'lhGA9TYQ',
 		name: 'Architectury API',
 		author: 'shedaniel',
 		version: '9.1.12+fabric',
-		iconUrl: 'https://cdn.modrinth.com/data/lhGA9TYQ/icon.png',
+		iconUrl: 'https://cdn.cosmods.miki85.cz/data/lhGA9TYQ/icon.png',
 	},
 	{
 		id: 'nrJ2NpD0',
 		name: 'Craftify',
 		author: 'ThatGravyBoat',
 		version: '8.5.2023',
-		iconUrl: 'https://cdn.modrinth.com/data/nrJ2NpD0/4f21214db060ed4542b1f3983c4113d293480a1b.webp',
+		iconUrl: 'https://cdn.cosmods.miki85.cz/data/nrJ2NpD0/4f21214db060ed4542b1f3983c4113d293480a1b.webp',
 	},
 ]
 
@@ -561,7 +561,7 @@ useSeoMeta({
 					</button>
 				</ButtonStyled>
 			</div>
-			<img src="https://cdn-raw.modrinth.com/app-landing/app-screenshot.webp" alt="" />
+			<img src="https://cdn-raw.cosmods.miki85.cz/app-landing/app-screenshot.webp" alt="" />
 			<div class="bottom-transition" />
 		</div>
 		<div class="features">
@@ -621,12 +621,12 @@ useSeoMeta({
 						<p>{{ formatMessage(messages.playWithFavoriteModsDescription) }}</p>
 					</div>
 					<img
-						src="https://cdn-raw.modrinth.com/app-landing/cobblemon-launcher.webp"
+						src="https://cdn-raw.cosmods.miki85.cz/app-landing/cobblemon-launcher.webp"
 						:alt="formatMessage(messages.appScreenshotAlt)"
 						class="launcher"
 					/>
 					<img
-						src="https://cdn-raw.modrinth.com/app-landing/cobblemon.webp"
+						src="https://cdn-raw.cosmods.miki85.cz/app-landing/cobblemon.webp"
 						:alt="formatMessage(messages.minecraftScreenshotAlt)"
 						class="minecraft"
 					/>
@@ -638,7 +638,7 @@ useSeoMeta({
 							<div class="cell">
 								<Avatar
 									size="sm"
-									src="https://cdn.modrinth.com/data/3ufwT9JF/2a15f23b7ffa2d50fc6ae1c42029a728ce3e2847.jpeg"
+									src="https://cdn.cosmods.miki85.cz/data/3ufwT9JF/2a15f23b7ffa2d50fc6ae1c42029a728ce3e2847.jpeg"
 								/>
 							</div>
 							<div class="cell">Ad Astra</div>
@@ -650,7 +650,7 @@ useSeoMeta({
 							<div class="cell">
 								<Avatar
 									size="sm"
-									src="https://cdn.modrinth.com/data/b1LdOZlE/465598dc5d89f67fb8f8de6def21240fa35e3a54.png"
+									src="https://cdn.cosmods.miki85.cz/data/b1LdOZlE/465598dc5d89f67fb8f8de6def21240fa35e3a54.png"
 								/>
 							</div>
 							<div class="cell">Spirit</div>
@@ -664,7 +664,7 @@ useSeoMeta({
 							<div class="cell">
 								<Avatar
 									size="sm"
-									src="https://cdn.modrinth.com/data/MI1LWe93/d42fb7a69f1e7a86584fa1ed43520af98acec065.png"
+									src="https://cdn.cosmods.miki85.cz/data/MI1LWe93/d42fb7a69f1e7a86584fa1ed43520af98acec065.png"
 								/>
 							</div>
 							<div class="cell">Creeper Overhaul</div>
@@ -677,7 +677,7 @@ useSeoMeta({
 					</p>
 					<div class="export-card">
 						<Avatar
-							src="https://cdn.modrinth.com/data/mY0lOQFc/81c6eff2b86220e12e62a4ad0d2f364a605c42c4.png"
+							src="https://cdn.cosmods.miki85.cz/data/mY0lOQFc/81c6eff2b86220e12e62a4ad0d2f364a605c42c4.png"
 						/>
 						<div class="info">
 							<div class="exporting">
@@ -1207,7 +1207,7 @@ useSeoMeta({
 <style scoped lang="scss">
 .landing-hero {
 	position: relative;
-	background: #0f1121 url('https://cdn-raw.modrinth.com/app-landing/cube-black.png') no-repeat
+	background: #0f1121 url('https://cdn-raw.cosmods.miki85.cz/app-landing/cube-black.png') no-repeat
 		center 4rem;
 	background-size: cover;
 	padding: 6rem 1rem 12rem 1rem;
@@ -2385,7 +2385,7 @@ useSeoMeta({
 	}
 
 	.landing-hero {
-		background: url('https://cdn-raw.modrinth.com/app-landing/cube-light.png') no-repeat center 4rem;
+		background: url('https://cdn-raw.cosmods.miki85.cz/app-landing/cube-light.png') no-repeat center 4rem;
 		background-size: cover;
 	}
 

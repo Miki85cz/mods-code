@@ -73,7 +73,7 @@ const sharedCpus = computed(() => {
 			<AutoLink
 				v-tooltip="formatMessage(messages.burstTooltip)"
 				class="flex"
-				to="https://modrinth.com/hosting#cpu-burst"
+				to="https://cosmods.miki85.cz/hosting#cpu-burst"
 				target="_blank"
 				@click="() => emit('click-bursting-link')"
 			>

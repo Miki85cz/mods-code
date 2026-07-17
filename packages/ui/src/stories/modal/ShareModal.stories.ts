@@ -24,7 +24,7 @@ export const LinkShare: Story = {
 		setup() {
 			const modalRef = ref<InstanceType<typeof ShareModal> | null>(null)
 			const openModal = () => {
-				modalRef.value?.show('https://modrinth.com')
+				modalRef.value?.show('https://cosmods.miki85.cz')
 			}
 			return { args, modalRef, openModal }
 		},
@@ -51,7 +51,7 @@ export const TextShare: Story = {
 		setup() {
 			const modalRef = ref<InstanceType<typeof ShareModal> | null>(null)
 			const openModal = () => {
-				modalRef.value?.show('https://modrinth.com')
+				modalRef.value?.show('https://cosmods.miki85.cz')
 			}
 			return { args, modalRef, openModal }
 		},

@@ -7,7 +7,7 @@ import StyledEmail from '../shared/StyledEmail.vue'
 <template>
 	<StyledEmail
 		title="You've disabled two-factor authentication security on your account."
-		:manual-links="[{ link: 'https://support.modrinth.com', label: 'Support Portal' }]"
+		:manual-links="[{ link: 'https://support.cosmods.miki85.cz', label: 'Support Portal' }]"
 	>
 		<Heading as="h1" class="mb-2 text-2xl font-bold">
 			You've disabled two-factor authentication security on your account.
@@ -19,7 +19,7 @@ import StyledEmail from '../shared/StyledEmail.vue'
 		</Text>
 		<Text class="text-muted text-base">
 			If you did not make this change, please contact us immediately through our
-			<VLink href="https://support.modrinth.com" class="text-green underline">Support Portal</VLink
+			<VLink href="https://support.cosmods.miki85.cz" class="text-green underline">Support Portal</VLink
 			>.
 		</Text>
 	</StyledEmail>

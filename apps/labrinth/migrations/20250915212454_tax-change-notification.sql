@@ -15,7 +15,7 @@ VALUES
 		'email',
 		'tax_notification',
 		'Your subscription''s tax is changing',
-		'https://modrinth.com/email/subscription-tax-change',
+		'https://cosmods.miki85.cz/email/subscription-tax-change',
 		CONCAT(
 			'Hi {user.name},',
 			CHR(10),

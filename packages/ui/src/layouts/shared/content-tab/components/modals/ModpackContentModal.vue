@@ -249,7 +249,7 @@ const tableItems = computed<ContentCardTableItem[]>(() =>
 		owner: item.owner
 			? {
 					...item.owner,
-					link: `https://modrinth.com/${item.owner.type}/${item.owner.id}`,
+					link: `https://cosmods.miki85.cz/${item.owner.type}/${item.owner.id}`,
 				}
 			: undefined,
 		...(props.enableToggle ? { enabled: item.enabled } : {}),

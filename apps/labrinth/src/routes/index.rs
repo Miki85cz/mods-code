@@ -5,7 +5,7 @@ fn build_info() -> serde_json::Value {
     json!({
         "name": "modrinth-labrinth",
         "version": env!("CARGO_PKG_VERSION"),
-        "documentation": "https://docs.modrinth.com",
+        "documentation": "https://docs.cosmods.miki85.cz",
         "about": "Welcome traveler!",
 
         "build_info": {

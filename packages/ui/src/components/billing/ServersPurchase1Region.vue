@@ -282,7 +282,7 @@ onMounted(() => {
 							class="text-link"
 							target="_blank"
 							rel="noopener noreferrer"
-							href="https://surveys.modrinth.com/servers-region-waitlist"
+							href="https://surveys.cosmods.miki85.cz/servers-region-waitlist"
 						>
 							<component :is="() => children" />
 						</a>

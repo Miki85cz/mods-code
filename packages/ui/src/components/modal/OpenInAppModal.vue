@@ -97,7 +97,7 @@
 					<ButtonStyled color="brand">
 						<a
 							class="flex-1"
-							href="https://modrinth.com/app"
+							href="https://cosmods.miki85.cz/app"
 							target="_blank"
 							rel="noopener noreferrer"
 						>

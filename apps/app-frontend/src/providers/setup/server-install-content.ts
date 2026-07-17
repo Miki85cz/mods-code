@@ -100,7 +100,7 @@ function getQueuedInstallOwnerFallback(project: InstallableSearchResult) {
 			id: ownerId,
 			name: project.organization,
 			type: 'organization' as const,
-			link: `https://modrinth.com/organization/${ownerId}`,
+			link: `https://cosmods.miki85.cz/organization/${ownerId}`,
 		}
 	}
 
@@ -111,7 +111,7 @@ function getQueuedInstallOwnerFallback(project: InstallableSearchResult) {
 		id: ownerId,
 		name: project.author,
 		type: 'user' as const,
-		link: `https://modrinth.com/user/${ownerId}`,
+		link: `https://cosmods.miki85.cz/user/${ownerId}`,
 	}
 }
 
@@ -130,7 +130,7 @@ async function getQueuedInstallOwner(
 					name: organization.name,
 					type: 'organization' as const,
 					avatar_url: organization.icon_url ?? undefined,
-					link: `https://modrinth.com/organization/${organization.slug}`,
+					link: `https://cosmods.miki85.cz/organization/${organization.slug}`,
 				}
 			}
 		}
@@ -147,7 +147,7 @@ async function getQueuedInstallOwner(
 				name: owner.username,
 				type: 'user' as const,
 				avatar_url: owner.avatar_url,
-				link: `https://modrinth.com/user/${owner.username}`,
+				link: `https://cosmods.miki85.cz/user/${owner.username}`,
 			}
 		}
 	} catch {

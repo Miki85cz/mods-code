@@ -12,7 +12,7 @@ VALUES
 		'email',
 		'server_invite',
 		'You''ve been invited to a server',
-		'https://modrinth.com/_internal/templates/email/server-invited',
+		'https://cosmods.miki85.cz/_internal/templates/email/server-invited',
 		CONCAT(
 			'Hi {user.name},',
 			CHR(10),
@@ -20,9 +20,9 @@ VALUES
 			'Modrinth user {inviter.name} has invited you to help manage {server.name} on Modrinth Hosting with the {server.role} role.',
 			CHR(10),
 			CHR(10),
-			'To accept or reject this invitation, open your Modrinth notifications: https://modrinth.com/dashboard/notifications',
+			'To accept or reject this invitation, open your Modrinth notifications: https://cosmods.miki85.cz/dashboard/notifications',
 			CHR(10),
 			CHR(10),
-			'If you were not expecting this invitation, contact the server owner or reach out to Modrinth Support at https://support.modrinth.com'
+			'If you were not expecting this invitation, contact the server owner or reach out to Modrinth Support at https://support.cosmods.miki85.cz'
 		)
 	);

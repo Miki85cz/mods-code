@@ -23,7 +23,7 @@ const tailwindConfig = {
 				purple: '#8e32f3',
 				gray: '#595b61',
 				brand: {
-					DEFAULT: '#00af5c',
+					DEFAULT: '#0085ff',
 					highlight: 'rgba(0, 175, 92, 0.25)',
 					shadow: 'rgba(0, 175, 92, 0.7)',
 				},

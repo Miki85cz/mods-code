@@ -8,8 +8,8 @@ import StyledEmail from '../shared/StyledEmail.vue'
 	<StyledEmail
 		title="You've been invited to a server"
 		:manual-links="[
-			{ link: 'https://modrinth.com/dashboard/notifications', label: 'Notification dashboard' },
-			{ link: 'https://support.modrinth.com', label: 'Support Portal' },
+			{ link: 'https://cosmods.miki85.cz/dashboard/notifications', label: 'Notification dashboard' },
+			{ link: 'https://support.cosmods.miki85.cz', label: 'Support Portal' },
 		]"
 	>
 		<Heading as="h1" class="mb-2 text-2xl font-bold">You've been invited to a server</Heading>
@@ -19,7 +19,7 @@ import StyledEmail from '../shared/StyledEmail.vue'
 		<Text class="text-base">
 			Modrinth user
 			<b
-				><VLink href="https://modrinth.com/user/{inviter.name}" class="text-green underline">
+				><VLink href="https://cosmods.miki85.cz/user/{inviter.name}" class="text-green underline">
 					{inviter.name}
 				</VLink></b
 			>
@@ -35,16 +35,16 @@ import StyledEmail from '../shared/StyledEmail.vue'
 		</Section>
 
 		<Button
-			href="https://modrinth.com/dashboard/notifications"
+			href="https://cosmods.miki85.cz/dashboard/notifications"
 			target="_blank"
 			class="text-accentContrast inline-block rounded-[12px] bg-brand pb-3 pl-4 pr-4 pt-3 text-[14px] font-bold"
 		>
 			Review invitation
 		</Button>
 
-		<VLink href="https://modrinth.com/dashboard/notifications">
+		<VLink href="https://cosmods.miki85.cz/dashboard/notifications">
 			<Text class="text-muted mt-2 break-words text-xs font-bold"
-				>https://modrinth.com/dashboard/notifications</Text
+				>https://cosmods.miki85.cz/dashboard/notifications</Text
 			>
 		</VLink>
 
@@ -52,7 +52,7 @@ import StyledEmail from '../shared/StyledEmail.vue'
 			To accept or reject this invitation, open your Modrinth notifications and review the invite.
 			If you were not expecting this invitation, contact the server owner or reach out to Modrinth
 			Support
-			<VLink href="https://support.modrinth.com" class="text-green underline">
+			<VLink href="https://support.cosmods.miki85.cz" class="text-green underline">
 				through the Support Portal</VLink
 			>.
 		</Text>

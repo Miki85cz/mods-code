@@ -98,7 +98,7 @@ You can also export the table as a CSV to manipulate the data in other tools, wi
 
 ## Contributing analytics data
 
-Some of this data is only available due to support from the launcher or installer downloading the content. If you develop a website, app, or utility that uses the Modrinth CDN to download content, you can also send analytics data back to creators. When sending requests to `cdn.modrinth.com`, include the `modrinth-download-meta` header:
+Some of this data is only available due to support from the launcher or installer downloading the content. If you develop a website, app, or utility that uses the Modrinth CDN to download content, you can also send analytics data back to creators. When sending requests to `cdn.cosmods.miki85.cz`, include the `modrinth-download-meta` header:
 
 ```json
 {
@@ -116,9 +116,9 @@ Some of this data is only available due to support from the launcher or installe
 If using headers isn’t possible, or query parameters work better for your setup, you can also use `mr_`-prefixed query params instead like so:
 
 ```text
-https://cdn.modrinth.com/...?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=fabric
+https://cdn.cosmods.miki85.cz/...?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=fabric
 ```
 
 —
 
-We hope you’re as excited about this as we are! We're quite proud of this one. If you have any feedback, please let us know in the thread in our [Discord server](https://discord.modrinth.com)!
+We hope you’re as excited about this as we are! We're quite proud of this one. If you have any feedback, please let us know in the thread in our [Discord server](https://discord.cosmods.miki85.cz)!

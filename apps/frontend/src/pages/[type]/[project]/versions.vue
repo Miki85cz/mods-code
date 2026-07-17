@@ -118,7 +118,7 @@
 									id: 'copy-link',
 									action: () =>
 										copyToClipboard(
-											`https://modrinth.com/${project.project_type}/${
+											`https://cosmods.miki85.cz/${project.project_type}/${
 												project.slug ? project.slug : project.id
 											}/version/${encodeURI(version.displayUrlEnding ? version.displayUrlEnding : version.id)}`,
 										),

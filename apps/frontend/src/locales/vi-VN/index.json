@@ -3726,7 +3726,7 @@
     "message": "Xuất dữ liệu"
   },
   "settings.account.delete.confirm.description": {
-    "message": "Hành động này sẽ **ngay lập tức xóa toàn bộ dữ liệu người dùng và các theo dõi của bạn**. Các dự án của bạn sẽ không bị xóa. Việc xóa tài khoản là không thể hoàn tác.<br><br>Nếu bạn cần hỗ trợ về tài khoản, hãy liên hệ tại [server Discord của Modrinth](https://discord.modrinth.com)."
+    "message": "Hành động này sẽ **ngay lập tức xóa toàn bộ dữ liệu người dùng và các theo dõi của bạn**. Các dự án của bạn sẽ không bị xóa. Việc xóa tài khoản là không thể hoàn tác.<br><br>Nếu bạn cần hỗ trợ về tài khoản, hãy liên hệ tại [server Discord của Modrinth](https://discord.cosmods.miki85.cz)."
   },
   "settings.account.delete.confirm.proceed": {
     "message": "Xoá tài khoản này"
@@ -4059,7 +4059,7 @@
     "message": "năm"
   },
   "settings.billing.midas.benefits.ad-free": {
-    "message": "Duyệt web không quảng cáo trên modrinth.com và app Modrinth"
+    "message": "Duyệt web không quảng cáo trên cosmods.miki85.cz và app Modrinth"
   },
   "settings.billing.midas.benefits.badge": {
     "message": "Huy hiệu Modrinth+ trên hồ sơ của bạn"

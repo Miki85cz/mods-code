@@ -12,7 +12,7 @@
 				Do not transfer projects to buyers. This is a common scam and against our TOS. If you
 				encounter a buyer, please
 				<a
-					href="https://support.modrinth.com"
+					href="https://support.cosmods.miki85.cz"
 					target="_blank"
 					rel="noopener noreferrer"
 					class="underline"

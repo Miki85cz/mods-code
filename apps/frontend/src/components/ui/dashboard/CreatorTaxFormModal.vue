@@ -124,7 +124,7 @@
 						<IntlFormatted :message-id="messages.confirmationSupportText">
 							<template #support-link="{ children }">
 								<nuxt-link
-									to="https://support.modrinth.com"
+									to="https://support.cosmods.miki85.cz"
 									class="text-link"
 									target="_blank"
 									rel="noopener noreferrer"

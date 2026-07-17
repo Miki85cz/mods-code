@@ -265,7 +265,7 @@
 					<template #markdown-link="{ children }">
 						<a
 							class="markdown-resource-link"
-							href="https://support.modrinth.com/en/articles/8801962-advanced-markdown-formatting"
+							href="https://support.cosmods.miki85.cz/en/articles/8801962-advanced-markdown-formatting"
 							target="_blank"
 						>
 							<component :is="() => children" />

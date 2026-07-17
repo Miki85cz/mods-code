@@ -3873,7 +3873,7 @@
     "message": "Adatok exportálása"
   },
   "settings.account.delete.confirm.description": {
-    "message": "Ez **azonnal törli az összes felhasználói adatodat és követőidet**. A projektjeid nem kerülnek törlésre. A fiók törlése visszafordíthatatlan.<br><br>Ha segítségre van szükséged a fiókoddal kapcsolatban, kérj támogatást a [Modrinth Discord](https://discord.modrinth.com)on."
+    "message": "Ez **azonnal törli az összes felhasználói adatodat és követőidet**. A projektjeid nem kerülnek törlésre. A fiók törlése visszafordíthatatlan.<br><br>Ha segítségre van szükséged a fiókoddal kapcsolatban, kérj támogatást a [Modrinth Discord](https://discord.cosmods.miki85.cz)on."
   },
   "settings.account.delete.confirm.proceed": {
     "message": "Fiók törlése"
@@ -4206,7 +4206,7 @@
     "message": "év"
   },
   "settings.billing.midas.benefits.ad-free": {
-    "message": "Reklámmentes böngészés a modrinth.com-on és a Modrinth App-ban"
+    "message": "Reklámmentes böngészés a cosmods.miki85.cz-on és a Modrinth App-ban"
   },
   "settings.billing.midas.benefits.badge": {
     "message": "Modrinth+ jelvény a profilodon"

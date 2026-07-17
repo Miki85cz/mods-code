@@ -1,1 +1,1 @@
-Modrinth does not permit the distribution of external content that violates section 3 of [Modrinth's Content Rules](https://modrinth.com/legal/rules).
+Modrinth does not permit the distribution of external content that violates section 3 of [Modrinth's Content Rules](https://cosmods.miki85.cz/legal/rules).

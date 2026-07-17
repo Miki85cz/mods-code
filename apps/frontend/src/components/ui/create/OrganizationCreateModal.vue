@@ -27,7 +27,7 @@
 					</span>
 				</label>
 				<div class="text-input-wrapper">
-					<div class="text-input-wrapper__before">https://modrinth.com/organization/</div>
+					<div class="text-input-wrapper__before">https://cosmods.miki85.cz/organization/</div>
 					<StyledInput
 						id="slug"
 						v-model="slug"

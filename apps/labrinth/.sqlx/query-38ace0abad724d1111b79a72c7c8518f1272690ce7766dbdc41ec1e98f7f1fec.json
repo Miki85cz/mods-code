@@ -1,6 +1,6 @@
 {
   "db_name": "PostgreSQL",
-  "query": "\n                INSERT INTO users (id, username, email, role)\n                VALUES (2100, 'prefix_under_score', 'prefix_under_score@modrinth.com', 'developer')\n                ",
+  "query": "\n                INSERT INTO users (id, username, email, role)\n                VALUES (2100, 'prefix_under_score', 'prefix_under_score@cosmods.miki85.cz', 'developer')\n                ",
   "describe": {
     "columns": [],
     "parameters": {

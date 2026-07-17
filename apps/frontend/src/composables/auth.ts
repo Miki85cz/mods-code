@@ -237,5 +237,5 @@ export const getLauncherRedirectUrl = (route: LauncherRoute) => {
 
 	return usesLocalhostRedirectionScheme
 		? `http://${ipver === '4' ? '127.0.0.1' : '[::1]'}:${port}`
-		: 'https://launcher-files.modrinth.com'
+		: 'https://launcher-files.cosmods.miki85.cz'
 }

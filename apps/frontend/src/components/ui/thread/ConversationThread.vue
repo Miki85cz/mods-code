@@ -63,7 +63,7 @@
 				<p class="m-0">
 					<IntlFormatted :message-id="messages.replyModalHelpCenterNote">
 						<template #help-center-link="{ children }">
-							<a class="text-link" href="https://support.modrinth.com" target="_blank">
+							<a class="text-link" href="https://support.cosmods.miki85.cz" target="_blank">
 								<component :is="() => children" />
 							</a>
 						</template>

@@ -58,7 +58,7 @@ const props = withDefaults(
 		ownerAvatarUrlBase?: string
 	}>(),
 	{
-		ownerAvatarUrlBase: 'https://modrinth.com',
+		ownerAvatarUrlBase: 'https://cosmods.miki85.cz',
 	},
 )
 
@@ -1365,7 +1365,7 @@ function getOverflowOptions(item: ContentItem) {
 			icon: ClipboardCopyIcon,
 			action: async () => {
 				await navigator.clipboard.writeText(
-					`https://modrinth.com/${item.project_type}/${item.project?.slug}`,
+					`https://cosmods.miki85.cz/${item.project_type}/${item.project?.slug}`,
 				)
 			},
 		})

@@ -170,7 +170,7 @@ const BADGES = [
 			},
 		],
 		link: {
-			href: 'https://modrinth.com/news/article/modrinth-beta/',
+			href: 'https://cosmods.miki85.cz/news/article/modrinth-beta/',
 			message: defineMessage({
 				id: 'user.profile.badge.beta.link',
 				defaultMessage: `Click to read about the launch of Modrinth Beta.`,
@@ -199,7 +199,7 @@ const BADGES = [
 			},
 		],
 		link: {
-			href: 'https://modrinth.com/plus',
+			href: 'https://cosmods.miki85.cz/plus',
 			message: defineMessage({
 				id: 'user.profile.badge.plus.link',
 				defaultMessage: `Click to learn more about how you can become a member.`,
@@ -224,7 +224,7 @@ const BADGES = [
 			},
 		],
 		link: {
-			href: 'https://modrinth.com/pride?from=badge',
+			href: 'https://cosmods.miki85.cz/pride?from=badge',
 			message: defineMessage({
 				id: 'user.profile.badge.pride.link',
 				defaultMessage: `Click to visit our latest Pride fundraiser.`,

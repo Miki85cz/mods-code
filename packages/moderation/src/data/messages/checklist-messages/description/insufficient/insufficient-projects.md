@@ -4,5 +4,5 @@ Per section 2.1 of %RULES%, your project's %PROJECT_DESCRIPTION_FLINK% should cl
 
 Currently, it looks like there are some missing details.
 
-What does your project add? What features does it have? Why would a user want to download it?  
-Check out descriptions like [Sodium](https://modrinth.com/mod/sodium) or [The Aether](https://modrinth.com/mod/aether) for inspiration when creating a quality and informative description.
+What does your project add? What features does it have? Why would a user want to download it?
+Check out descriptions like [Sodium](https://cosmods.miki85.cz/mod/sodium) or [The Aether](https://cosmods.miki85.cz/mod/aether) for inspiration when creating a quality and informative description.

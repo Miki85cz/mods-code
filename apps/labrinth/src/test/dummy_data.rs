@@ -64,9 +64,9 @@ impl TestFile {
               "user"
             ],
             "contact": {
-              "homepage": "https://www.modrinth.com",
-              "sources": "https://www.modrinth.com",
-              "issues": "https://www.modrinth.com"
+              "homepage": "https://www.cosmods.miki85.cz",
+              "sources": "https://www.cosmods.miki85.cz",
+              "issues": "https://www.cosmods.miki85.cz"
             },
 
             "license": "MIT",
@@ -133,7 +133,7 @@ impl TestFile {
                         "server": "required"
                     },
                     "downloads": [
-                        "https://cdn.modrinth.com/data/PRN43VSY/versions/uNgEPb10/animatica-0.6%2B1.20.jar"
+                        "https://cdn.cosmods.miki85.cz/data/PRN43VSY/versions/uNgEPb10/animatica-0.6%2B1.20.jar"
                     ],
                     "fileSize": 69810
                 }

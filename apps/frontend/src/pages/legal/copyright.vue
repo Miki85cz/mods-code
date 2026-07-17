@@ -44,7 +44,7 @@
 			&emsp;Suite 304 #3133<br />
 			&emsp;Wilmington, DE 19801<br />
 			&emsp;Phone: +1 (201) 431-5015<br />
-			&emsp;<a href="mailto:dmca@modrinth.com">dmca@modrinth.com</a><br />
+			&emsp;<a href="mailto:dmca@cosmods.miki85.cz">dmca@cosmods.miki85.cz</a><br />
 		</p>
 		<p>
 			If you fail to comply with all of the requirements of Section 512(c)(3) of the DMCA, your DMCA

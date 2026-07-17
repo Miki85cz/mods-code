@@ -534,7 +534,7 @@ const messages = defineMessages({
 	deleteAccountConfirmDescription: {
 		id: 'settings.account.delete.confirm.description',
 		defaultMessage:
-			'This will **immediately delete all of your user data and follows**. This will not delete your projects. Deleting your account cannot be reversed.<br><br>If you need help with your account, get support on the [Modrinth Discord](https://discord.modrinth.com).',
+			'This will **immediately delete all of your user data and follows**. This will not delete your projects. Deleting your account cannot be reversed.<br><br>If you need help with your account, get support on the [Modrinth Discord](https://discord.cosmods.miki85.cz).',
 	},
 	deleteAccountConfirmProceed: {
 		id: 'settings.account.delete.confirm.proceed',

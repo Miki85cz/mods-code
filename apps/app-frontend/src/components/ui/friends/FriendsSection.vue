@@ -54,7 +54,7 @@ function createContextMenuOptions(friend: FriendWithUserData) {
 }
 
 function openProfile(username: string) {
-	openUrl('https://modrinth.com/user/' + username)
+	openUrl('https://cosmods.miki85.cz/user/' + username)
 }
 
 const friendOptions = useTemplateRef('friendOptions')

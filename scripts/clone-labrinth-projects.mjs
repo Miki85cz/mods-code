@@ -2,7 +2,7 @@
 import { readFile } from 'node:fs/promises'
 import { basename, extname, resolve } from 'node:path'
 
-const DEFAULT_PROD_API = 'https://api.modrinth.com/v3'
+const DEFAULT_PROD_API = 'https://api.cosmods.miki85.cz/v3'
 const DEFAULT_LOCAL_API = 'http://127.0.0.1:8000/v3'
 const DEFAULT_TOKEN_FIXTURE =
 	new URL('../apps/labrinth/fixtures/labrinth-seed-data-202508052143.sql', import.meta.url)

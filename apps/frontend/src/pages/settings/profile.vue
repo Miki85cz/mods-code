@@ -5,7 +5,7 @@
 			<p class="mb-4">
 				<IntlFormatted :message-id="messages.description">
 					<template #docs-link="{ children }">
-						<a href="https://docs.modrinth.com/" target="_blank" class="text-link">
+						<a href="https://docs.cosmods.miki85.cz/" target="_blank" class="text-link">
 							<component :is="() => children" />
 						</a>
 					</template>
@@ -196,7 +196,7 @@ function showPreviewImage(files) {
 
 function removePreviewImage() {
 	pendingAvatarDeletion.value = true
-	previewImage.value = 'https://cdn.modrinth.com/placeholder.png'
+	previewImage.value = 'https://cdn.cosmods.miki85.cz/placeholder.png'
 }
 
 async function save() {

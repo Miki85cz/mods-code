@@ -3663,7 +3663,7 @@
     "message": "Gegevens exporteren"
   },
   "settings.account.delete.confirm.description": {
-    "message": "Hierdoor worden **onmiddellijk al je gebruikersgegevens en volgers verwijderd**. Je projecten worden hierdoor niet verwijderd. Het verwijderen van je account kan niet ongedaan worden gemaakt.<br><br>Als je hulp nodig hebt met je account, kun je ondersteuning krijgen op de [Modrinth Discord](https://discord.modrinth.com)."
+    "message": "Hierdoor worden **onmiddellijk al je gebruikersgegevens en volgers verwijderd**. Je projecten worden hierdoor niet verwijderd. Het verwijderen van je account kan niet ongedaan worden gemaakt.<br><br>Als je hulp nodig hebt met je account, kun je ondersteuning krijgen op de [Modrinth Discord](https://discord.cosmods.miki85.cz)."
   },
   "settings.account.delete.confirm.proceed": {
     "message": "Je account verwijderen"
@@ -3987,7 +3987,7 @@
     "message": "jaar"
   },
   "settings.billing.midas.benefits.ad-free": {
-    "message": "Reclamevrij surfen op modrinth.com en in de Modrinth app"
+    "message": "Reclamevrij surfen op cosmods.miki85.cz en in de Modrinth app"
   },
   "settings.billing.midas.benefits.badge": {
     "message": "Modrinth+ badge op je profiel"

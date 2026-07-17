@@ -1,4 +1,4 @@
-const MODRINTH_ORIGIN = 'https://modrinth.com'
+const MODRINTH_ORIGIN = 'https://cosmods.miki85.cz'
 
 document.addEventListener(
 	'click',

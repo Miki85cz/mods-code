@@ -30,8 +30,8 @@
 			<ProjectSidebarCreators
 				:organization="organization"
 				:members="members"
-				:org-link="(slug) => `https://modrinth.com/organization/${slug}`"
-				:user-link="(username) => `https://modrinth.com/user/${username}`"
+				:org-link="(slug) => `https://cosmods.miki85.cz/organization/${slug}`"
+				:user-link="(username) => `https://cosmods.miki85.cz/user/${username}`"
 				link-target="_blank"
 				class="project-sidebar-section"
 			/>
@@ -100,7 +100,7 @@
 								:options="[
 									{
 										id: 'open-in-browser',
-										link: `https://modrinth.com/project/${data.slug}`,
+										link: `https://cosmods.miki85.cz/project/${data.slug}`,
 										external: true,
 									},
 									{
@@ -110,7 +110,7 @@
 										id: 'report',
 										color: 'red',
 										hoverFilled: true,
-										link: `https://modrinth.com/report?item=project&itemID=${data.id}`,
+										link: `https://cosmods.miki85.cz/report?item=project&itemID=${data.id}`,
 									},
 								]"
 								aria-label="More options"
@@ -169,7 +169,7 @@
 									},
 									{
 										id: 'open-in-browser',
-										link: `https://modrinth.com/${data.project_type}/${data.slug}`,
+										link: `https://cosmods.miki85.cz/${data.project_type}/${data.slug}`,
 										external: true,
 									},
 									{
@@ -179,7 +179,7 @@
 										id: 'report',
 										color: 'red',
 										hoverFilled: true,
-										link: `https://modrinth.com/report?item=project&itemID=${data.id}`,
+										link: `https://cosmods.miki85.cz/report?item=project&itemID=${data.id}`,
 									},
 								]"
 								aria-label="More options"
@@ -819,11 +819,11 @@ const handleOptionsClick = (args) => {
 			install(null)
 			break
 		case 'open_link':
-			openUrl(`https://modrinth.com/${args.item.project_type}/${args.item.slug}`)
+			openUrl(`https://cosmods.miki85.cz/${args.item.project_type}/${args.item.slug}`)
 			break
 		case 'copy_link':
 			navigator.clipboard.writeText(
-				`https://modrinth.com/${args.item.project_type}/${args.item.slug}`,
+				`https://cosmods.miki85.cz/${args.item.project_type}/${args.item.slug}`,
 			)
 			break
 	}

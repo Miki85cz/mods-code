@@ -6,7 +6,7 @@ import svgLoader from 'vite-svg-loader'
 
 import { GenericModrinthClient, type Labrinth } from '../../packages/api-client/src/index.ts'
 
-const STAGING_API_URL = 'https://staging-api.modrinth.com/v2/'
+const STAGING_API_URL = 'https://staging-api.cosmods.miki85.cz/v2/'
 const API_CLIENT_SOURCE = fileURLToPath(
 	new URL('../../packages/api-client/src/index.ts', import.meta.url),
 )
@@ -24,8 +24,8 @@ const favicons = {
 	'(prefers-color-scheme:dark)': '/favicon.ico',
 }
 
-const PROD_MODRINTH_URL = 'https://modrinth.com'
-const STAGING_MODRINTH_URL = 'https://staging.modrinth.com'
+const PROD_MODRINTH_URL = 'https://cosmods.miki85.cz'
+const STAGING_MODRINTH_URL = 'https://staging.cosmods.miki85.cz'
 
 export default defineNuxtConfig({
 	srcDir: 'src/',
@@ -43,7 +43,7 @@ export default defineNuxtConfig({
 				...preloadedFonts.map((font): object => {
 					return {
 						rel: 'preload',
-						href: `https://cdn-raw.modrinth.com/fonts/${font}?v=3.19`,
+						href: `https://cdn-raw.cosmods.miki85.cz/fonts/${font}?v=3.19`,
 						as: 'font',
 						type: 'font/woff2',
 						crossorigin: 'anonymous',
@@ -170,7 +170,7 @@ export default defineNuxtConfig({
 
 			const client = new GenericModrinthClient({
 				labrinthBaseUrl: API_URL.replace('/v2/', ''),
-				userAgent: 'Knossos generator (support@modrinth.com)',
+				userAgent: 'Knossos generator (support@cosmods.miki85.cz)',
 			})
 
 			const generatedState = await client.labrinth.state.build()

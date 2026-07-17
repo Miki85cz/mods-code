@@ -3240,7 +3240,7 @@
     "message": "데이터 내보내기"
   },
   "settings.account.delete.confirm.description": {
-    "message": "이 작업은 **모든 사용자 데이터와 팔로우 목록을 즉시 삭제합니다**. 단, 프로젝트는 삭제되지 않습니다. 계정 삭제는 되돌릴 수 없습니다.<br><br>계정 관련 도움이 필요하면 [Modrinth Discord](https://discord.modrinth.com)에서 도움을 받으세요."
+    "message": "이 작업은 **모든 사용자 데이터와 팔로우 목록을 즉시 삭제합니다**. 단, 프로젝트는 삭제되지 않습니다. 계정 삭제는 되돌릴 수 없습니다.<br><br>계정 관련 도움이 필요하면 [Modrinth Discord](https://discord.cosmods.miki85.cz)에서 도움을 받으세요."
   },
   "settings.account.delete.confirm.proceed": {
     "message": "계정 삭제"
@@ -3564,7 +3564,7 @@
     "message": "년"
   },
   "settings.billing.midas.benefits.ad-free": {
-    "message": "Modrinth App 및 modrinth.com에서 광고 없이 브라우징"
+    "message": "Modrinth App 및 cosmods.miki85.cz에서 광고 없이 브라우징"
   },
   "settings.billing.midas.benefits.badge": {
     "message": "프로필에 Modrinth+ 배지"

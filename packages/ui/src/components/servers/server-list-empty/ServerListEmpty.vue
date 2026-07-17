@@ -74,7 +74,7 @@
 					</ButtonStyled>
 
 					<AutoLink
-						to="https://modrinth.com/hosting"
+						to="https://cosmods.miki85.cz/hosting"
 						target="_blank"
 						class="flex items-center gap-1 hover:brightness-125"
 					>

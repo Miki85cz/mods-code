@@ -3606,7 +3606,7 @@
     "message": "Pengeksportan data"
   },
   "settings.account.delete.confirm.description": {
-    "message": "Ini akan **dengan segera memadamkan semua projek** dan ikutan anda. Ini tidak akan memadamkan projek anda. Pemadaman akaun anda tidak boleh dibatalkan.<br><br>Jika anda memerlukan bantuan dengan akaun anda, dapatkan sokongan di [Discord Modrinth](https://discord.modrinth.com)."
+    "message": "Ini akan **dengan segera memadamkan semua projek** dan ikutan anda. Ini tidak akan memadamkan projek anda. Pemadaman akaun anda tidak boleh dibatalkan.<br><br>Jika anda memerlukan bantuan dengan akaun anda, dapatkan sokongan di [Discord Modrinth](https://discord.cosmods.miki85.cz)."
   },
   "settings.account.delete.confirm.proceed": {
     "message": "Padam akaun ini"
@@ -3942,7 +3942,7 @@
     "message": "tahun"
   },
   "settings.billing.midas.benefits.ad-free": {
-    "message": "Pelayaran bebas iklan di modrinth.com dan Modrinth App"
+    "message": "Pelayaran bebas iklan di cosmods.miki85.cz dan Modrinth App"
   },
   "settings.billing.midas.benefits.badge": {
     "message": "Lencana Modrinth+ pada profil anda"

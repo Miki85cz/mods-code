@@ -122,7 +122,7 @@ impl FromStr for StringCsv {
 vars! {
     SENTRY_ENVIRONMENT: String = "development";
     SENTRY_TRACES_SAMPLE_RATE: f32 = 0.1f32;
-    SITE_URL: String = "http://localhost:3000";
+    SITE_URL: String = "https://cosmods.miki85.cz";
     CDN_URL: String = "file:///tmp/modrinth";
     LABRINTH_ADMIN_KEY: String = "";
     LABRINTH_MEDAL_KEY: String = "";
@@ -139,21 +139,21 @@ vars! {
     VERSION_INDEX_INTERVAL: u64 = 1800u64;
 
     WHITELISTED_MODPACK_DOMAINS: Json<Vec<String>> = Json(vec![
-        "cdn.modrinth.com".into(),
+        "cdn.cosmods.miki85.cz".into(),
         "github.com".into(),
         "raw.githubusercontent.com".into(),
     ]);
     ALLOWED_CALLBACK_URLS: Json<Vec<String>> = Json(vec![
         "localhost".into(),
-        ".modrinth.com".into(),
+        ".cosmods.miki85.cz".into(),
         "127.0.0.1".into(),
         "[::1]".into(),
     ]);
     ANALYTICS_ALLOWED_ORIGINS: Json<Vec<String>> = Json(vec![
         "http://127.0.0.1:3000".into(),
         "http://localhost:3000".into(),
-        "https://modrinth.com".into(),
-        "https://www.modrinth.com".into(),
+        "https://cosmods.miki85.cz".into(),
+        "https://www.cosmods.miki85.cz".into(),
         "*".into(),
     ]);
 
@@ -225,7 +225,7 @@ vars! {
     SMTP_PORT: u16 = 1025u16;
     SMTP_TLS: String = "none";
     SMTP_FROM_NAME: String = "Modrinth";
-    SMTP_FROM_ADDRESS: String = "no-reply@mail.modrinth.com";
+    SMTP_FROM_ADDRESS: String = "no-reply@mail.cosmods.miki85.cz";
 
     SITE_VERIFY_EMAIL_PATH: String = "auth/verify-email";
     SITE_RESET_PASSWORD_PATH: String = "auth/reset-password";

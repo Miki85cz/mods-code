@@ -71,7 +71,7 @@ export function useCdnDownloadContext() {
 		if (
 			typeof originalUrl !== 'string' ||
 			!originalUrl ||
-			!originalUrl.startsWith('https://cdn.modrinth.com')
+			!originalUrl.startsWith('https://cdn.cosmods.miki85.cz')
 		) {
 			return originalUrl
 		}

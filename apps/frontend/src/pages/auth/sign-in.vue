@@ -230,7 +230,7 @@ async function finishSignIn(sessionToken?: string | null) {
 
 		const redirectUrl = `${getLauncherRedirectUrl(route)}/?code=${token}`
 
-		if (redirectUrl.startsWith('https://launcher-files.modrinth.com/')) {
+		if (redirectUrl.startsWith('https://launcher-files.cosmods.miki85.cz/')) {
 			await navigateTo(redirectUrl, {
 				external: true,
 			})

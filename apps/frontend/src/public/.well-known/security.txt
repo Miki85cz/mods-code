@@ -1,6 +1,6 @@
-Contact: mailto:support@modrinth.com
+Contact: mailto:support@cosmods.miki85.cz
 Expires: 2026-12-31T00:00:00.000Z
 Preferred-Languages: en
-Canonical: https://modrinth.com/.well-known/security.txt
-Policy: https://modrinth.com/legal/security
-Hiring: https://careers.modrinth.com/
+Canonical: https://cosmods.miki85.cz/.well-known/security.txt
+Policy: https://cosmods.miki85.cz/legal/security
+Hiring: https://careers.cosmods.miki85.cz/

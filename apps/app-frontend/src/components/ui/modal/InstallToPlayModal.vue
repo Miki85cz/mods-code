@@ -277,7 +277,7 @@ function handleDecline() {
 
 function handleReport() {
 	if (project.value?.id) {
-		openUrl(`https://modrinth.com/report?item=project&itemID=${project.value.id}`)
+		openUrl(`https://cosmods.miki85.cz/report?item=project&itemID=${project.value.id}`)
 	}
 }
 

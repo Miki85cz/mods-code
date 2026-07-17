@@ -172,7 +172,7 @@ pub enum ProjectAnalyticsEventKind {
 
 // logic
 
-/// Fetch analytics data.  
+/// Fetch analytics data.
 #[utoipa::path(
 	context_path = "/analytics",
 	tag = "analytics",
@@ -928,7 +928,7 @@ mod tests {
                 Some(DownloadSource::Named("Prism Launcher".into())),
             ),
             (
-                "modrinth/theseus/0.8.6 (support@modrinth.com)",
+                "modrinth/theseus/0.8.6 (support@cosmods.miki85.cz)",
                 Some(DownloadSource::ModrinthApp),
             ),
             (

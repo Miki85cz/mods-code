@@ -190,7 +190,7 @@ impl EmailQueue {
         let mut futures = FuturesUnordered::new();
 
         // Some email notifications should still be processed sequentially. This is to avoid cache stampede in the
-        // case that processing the email can be heavy. For example, custom emails always make a POST request to modrinth.com,
+        // case that processing the email can be heavy. For example, custom emails always make a POST request to cosmods.miki85.cz,
         // which, while not necessarily slow, is subject to heavy rate limiting.
         let sequential_processing = Arc::new(Semaphore::new(1));
 

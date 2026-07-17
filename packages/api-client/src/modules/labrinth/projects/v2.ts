@@ -207,7 +207,7 @@ export class LabrinthProjectsV2Module extends AbstractModule {
 	 *
 	 * @example
 	 * ```typescript
-	 * await client.labrinth.projects_v2.editGalleryImage('sodium', 'https://cdn.modrinth.com/...', {
+	 * await client.labrinth.projects_v2.editGalleryImage('sodium', 'https://cdn.cosmods.miki85.cz/...', {
 	 *   featured: false,
 	 *   title: 'Updated title'
 	 * })
@@ -247,7 +247,7 @@ export class LabrinthProjectsV2Module extends AbstractModule {
 	 *
 	 * @example
 	 * ```typescript
-	 * await client.labrinth.projects_v2.deleteGalleryImage('sodium', 'https://cdn.modrinth.com/...')
+	 * await client.labrinth.projects_v2.deleteGalleryImage('sodium', 'https://cdn.cosmods.miki85.cz/...')
 	 * ```
 	 */
 	public async deleteGalleryImage(id: string, url: string): Promise<void> {

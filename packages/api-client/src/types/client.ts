@@ -38,7 +38,7 @@ export interface ClientConfig {
 
 	/**
 	 * Base URL for Labrinth API (main Modrinth API)
-	 * @default 'https://api.modrinth.com'
+	 * @default 'https://api.cosmods.miki85.cz'
 	 */
 	labrinthBaseUrl?: BaseUrlConfig
 
@@ -46,7 +46,7 @@ export interface ClientConfig {
 	 * Base URL for Archon API (Modrinth Hosting API)
 	 * Can be a callback so apps can drive this from runtime feature flags.
 	 *
-	 * @default 'https://archon.modrinth.com'
+	 * @default 'https://archon.cosmods.miki85.cz'
 	 */
 	archonBaseUrl?: BaseUrlConfig
 

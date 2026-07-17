@@ -74,8 +74,6 @@ export default defineConfig({
 	clearScreen: false,
 	// tauri expects a fixed port, fail if that port is not available
 	server: {
-		port: 1420,
-		strictPort: true,
 		headers: {
 			'content-security-policy': Object.entries(tauriConf.app.security.csp)
 				.map(([directive, sources]) => {
@@ -91,6 +89,7 @@ export default defineConfig({
 				})
 				.join('; '),
 		},
+		allowedHosts: true,
 	},
 	// to make use of `TAURI_ENV_DEBUG` and other env variables
 	// https://v2.tauri.app/reference/environment-variables/#tauri-cli-hook-commands

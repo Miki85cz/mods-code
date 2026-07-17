@@ -178,7 +178,7 @@ services:
       - '127.0.0.1:59999:59999'
     environment:
       LABRINTH_ENDPOINT: http://host.docker.internal:8000/_internal/delphi/ingest
-      LABRINTH_ADMIN_KEY: feedbeef
+      LABRINTH_ADMIN_KEY: feedthebeef
     healthcheck:
       test:
         ['CMD', 'wget', '-q', '-O/dev/null', 'http://localhost:59999/health']

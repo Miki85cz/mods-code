@@ -13,7 +13,7 @@
 			</div>
 			<template #actions>
 				<ButtonStyled color="blue">
-					<a href="https://modrinth.com/legal/cmp-info" target="_blank" class="w-fit !px-4">
+					<a href="https://cosmods.miki85.cz/legal/cmp-info" target="_blank" class="w-fit !px-4">
 						{{ formatMessage(analyticsStatCardMessages.monetizationBannerLearnMore) }}
 						<RightArrowIcon aria-hidden="true" />
 					</a>

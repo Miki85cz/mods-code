@@ -1,4 +1,4 @@
-export const STAGING_ARCHON_BASE_URL = 'https://staging-archon.modrinth.com/'
+export const STAGING_ARCHON_BASE_URL = 'https://staging-archon.cosmods.miki85.cz/'
 
 export function withStagingArchonBaseUrl(
 	baseUrl: string,

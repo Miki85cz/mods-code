@@ -35,7 +35,7 @@
 					</label>
 					<div class="text-input-wrapper !w-full">
 						<div class="text-input-wrapper__before">
-							<span class="hidden sm:inline">https://modrinth.com</span>/{{
+							<span class="hidden sm:inline">https://cosmods.miki85.cz</span>/{{
 								$getProjectTypeForUrl(project.project_type, project.loaders)
 							}}/
 						</div>
@@ -270,7 +270,7 @@
 						Your project is not eligible for monetization. If you think this is a mistake, please
 						<a
 							class="text-orange underline hover:brightness-110"
-							href="https://support.modrinth.com"
+							href="https://support.cosmods.miki85.cz"
 							target="_blank"
 							rel="noopener noreferrer"
 						>

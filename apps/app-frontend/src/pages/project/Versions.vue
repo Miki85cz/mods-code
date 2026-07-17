@@ -43,7 +43,7 @@
 							},
 							{
 								id: 'open-in-browser',
-								link: `https://modrinth.com/${project.project_type}/${project.slug}/version/${version.id}`,
+								link: `https://cosmods.miki85.cz/${project.project_type}/${project.slug}/version/${version.id}`,
 							},
 						]"
 						aria-label="More options"
@@ -60,7 +60,7 @@
 					<a
 						v-else
 						v-tooltip="formatMessage(commonMessages.openInBrowserButton)"
-						:href="`https://modrinth.com/${project.project_type}/${project.slug}/version/${version.id}`"
+						:href="`https://cosmods.miki85.cz/${project.project_type}/${project.slug}/version/${version.id}`"
 						target="_blank"
 					>
 						<ExternalIcon />

@@ -10,7 +10,7 @@
 			:resolve-viewer="resolveViewer"
 			:show-copy-id-action="themeStore.devMode"
 			:auth-user="authUser"
-			:navigate-to-billing="() => openUrl('https://modrinth.com/settings/billing')"
+			:navigate-to-billing="() => openUrl('https://cosmods.miki85.cz/settings/billing')"
 			:navigate-to-servers="() => router.push('/hosting/manage')"
 			:browse-modpacks="
 				({ serverId: sid, worldId: wid, from }) => {

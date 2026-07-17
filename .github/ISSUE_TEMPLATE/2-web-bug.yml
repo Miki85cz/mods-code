@@ -9,7 +9,7 @@ body:
       options:
         - label: I checked the [existing issues](https://github.com/modrinth/code/issues?q=is%3Aissue) for duplicate problems
           required: true
-        - label: I have tried resolving the issue using the [support portal](https://support.modrinth.com)
+        - label: I have tried resolving the issue using the [support portal](https://support.cosmods.miki85.cz)
           required: true
   - type: dropdown
     id: browsers

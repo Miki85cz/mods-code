@@ -582,7 +582,7 @@ const followingCollection = computed(() =>
 	isFollowingCollection.value
 		? {
 				id: 'following',
-				icon_url: 'https://cdn.modrinth.com/follow-collection.png',
+				icon_url: 'https://cdn.cosmods.miki85.cz/follow-collection.png',
 				name: formatMessage(commonMessages.followedProjectsLabel),
 				description: formatMessage(messages.followingCollectionDescription),
 				status: 'private',
@@ -719,7 +719,7 @@ watch(
 	[collection, creator],
 	([col, cre]) => {
 		if (col && cre) {
-			const canonicalUrl = col ? `https://modrinth.com/collection/${col.id}` : undefined
+			const canonicalUrl = col ? `https://cosmods.miki85.cz/collection/${col.id}` : undefined
 			useSeoMeta({
 				title: formatMessage(messages.collectionTitle, { name: col.name }),
 				description: formatMessage(messages.collectionDescription, {
@@ -729,7 +729,7 @@ watch(
 				}),
 				ogTitle: formatMessage(messages.collectionTitle, { name: col.name }),
 				ogDescription: col.description,
-				ogImage: col.icon_url ?? 'https://cdn.modrinth.com/placeholder.png',
+				ogImage: col.icon_url ?? 'https://cdn.cosmods.miki85.cz/placeholder.png',
 				ogUrl: canonicalUrl,
 				robots: col.status === 'listed' ? 'all' : 'noindex',
 			})

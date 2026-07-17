@@ -29,7 +29,7 @@ try {
 }
 
 function userProfileLink(username: string) {
-	return () => openUrl(`https://modrinth.com/user/${encodeURIComponent(username)}`)
+	return () => openUrl(`https://cosmods.miki85.cz/user/${encodeURIComponent(username)}`)
 }
 </script>
 

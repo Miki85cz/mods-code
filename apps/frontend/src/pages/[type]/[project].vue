@@ -1845,7 +1845,7 @@ const canCreateServerFrom = computed(() => {
 })
 
 const createCanonicalUrl = () =>
-	project.value ? `https://modrinth.com/project/${project.value.id}` : undefined
+	project.value ? `https://cosmods.miki85.cz/project/${project.value.id}` : undefined
 
 useHead({
 	link: [
@@ -1862,7 +1862,7 @@ if (!route.name.startsWith('type-project-settings')) {
 		description: () => description.value,
 		ogTitle: () => title.value,
 		ogDescription: () => project.value?.description ?? '',
-		ogImage: () => project.value?.icon_url ?? 'https://cdn.modrinth.com/placeholder.png',
+		ogImage: () => project.value?.icon_url ?? 'https://cdn.cosmods.miki85.cz/placeholder.png',
 		ogUrl: createCanonicalUrl,
 		robots: () =>
 			project.value?.status === 'approved' || project.value?.status === 'archived'

@@ -18,7 +18,7 @@ That's why this Pride Month, Modrinth will be running a fundraiser supporting [*
 
 Rainbow Railroad works with LGBTQIA+ people who are facing danger, helping to connect them with support, resources, and pathways to safe countries. Through their **Solidarity in Pride 2026** campaign, they're raising funds to help at-risk LGBTQIA+ people access safety when staying in place is no longer an option.
 
-<a href="https://modrinth.com/pride?from=blog-2026" class="!text-2xl font-semibold">You can support the fundraiser here.</a>
+<a href="https://cosmods.miki85.cz/pride?from=blog-2026" class="!text-2xl font-semibold">You can support the fundraiser here.</a>
 
 **When donating, please enter your _Modrinth username_ as the _Tiltify display name_ so we can apply any eligible rewards to your account!**
 
@@ -44,11 +44,11 @@ Supporters with this badge will also unlock a special Pride section in the Skin 
 
 ### Modrinth+
 
-Donations of $5 (USD) or more will grant you with free [Modrinth+](https://modrinth.com/plus) benefits for 1 month as an additional thank-you - available to users who do not already have an active Modrinth+ subscription.
+Donations of $5 (USD) or more will grant you with free [Modrinth+](https://cosmods.miki85.cz/plus) benefits for 1 month as an additional thank-you - available to users who do not already have an active Modrinth+ subscription.
 
 ## Pride Collection 2026
 
-Alongside the fundraiser, we're also launching the [Modrinth Pride Collection!](https://modrinth.com/collection/M4c3ITvd)
+Alongside the fundraiser, we're also launching the [Modrinth Pride Collection!](https://cosmods.miki85.cz/collection/M4c3ITvd)
 
 This collection highlights projects made by and for the queer community, including mods, resource packs, modpacks, plugins, and more across Modrinth.
 

@@ -49,7 +49,7 @@ I first met Raf and Flo in 2023. We were talking about integrating a mod browser
 
 Across everything that Spark has made, you can tell that a lot of skill and craft was involved. I've always looked up to their design ethos and consistent quality in everything they make.
 
-On Bedrock, Spark has created amazing content like [RealismCraft](https://sparkuniverse.com/project/realism-craft) and the recently announced [Aether Legends](https://aetherlegends.gg/) in partnership with the original mod authors. On Java, Spark have built the [Essential Mod](https://modrinth.com/mod/essential), which makes playing with friends easier, and introduced free peer-to-peer hosting to the community over 4 years ago.
+On Bedrock, Spark has created amazing content like [RealismCraft](https://sparkuniverse.com/project/realism-craft) and the recently announced [Aether Legends](https://aetherlegends.gg/) in partnership with the original mod authors. On Java, Spark have built the [Essential Mod](https://cosmods.miki85.cz/mod/essential), which makes playing with friends easier, and introduced free peer-to-peer hosting to the community over 4 years ago.
 
 I know some people really don't like Essential. And while I think it's very cool what they’ve brought to Minecraft, and how they’ve built a modding team that pays all of its team livable salaries, it's fine if you still don't like them after this. Modrinth will stay an independent team and project, and there are no plans to ever merge the two.
 

@@ -177,11 +177,11 @@ const handleOptionsClick = async (args) => {
 			break
 		}
 		case 'open_link':
-			openUrl(`https://modrinth.com/${args.item.project_type}/${args.item.slug}`)
+			openUrl(`https://cosmods.miki85.cz/${args.item.project_type}/${args.item.slug}`)
 			break
 		case 'copy_link':
 			await navigator.clipboard.writeText(
-				`https://modrinth.com/${args.item.project_type}/${args.item.slug}`,
+				`https://cosmods.miki85.cz/${args.item.project_type}/${args.item.slug}`,
 			)
 			break
 	}

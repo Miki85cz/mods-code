@@ -25,13 +25,13 @@
 			"identifier": "http:default",
 			"allow": [
 				{
-					"url": "https://modrinth.com/*"
+					"url": "https://cosmods.miki85.cz/*"
 				},
 				{
-					"url": "https://*.modrinth.com/*"
+					"url": "https://*.cosmods.miki85.cz/*"
 				},
 				{
-					"url": "https://*.nodes.modrinth.com/*"
+					"url": "https://*.nodes.cosmods.miki85.cz/*"
 				},
 				{
 					"url": "https://api.mclo.gs/*"

@@ -44,7 +44,7 @@
 				:to="`/collection/following`"
 				class="universal-card recessed collection"
 			>
-				<Avatar src="https://cdn.modrinth.com/follow-collection.png" size="64px" />
+				<Avatar src="https://cdn.cosmods.miki85.cz/follow-collection.png" size="64px" />
 				<div class="details">
 					<span class="title">{{ formatMessage(commonMessages.followedProjectsLabel) }}</span>
 					<span class="description">

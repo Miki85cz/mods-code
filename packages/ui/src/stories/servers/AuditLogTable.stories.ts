@@ -167,7 +167,7 @@ const actionLogResponse: Archon.Actions.v1.ActionLogResponse = {
 		[userIds.geometrically]: {
 			username: 'Geometrically',
 			avatar_url:
-				'https://cdn.modrinth.com/data/MpxzqsyW/eb0038489a55e7e7a188a5b50462f0b10dfc1613_96.webp',
+				'https://cdn.cosmods.miki85.cz/data/MpxzqsyW/eb0038489a55e7e7a188a5b50462f0b10dfc1613_96.webp',
 		},
 		[userIds.modmuss]: {
 			username: 'modmuss50',
@@ -176,7 +176,7 @@ const actionLogResponse: Archon.Actions.v1.ActionLogResponse = {
 		[userIds.prospector]: {
 			username: 'Prospector',
 			avatar_url:
-				'https://cdn.modrinth.com/user/Dc7EYhxG/32e8b1f7d18288262d1ed92cbdf43272d21b4fcd.png',
+				'https://cdn.cosmods.miki85.cz/user/Dc7EYhxG/32e8b1f7d18288262d1ed92cbdf43272d21b4fcd.png',
 		},
 	},
 	addons: {
@@ -184,20 +184,20 @@ const actionLogResponse: Archon.Actions.v1.ActionLogResponse = {
 			title: 'Create Aeronautics',
 			slug: 'create-aeronautics',
 			icon_url:
-				'https://cdn.modrinth.com/data/oWaK0Q19/f66b5589924884ffd81acb27f3ccb775867a962e_96.webp',
+				'https://cdn.cosmods.miki85.cz/data/oWaK0Q19/f66b5589924884ffd81acb27f3ccb775867a962e_96.webp',
 			version: null,
 		},
 		AANobbMI: {
 			title: 'Sodium',
 			slug: 'sodium',
 			icon_url:
-				'https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp',
+				'https://cdn.cosmods.miki85.cz/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp',
 			version: null,
 		},
 		P7dR8mSH: {
 			title: 'Fabric API',
 			slug: 'fabric-api',
-			icon_url: 'https://cdn.modrinth.com/data/P7dR8mSH/icon.png',
+			icon_url: 'https://cdn.cosmods.miki85.cz/data/P7dR8mSH/icon.png',
 			version: null,
 		},
 		'project-modpack-001': {

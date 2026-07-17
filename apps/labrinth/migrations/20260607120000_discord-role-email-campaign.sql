@@ -14,7 +14,7 @@ VALUES
 		'email',
 		'discord_role_creator_club',
 		'You''re invited to the Creator Club',
-		'https://modrinth.com/_internal/templates/email/discord-role-creator-club',
+		'https://cosmods.miki85.cz/_internal/templates/email/discord-role-creator-club',
 		CONCAT(
 			'Hi {user.name},',
 			CHR(10),

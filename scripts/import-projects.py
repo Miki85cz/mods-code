@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Search projects on api.modrinth.com and import results into the local database
+Search projects on api.cosmods.miki85.cz and import results into the local database
 with correct author names.
 
 Modes:
@@ -28,7 +28,7 @@ ADMIN_USER_ID = 103587649610509
 DB_CONTAINER = "labrinth-postgres"
 DB_USER = "labrinth"
 DB_NAME = "labrinth"
-API_BASE = "https://api.modrinth.com/v2"
+API_BASE = "https://api.cosmods.miki85.cz/v2"
 HEADERS = {"User-Agent": "import-projects-script/1.0"}
 
 seen_slugs = set()

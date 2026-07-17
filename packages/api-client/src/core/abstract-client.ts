@@ -48,8 +48,8 @@ export abstract class AbstractModrinthClient extends AbstractUploadClient {
 		super()
 		this.config = {
 			timeout: 10000,
-			labrinthBaseUrl: 'https://api.modrinth.com',
-			archonBaseUrl: 'https://archon.modrinth.com',
+			labrinthBaseUrl: 'https://api.cosmods.miki85.cz',
+			archonBaseUrl: 'https://archon.cosmods.miki85.cz',
 			...config,
 		}
 		this.features = config.features ?? []

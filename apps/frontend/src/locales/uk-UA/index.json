@@ -3474,7 +3474,7 @@
     "message": "Експорт даних"
   },
   "settings.account.delete.confirm.description": {
-    "message": "Це **негайно видалить усі ваші дані й відстежування**, але не видалить ваші проєкти. Видалення облікового запису не можна скасувати.<br><br>Якщо вам потрібна допомога з обліковим записом, зверніться до підтримки на [сервері Modrinth у Discord](https://discord.modrinth.com)."
+    "message": "Це **негайно видалить усі ваші дані й відстежування**, але не видалить ваші проєкти. Видалення облікового запису не можна скасувати.<br><br>Якщо вам потрібна допомога з обліковим записом, зверніться до підтримки на [сервері Modrinth у Discord](https://discord.cosmods.miki85.cz)."
   },
   "settings.account.delete.confirm.proceed": {
     "message": "Видалити обліковий запис"
@@ -3807,7 +3807,7 @@
     "message": "рік"
   },
   "settings.billing.midas.benefits.ad-free": {
-    "message": "Перегляд сторінок modrinth.com і Modrinth App без реклами"
+    "message": "Перегляд сторінок cosmods.miki85.cz і Modrinth App без реклами"
   },
   "settings.billing.midas.benefits.badge": {
     "message": "Значок Modrinth+ у вашому профілі"

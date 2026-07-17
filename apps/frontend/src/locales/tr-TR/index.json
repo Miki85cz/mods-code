@@ -4002,7 +4002,7 @@
     "message": "Veri dışa aktarma"
   },
   "settings.account.delete.confirm.description": {
-    "message": "Bu işlem, **tüm kullanıcı verilerinizi ve takip ettiğiniz hesapları anında siler**. Projeleriniz silinmez. Hesabınızı silme işlemi geri alınamaz.<br><br>Hesabınızla ilgili yardıma ihtiyacınız varsa, [Modrinth Discord](https://discord.modrinth.com) üzerinden destek alabilirsiniz."
+    "message": "Bu işlem, **tüm kullanıcı verilerinizi ve takip ettiğiniz hesapları anında siler**. Projeleriniz silinmez. Hesabınızı silme işlemi geri alınamaz.<br><br>Hesabınızla ilgili yardıma ihtiyacınız varsa, [Modrinth Discord](https://discord.cosmods.miki85.cz) üzerinden destek alabilirsiniz."
   },
   "settings.account.delete.confirm.proceed": {
     "message": "Hesabı sil"
@@ -4371,7 +4371,7 @@
     "message": "yıl"
   },
   "settings.billing.midas.benefits.ad-free": {
-    "message": "Modrinth App ve modrinth.com'da reklamsız gezinme"
+    "message": "Modrinth App ve cosmods.miki85.cz'da reklamsız gezinme"
   },
   "settings.billing.midas.benefits.badge": {
     "message": "Profilinde Modrinth+ rozeti"

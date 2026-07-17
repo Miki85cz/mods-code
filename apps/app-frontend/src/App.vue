@@ -187,7 +187,7 @@ const { addPopupNotification } = popupNotificationManager
 
 const appVersion = getVersion()
 const tauriApiClient = new TauriModrinthClient({
-	userAgent: async () => `modrinth/theseus/${await appVersion} (support@modrinth.com)`,
+	userAgent: async () => `modrinth/theseus/${await appVersion} (support@cosmods.miki85.cz)`,
 	labrinthBaseUrl: config.labrinthBaseUrl,
 	archonBaseUrl: config.archonBaseUrl,
 	features: [
@@ -407,7 +407,7 @@ async function setupApp() {
 		}),
 	)
 
-	fetch(`https://api.modrinth.com/appCriticalAnnouncement.json?version=${version}`)
+	fetch(`https://api.cosmods.miki85.cz/appCriticalAnnouncement.json?version=${version}`)
 		.then((response) => response.json())
 		.then((res) => {
 			if (res && res.header && res.body) {
@@ -416,11 +416,11 @@ async function setupApp() {
 		})
 		.catch(() => {
 			console.log(
-				`No critical announcement found at https://api.modrinth.com/appCriticalAnnouncement.json?version=${version}`,
+				`No critical announcement found at https://api.cosmods.miki85.cz/appCriticalAnnouncement.json?version=${version}`,
 			)
 		})
 
-	fetch(`https://modrinth.com/news/feed/articles.json`)
+	fetch(`https://cosmods.miki85.cz/news/feed/articles.json`)
 		.then((response) => response.json())
 		.then((res) => {
 			if (res && res.articles) {
@@ -1110,7 +1110,7 @@ async function checkUpdates() {
 async function checkLinuxUpdates() {
 	try {
 		const [response, currentVersion] = await Promise.all([
-			fetch('https://launcher-files.modrinth.com/updates.json'),
+			fetch('https://launcher-files.cosmods.miki85.cz/updates.json'),
 			getVersion(),
 		])
 		const updates = await response.json()
@@ -1198,7 +1198,7 @@ async function installUpdate() {
 setAppUpdateActions({
 	download: downloadAvailableUpdate,
 	install: installUpdate,
-	changelog: () => openUrl('https://modrinth.com/news/changelog?filter=app'),
+	changelog: () => openUrl('https://cosmods.miki85.cz/news/changelog?filter=app'),
 })
 
 async function openModrinthProjectLinkInApp(parsed) {
@@ -1350,7 +1350,7 @@ async function processPendingSurveys() {
 
 	let surveys = []
 	try {
-		surveys = await $fetch('https://api.modrinth.com/v2/surveys')
+		surveys = await $fetch('https://api.cosmods.miki85.cz/v2/surveys')
 	} catch (e) {
 		console.error('Error fetching surveys:', e)
 	}
@@ -1482,7 +1482,7 @@ provideAppUpdateDownloadProgress(appUpdateDownload)
 				:options="[
 					{
 						id: 'view-profile',
-						action: () => openUrl('https://modrinth.com/user/' + credentials.user.username),
+						action: () => openUrl('https://cosmods.miki85.cz/user/' + credentials.user.username),
 					},
 					{
 						id: 'sign-out',
@@ -1669,7 +1669,7 @@ provideAppUpdateDownloadProgress(appUpdateDownload)
 								:article="item"
 							/>
 							<ButtonStyled color="brand" size="large">
-								<a href="https://modrinth.com/news" target="_blank" class="my-4">
+								<a href="https://cosmods.miki85.cz/news" target="_blank" class="my-4">
 									<NewspaperIcon /> View all news
 								</a>
 							</ButtonStyled>

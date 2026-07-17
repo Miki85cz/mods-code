@@ -199,7 +199,7 @@ const onDeleteOrganization = useClientTry(async () => {
 				<span class="label__title">URL</span>
 			</label>
 			<div class="text-input-wrapper">
-				<div class="text-input-wrapper__before">https://modrinth.com/organization/</div>
+				<div class="text-input-wrapper__before">https://cosmods.miki85.cz/organization/</div>
 				<StyledInput
 					id="project-slug"
 					v-model="current.slug"

@@ -63,7 +63,7 @@
 		<StagingBanner
 			v-if="
 				flags.showAllBanners ||
-				config.public.apiBaseUrl.startsWith('https://staging-api.modrinth.com')
+				config.public.apiBaseUrl.startsWith('https://staging-api.cosmods.miki85.cz')
 			"
 		/>
 		<GeneratedStateErrorsBanner
@@ -925,15 +925,15 @@ const navMenuMessages = defineMessages({
 	},
 	hostAServer: {
 		id: 'layout.nav.host-a-server',
-		defaultMessage: 'Host a server',
+		defaultMessage: 'Coming in 2027',
 	},
 	getModrinthApp: {
 		id: 'layout.nav.get-modrinth-app',
-		defaultMessage: 'Get Modrinth App',
+		defaultMessage: 'Get CosMods App',
 	},
 	modrinthApp: {
 		id: 'layout.nav.modrinth-app',
-		defaultMessage: 'Modrinth App',
+		defaultMessage: 'CosMods App',
 	},
 })
 
@@ -1086,7 +1086,7 @@ useSeoMeta({
 			defaultMessage: 'Discover and publish Minecraft content!',
 		}),
 	ogType: 'website',
-	ogImage: 'https://cdn.modrinth.com/modrinth-new.png',
+	ogImage: 'https://cdn.cosmods.miki85.cz/modrinth-new.png',
 	ogUrl: link,
 
 	// Twitter

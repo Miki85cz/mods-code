@@ -4104,7 +4104,7 @@
     "message": "Datenexport"
   },
   "settings.account.delete.confirm.description": {
-    "message": "Dadurch werden **sofort alle deine Benutzerdaten und Follower gelöscht**. Deine Projekte werden dabei nicht gelöscht. Die Löschung deines Kontos kann nicht rückgängig gemacht werden.<br><br>Falls du Hilfe mit deinem Konto benötigst, wende dich bitte an den Support auf dem [Modrinth Discord](https://discord.modrinth.com)."
+    "message": "Dadurch werden **sofort alle deine Benutzerdaten und Follower gelöscht**. Deine Projekte werden dabei nicht gelöscht. Die Löschung deines Kontos kann nicht rückgängig gemacht werden.<br><br>Falls du Hilfe mit deinem Konto benötigst, wende dich bitte an den Support auf dem [Modrinth Discord](https://discord.cosmods.miki85.cz)."
   },
   "settings.account.delete.confirm.proceed": {
     "message": "Dieses Konto löschen"
@@ -4488,7 +4488,7 @@
     "message": "Jahr"
   },
   "settings.billing.midas.benefits.ad-free": {
-    "message": "Werbefreies Surfen auf modrinth.com und der Modrinth App"
+    "message": "Werbefreies Surfen auf cosmods.miki85.cz und der Modrinth App"
   },
   "settings.billing.midas.benefits.badge": {
     "message": "Modrinth+ Abzeichen auf deinem Profil"

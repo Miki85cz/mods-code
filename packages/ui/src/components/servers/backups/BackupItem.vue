@@ -76,7 +76,7 @@ const backupCreator = computed(() => {
 
 const creatorProfileLink = computed(() =>
 	backupCreator.value && backupCreator.value.id !== 'support'
-		? `https://modrinth.com/user/${encodeURIComponent(backupCreator.value.username)}`
+		? `https://cosmods.miki85.cz/user/${encodeURIComponent(backupCreator.value.username)}`
 		: undefined,
 )
 

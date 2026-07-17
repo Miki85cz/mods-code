@@ -9,7 +9,7 @@ import StyledEmail from '../shared/StyledEmail.vue'
 		title="You've been invited to a server"
 		:manual-links="[
 			{ link: '{serverinvite.url}', label: 'Create account and review invitation' },
-			{ link: 'https://support.modrinth.com', label: 'Support Portal' },
+			{ link: 'https://support.cosmods.miki85.cz', label: 'Support Portal' },
 		]"
 	>
 		<Heading as="h1" class="mb-2 text-2xl font-bold">You've been invited to a server</Heading>
@@ -19,7 +19,7 @@ import StyledEmail from '../shared/StyledEmail.vue'
 		<Text class="text-base">
 			Modrinth user
 			<b
-				><VLink href="https://modrinth.com/user/{inviter.name}" class="text-green underline">
+				><VLink href="https://cosmods.miki85.cz/user/{inviter.name}" class="text-green underline">
 					{inviter.name}
 				</VLink></b
 			>
@@ -50,7 +50,7 @@ import StyledEmail from '../shared/StyledEmail.vue'
 			To accept or reject this invitation, create a Modrinth account and review the invite from your
 			notifications dashboard. If you were not expecting this invitation, contact the server owner
 			or reach out to Modrinth Support
-			<VLink href="https://support.modrinth.com" class="text-green underline">
+			<VLink href="https://support.cosmods.miki85.cz" class="text-green underline">
 				through the Support Portal</VLink
 			>.
 		</Text>

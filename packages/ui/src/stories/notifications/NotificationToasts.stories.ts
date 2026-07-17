@@ -5,7 +5,7 @@ import { NotificationToast } from '../../components/notifications'
 import type { PopupNotificationButton } from '../../providers'
 
 const avatarUrl =
-	'https://cdn.modrinth.com/user/6Qo4A5QT/9d81be1a9fb1afd163b7f2f05a791955e7693c90.png'
+	'https://cdn.cosmods.miki85.cz/user/6Qo4A5QT/9d81be1a9fb1afd163b7f2f05a791955e7693c90.png'
 
 const meta = {
 	title: 'Notifications/Toasts',

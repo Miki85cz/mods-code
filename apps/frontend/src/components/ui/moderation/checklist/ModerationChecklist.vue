@@ -1212,7 +1212,7 @@ function handleKeybinds(event: KeyboardEvent) {
 					if (relative) {
 						url += `${globalThis.location.origin}`
 					} else {
-						url += `https://modrinth.com`
+						url += `https://cosmods.miki85.cz`
 					}
 
 					if (permalink) {

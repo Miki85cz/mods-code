@@ -3471,7 +3471,7 @@
     "message": "Dataeksport"
   },
   "settings.account.delete.confirm.description": {
-    "message": "Dette kommer til å **slette alle brukerdataene dine og følgerene dine med en gang**. Dette kommer ikke til å slette prosjekta dine. Du kan ikke angre sletting av kontoen din.<br><br>Viss du trenger hjelp med kontoen din, få støtte fra [Modrinth Discord]-en(https://discord.modrinth.com)."
+    "message": "Dette kommer til å **slette alle brukerdataene dine og følgerene dine med en gang**. Dette kommer ikke til å slette prosjekta dine. Du kan ikke angre sletting av kontoen din.<br><br>Viss du trenger hjelp med kontoen din, få støtte fra [Modrinth Discord]-en(https://discord.cosmods.miki85.cz)."
   },
   "settings.account.delete.confirm.proceed": {
     "message": "Slett denne kontoen"
@@ -3825,7 +3825,7 @@
     "message": "år"
   },
   "settings.billing.midas.benefits.ad-free": {
-    "message": "Reklamefri surfing av modrinth.com og Modrinth App-en"
+    "message": "Reklamefri surfing av cosmods.miki85.cz og Modrinth App-en"
   },
   "settings.billing.midas.benefits.badge": {
     "message": "Modrinth+ merke på profilen din"

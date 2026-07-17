@@ -677,7 +677,7 @@ export namespace Archon {
 			}
 
 			export type JWTAuth = {
-				url: string // e.g., "node-xyz.modrinth.com/modrinth/v0/fs"
+				url: string // e.g., "node-xyz.cosmods.miki85.cz/modrinth/v0/fs"
 				token: string // JWT token for filesystem access
 			}
 

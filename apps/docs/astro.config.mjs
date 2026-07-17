@@ -4,7 +4,7 @@ import starlightOpenAPI, { openAPISidebarGroups } from 'starlight-openapi'
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://docs.modrinth.com',
+	site: 'https://docs.cosmods.miki85.cz',
 	integrations: [
 		starlight({
 			title: 'Modrinth Documentation',
@@ -14,7 +14,7 @@ export default defineConfig({
 			},
 			social: {
 				github: 'https://github.com/modrinth/code',
-				discord: 'https://discord.modrinth.com',
+				discord: 'https://discord.cosmods.miki85.cz',
 				'x.com': 'https://x.com/modrinth',
 				mastodon: 'https://floss.social/@modrinth',
 				threads: 'https://threads.net/@modrinth',

@@ -77,7 +77,7 @@ export const Disabled: Story = {
 
 export const AsLink: Story = {
 	args: {
-		link: 'https://modrinth.com',
+		link: 'https://cosmods.miki85.cz',
 		external: true,
 	},
 }

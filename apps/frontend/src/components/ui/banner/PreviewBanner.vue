@@ -30,7 +30,7 @@ function hidePreviewBanner() {
 	saveFeatureFlags()
 }
 
-const url = computed(() => `https://modrinth.com${route.fullPath}`)
+const url = computed(() => `https://cosmods.miki85.cz${route.fullPath}`)
 </script>
 
 <template>

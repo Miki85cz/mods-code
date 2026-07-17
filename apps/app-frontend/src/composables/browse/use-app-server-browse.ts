@@ -319,5 +319,5 @@ function getProjectUrl(
 	item: Labrinth.Search.v2.ResultSearchProject | Labrinth.Search.v3.ResultSearchProject,
 ) {
 	const projectType = 'project_types' in item ? item.project_types?.[0] : item.project_type
-	return `https://modrinth.com/${projectType ?? 'project'}/${item.slug ?? item.project_id}`
+	return `https://cosmods.miki85.cz/${projectType ?? 'project'}/${item.slug ?? item.project_id}`
 }

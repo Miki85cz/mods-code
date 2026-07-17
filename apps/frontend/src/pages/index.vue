@@ -219,13 +219,13 @@
 						<div class="launcher-view">
 							<img
 								v-if="$theme.active === 'light'"
-								src="https://cdn.modrinth.com/landing-new/launcher-light.webp"
+								src="https://cdn.cosmods.miki85.cz/landing-new/launcher-light.webp"
 								:alt="formatMessage(messages.launcherGraphicAlt)"
 								class="minecraft-screen"
 							/>
 							<img
 								v-else
-								src="https://cdn.modrinth.com/landing-new/launcher.webp"
+								src="https://cdn.cosmods.miki85.cz/landing-new/launcher.webp"
 								:alt="formatMessage(messages.launcherGraphicAlt)"
 								class="minecraft-screen"
 							/>

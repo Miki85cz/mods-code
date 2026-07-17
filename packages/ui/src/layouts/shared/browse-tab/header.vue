@@ -13,7 +13,7 @@ import SelectedProjectsLeaveModal from './components/SelectedProjectsLeaveModal.
 import { injectBrowseManager } from './providers/browse-manager'
 import type { BrowseInstallContext } from './types'
 
-const MEDAL_ICON_URL = 'https://cdn-raw.modrinth.com/medal_icon.webp'
+const MEDAL_ICON_URL = 'https://cdn-raw.cosmods.miki85.cz/medal_icon.webp'
 
 const router = useRouter()
 const props = defineProps<{

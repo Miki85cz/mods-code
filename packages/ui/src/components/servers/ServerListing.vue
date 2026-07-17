@@ -209,7 +209,7 @@
 					</button>
 				</ButtonStyled>
 				<ButtonStyled v-if="noticeButtons.support">
-					<a href="https://support.modrinth.com/en/" target="_blank" data-server-listing-button
+					<a href="https://support.cosmods.miki85.cz/en/" target="_blank" data-server-listing-button
 						><MessagesSquareIcon /> {{ formatMessage(messages.supportLabel) }}
 					</a>
 				</ButtonStyled>
@@ -246,7 +246,7 @@
 				:ram="Math.round((pendingChange.ramGb ?? 0) * 1024)"
 				:storage="Math.round((pendingChange.storageGb ?? 0) * 1024)"
 				:cpus="pendingChange.cpuBurst"
-				bursting-link="https://docs.modrinth.com/servers/bursting"
+				bursting-link="https://docs.cosmods.miki85.cz/servers/bursting"
 			/>
 		</div>
 	</div>

@@ -259,22 +259,22 @@ export function formatProjectTypes(type: string, lower: boolean = false) {
 export function flattenStaticVariables(): Record<string, string> {
 	const vars: Record<string, string> = {}
 
-	vars[`RULES`] = `[Modrinth's Content Rules](https://modrinth.com/legal/rules)`
-	vars[`TOS`] = `[Terms of Use](https://modrinth.com/legal/terms)`
-	vars[`COPYRIGHT_POLICY`] = `[Copyright Policy](https://modrinth.com/legal/copyright)`
+	vars[`RULES`] = `[Modrinth's Content Rules](https://cosmods.miki85.cz/legal/rules)`
+	vars[`TOS`] = `[Terms of Use](https://cosmods.miki85.cz/legal/terms)`
+	vars[`COPYRIGHT_POLICY`] = `[Copyright Policy](https://cosmods.miki85.cz/legal/copyright)`
 	vars[`SUPPORT`] =
-		`please visit the [Modrinth Help Center](https://support.modrinth.com/) and click the blue bubble to contact support.`
+		`please visit the [Modrinth Help Center](https://support.cosmods.miki85.cz/) and click the blue bubble to contact support.`
 	vars[`MODPACK_PERMISSIONS_GUIDE`] =
-		`our guide to [Obtaining Modpack Permissions](https://support.modrinth.com/en/articles/8797527-obtaining-modpack-permissions)`
+		`our guide to [Obtaining Modpack Permissions](https://support.cosmods.miki85.cz/en/articles/8797527-obtaining-modpack-permissions)`
 	vars[`MODPACKS_ON_MODRINTH`] =
-		`[Modpacks on Modrinth](https://support.modrinth.com/en/articles/8802250-modpacks-on-modrinth)`
+		`[Modpacks on Modrinth](https://support.cosmods.miki85.cz/en/articles/8802250-modpacks-on-modrinth)`
 	vars[`ADVANCED_MARKDOWN`] =
-		`[Markdown Formatting Guide](https://support.modrinth.com/en/articles/8801962-advanced-markdown-formatting)`
+		`[Markdown Formatting Guide](https://support.cosmods.miki85.cz/en/articles/8801962-advanced-markdown-formatting)`
 	vars[`LICENSING_GUIDE`] =
-		`our guide to [Licensing your Mods](https://modrinth.com/news/article/licensing-guide)`
-	vars[`NEW_ENVIRONMENTS_LINK`] = `https://modrinth.com/news/article/new-environments`
+		`our guide to [Licensing your Mods](https://cosmods.miki85.cz/news/article/licensing-guide)`
+	vars[`NEW_ENVIRONMENTS_LINK`] = `https://cosmods.miki85.cz/news/article/new-environments`
 	vars[`LEARN_MORE_ABOUT_SERVERS_FLINK`] =
-		`[learn more about server projects from our news feed](https://modrinth.com/news/article/introducing-server-projects/)`
+		`[learn more about server projects from our news feed](https://cosmods.miki85.cz/news/article/introducing-server-projects/)`
 
 	return vars
 }
@@ -347,48 +347,48 @@ export function flattenProjectVariables(
 	})
 
 	// Navigation related variables
-	vars[`PROJECT_PERMANENT_LINK`] = `https://modrinth.com/project/${project.id}`
-	vars[`PROJECT_SETTINGS_LINK`] = `https://modrinth.com/project/${project.id}/settings`
-	vars[`PROJECT_SETTINGS_FLINK`] = `[Settings](https://modrinth.com/project/${project.id}/settings)`
-	vars[`PROJECT_TITLE_FLINK`] = `[Name](https://modrinth.com/project/${project.id}/settings)`
-	vars[`PROJECT_SLUG_FLINK`] = `[URL](https://modrinth.com/project/${project.id}/settings)`
-	vars[`PROJECT_SUMMARY_FLINK`] = `[Summary](https://modrinth.com/project/${project.id}/settings)`
+	vars[`PROJECT_PERMANENT_LINK`] = `https://cosmods.miki85.cz/project/${project.id}`
+	vars[`PROJECT_SETTINGS_LINK`] = `https://cosmods.miki85.cz/project/${project.id}/settings`
+	vars[`PROJECT_SETTINGS_FLINK`] = `[Settings](https://cosmods.miki85.cz/project/${project.id}/settings)`
+	vars[`PROJECT_TITLE_FLINK`] = `[Name](https://cosmods.miki85.cz/project/${project.id}/settings)`
+	vars[`PROJECT_SLUG_FLINK`] = `[URL](https://cosmods.miki85.cz/project/${project.id}/settings)`
+	vars[`PROJECT_SUMMARY_FLINK`] = `[Summary](https://cosmods.miki85.cz/project/${project.id}/settings)`
 	vars[`PROJECT_ENVIRONMENT_FLINK`] =
-		`[Environment Information](https://modrinth.com/project/${project.id}/settings/environment)` // Depreciated
-	vars[`PROJECT_TAGS_LINK`] = `https://modrinth.com/project/${project.id}/settings/tags`
-	vars[`PROJECT_TAGS_FLINK`] = `[Tags](https://modrinth.com/project/${project.id}/settings/tags)`
+		`[Environment Information](https://cosmods.miki85.cz/project/${project.id}/settings/environment)` // Depreciated
+	vars[`PROJECT_TAGS_LINK`] = `https://cosmods.miki85.cz/project/${project.id}/settings/tags`
+	vars[`PROJECT_TAGS_FLINK`] = `[Tags](https://cosmods.miki85.cz/project/${project.id}/settings/tags)`
 	vars[`PROJECT_DESCRIPTION_LINK`] =
-		`https://modrinth.com/project/${project.id}/settings/description`
+		`https://cosmods.miki85.cz/project/${project.id}/settings/description`
 	vars[`PROJECT_DESCRIPTION_FLINK`] =
-		`[Description](https://modrinth.com/project/${project.id}/settings/description)`
-	vars[`PROJECT_LICENSE_LINK`] = `https://modrinth.com/project/${project.id}/settings/license`
+		`[Description](https://cosmods.miki85.cz/project/${project.id}/settings/description)`
+	vars[`PROJECT_LICENSE_LINK`] = `https://cosmods.miki85.cz/project/${project.id}/settings/license`
 	vars[`PROJECT_LICENSE_FLINK`] =
-		`[License](https://modrinth.com/project/${project.id}/settings/license)`
-	vars[`PROJECT_LINKS_LINK`] = `https://modrinth.com/project/${project.id}/settings/links`
+		`[License](https://cosmods.miki85.cz/project/${project.id}/settings/license)`
+	vars[`PROJECT_LINKS_LINK`] = `https://cosmods.miki85.cz/project/${project.id}/settings/links`
 	vars[`PROJECT_LINKS_FLINK`] =
-		`[External Links](https://modrinth.com/project/${project.id}/settings/links)`
-	vars[`PROJECT_GALLERY_LINK`] = `https://modrinth.com/project/${project.id}/gallery`
+		`[External Links](https://cosmods.miki85.cz/project/${project.id}/settings/links)`
+	vars[`PROJECT_GALLERY_LINK`] = `https://cosmods.miki85.cz/project/${project.id}/gallery`
 	vars[`PROJECT_GALLERY_FLINK`] =
-		`[Gallery](https://modrinth.com/project/${project.id}/settings/gallery)`
-	vars[`PROJECT_VERSIONS_LINK`] = `https://modrinth.com/project/${project.id}/versions`
+		`[Gallery](https://cosmods.miki85.cz/project/${project.id}/settings/gallery)`
+	vars[`PROJECT_VERSIONS_LINK`] = `https://cosmods.miki85.cz/project/${project.id}/versions`
 	vars[`PROJECT_VERSIONS_FLINK`] =
-		`[Versions](https://modrinth.com/project/${project.id}/settings/versions)`
-	vars[`PROJECT_MODERATION_LINK`] = `https://modrinth.com/project/${project.id}/moderation`
+		`[Versions](https://cosmods.miki85.cz/project/${project.id}/settings/versions)`
+	vars[`PROJECT_MODERATION_LINK`] = `https://cosmods.miki85.cz/project/${project.id}/moderation`
 	vars[`PROJECT_MODERATION_FLINK`] =
-		`[moderation tab](https://modrinth.com/project/${project.id}/moderation)`
-	vars[`PROJECT_SERVER_SETTINGS`] = `https://modrinth.com/project/${project.id}/settings/server`
+		`[moderation tab](https://cosmods.miki85.cz/project/${project.id}/moderation)`
+	vars[`PROJECT_SERVER_SETTINGS`] = `https://cosmods.miki85.cz/project/${project.id}/settings/server`
 	vars[`PROJECT_SERVER_SETTINGS_FLINK`] =
-		`[Server Settings](https://modrinth.com/project/${project.id}/settings/server)`
-	vars[`PROJECT_LANGUAGE_SETTINGS`] = `https://modrinth.com/project/${project.id}/settings/server`
+		`[Server Settings](https://cosmods.miki85.cz/project/${project.id}/settings/server)`
+	vars[`PROJECT_LANGUAGE_SETTINGS`] = `https://cosmods.miki85.cz/project/${project.id}/settings/server`
 	vars[`PROJECT_LANGUAGE_SETTINGS_FLINK`] =
-		`[Language Settings](https://modrinth.com/project/${project.id}/settings/server)`
+		`[Language Settings](https://cosmods.miki85.cz/project/${project.id}/settings/server)`
 	vars[`PROJECT_PERMISSIONS_LINK`] =
-		`https://modrinth.com/project/${project.id}/settings/permissions`
+		`https://cosmods.miki85.cz/project/${project.id}/settings/permissions`
 	vars[`PROJECT_PERMISSIONS_FLINK`] =
-		`[Permissions settings](https://modrinth.com/project/${project.id}/settings/permissions)`
-	vars[`PROJECT_MONETIZATION_SETTINGS_LINK`] = `https://modrinth.com/project/${project.id}/settings`
+		`[Permissions settings](https://cosmods.miki85.cz/project/${project.id}/settings/permissions)`
+	vars[`PROJECT_MONETIZATION_SETTINGS_LINK`] = `https://cosmods.miki85.cz/project/${project.id}/settings`
 	vars[`PROJECT_MONETIZATION_SETTINGS_FLINK`] =
-		`[Monetization settings](https://modrinth.com/project/${project.id}/settings)`
+		`[Monetization settings](https://cosmods.miki85.cz/project/${project.id}/settings)`
 
 	return vars
 }

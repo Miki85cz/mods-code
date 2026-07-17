@@ -138,7 +138,7 @@ async function copyToClipboard(text: string) {
 			<!-- Action buttons -->
 			<div class="flex items-center gap-2">
 				<ButtonStyled>
-					<a href="https://support.modrinth.com" class="!w-full" @click="modal?.hide()">
+					<a href="https://support.cosmods.miki85.cz" class="!w-full" @click="modal?.hide()">
 						<MessagesSquareIcon /> Contact support
 					</a>
 				</ButtonStyled>

@@ -29,7 +29,7 @@ const errorCollapsed = ref(false)
 
 const title = ref('An error occurred')
 const errorType = ref('unknown')
-const supportLink = ref('https://support.modrinth.com')
+const supportLink = ref('https://support.cosmods.miki85.cz')
 const metadata = ref({})
 
 defineExpose({
@@ -41,7 +41,7 @@ defineExpose({
 			title.value = 'Unable to sign in to Minecraft'
 			errorType.value = 'minecraft_auth'
 			supportLink.value =
-				'https://support.modrinth.com/en/articles/9038231-minecraft-sign-in-issues'
+				'https://support.cosmods.miki85.cz/en/articles/9038231-minecraft-sign-in-issues'
 
 			if (
 				errorVal.message.includes('existing connection was forcibly closed') ||
@@ -55,11 +55,11 @@ defineExpose({
 		} else if (errorVal.message && errorVal.message.includes('User is not logged in')) {
 			title.value = 'Sign in to Minecraft'
 			errorType.value = 'minecraft_sign_in'
-			supportLink.value = 'https://support.modrinth.com'
+			supportLink.value = 'https://support.cosmods.miki85.cz'
 		} else if (errorVal.message && errorVal.message.includes('Move directory error:')) {
 			title.value = 'Could not change app directory'
 			errorType.value = 'directory_move'
-			supportLink.value = 'https://support.modrinth.com'
+			supportLink.value = 'https://support.cosmods.miki85.cz'
 
 			if (errorVal.message.includes('directory is not writable')) {
 				metadata.value.readOnly = true
@@ -71,16 +71,16 @@ defineExpose({
 		} else if (errorVal.message && errorVal.message.includes('No loader version selected for')) {
 			title.value = 'No loader selected'
 			errorType.value = 'no_loader_version'
-			supportLink.value = 'https://support.modrinth.com'
+			supportLink.value = 'https://support.cosmods.miki85.cz'
 			metadata.value.instanceId = context.instanceId
 		} else if (source === 'state_init') {
 			title.value = 'Error initializing Modrinth App'
 			errorType.value = 'state_init'
-			supportLink.value = 'https://support.modrinth.com'
+			supportLink.value = 'https://support.cosmods.miki85.cz'
 		} else {
 			title.value = 'An error occurred'
 			errorType.value = 'unknown'
-			supportLink.value = 'https://support.modrinth.com'
+			supportLink.value = 'https://support.cosmods.miki85.cz'
 			metadata.value = {}
 		}
 
@@ -166,7 +166,7 @@ async function copyToClipboard(text) {
 							servers. This is often the result of a poor connection, so we recommend trying again
 							to see if it works. If issues continue to persist, follow the steps in
 							<a
-								href="https://support.modrinth.com/en/articles/9038231-minecraft-sign-in-issues#h_e71a5f805f"
+								href="https://support.cosmods.miki85.cz/en/articles/9038231-minecraft-sign-in-issues#h_e71a5f805f"
 							>
 								our support article
 							</a>
@@ -180,7 +180,7 @@ async function copyToClipboard(text) {
 							remote server rejected the connection. This may indicate that these services are
 							blocked by the hosts file. Please visit
 							<a
-								href="https://support.modrinth.com/en/articles/9038231-minecraft-sign-in-issues#h_d694a29256"
+								href="https://support.cosmods.miki85.cz/en/articles/9038231-minecraft-sign-in-issues#h_d694a29256"
 							>
 								our support article
 							</a>

@@ -3336,7 +3336,7 @@
     "message": "データのエクスポート"
   },
   "settings.account.delete.confirm.description": {
-    "message": "これにより**即座にあなたのすべてのユーザーデータとフォローが削除されます**。プロジェクトは削除されません。アカウントの削除は取り消せません。<br><br>アカウントについてサポートが必要な場合は、[Modrinth Discord](https://discord.modrinth.com)にてご連絡ください。"
+    "message": "これにより**即座にあなたのすべてのユーザーデータとフォローが削除されます**。プロジェクトは削除されません。アカウントの削除は取り消せません。<br><br>アカウントについてサポートが必要な場合は、[Modrinth Discord](https://discord.cosmods.miki85.cz)にてご連絡ください。"
   },
   "settings.account.delete.confirm.proceed": {
     "message": "このアカウントを削除"
@@ -3681,7 +3681,7 @@
     "message": "年"
   },
   "settings.billing.midas.benefits.ad-free": {
-    "message": "modrinth.comとModrinth Appを広告なしでブラウジング"
+    "message": "cosmods.miki85.czとModrinth Appを広告なしでブラウジング"
   },
   "settings.billing.midas.benefits.badge": {
     "message": "Modrinth+バッジをプロフィールに表示"

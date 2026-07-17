@@ -452,7 +452,7 @@ export function createContentInstall(opts: {
 									name: org.name,
 									iconUrl: org.icon_url,
 									circle: false,
-									link: () => openUrl(`https://modrinth.com/organization/${orgSlug}`),
+									link: () => openUrl(`https://cosmods.miki85.cz/organization/${orgSlug}`),
 								},
 							}
 						}
@@ -475,7 +475,7 @@ export function createContentInstall(opts: {
 										name: owner.user.username,
 										iconUrl: owner.user.avatar_url,
 										circle: true,
-										link: () => openUrl(`https://modrinth.com/user/${owner.user.username}`),
+										link: () => openUrl(`https://cosmods.miki85.cz/user/${owner.user.username}`),
 									},
 								}
 							}

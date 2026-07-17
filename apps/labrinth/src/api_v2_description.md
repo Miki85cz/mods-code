@@ -24,7 +24,7 @@ Please note that certain scopes and requests cannot be completed with a personal
 For example, deleting a user account can only be done through Modrinth's frontend.
 
 ### Personal access tokens
-Personal access tokens (PATs) can be generated from [the user settings](https://modrinth.com/settings/account).
+Personal access tokens (PATs) can be generated from [the user settings](https://cosmods.miki85.cz/settings/account).
 
 ### GitHub tokens
 For backwards compatibility purposes, some types of GitHub tokens also work for authenticating a user with Modrinth's API, granting all scopes.
@@ -54,7 +54,7 @@ The API has a ratelimit defined per IP. Limits and remaining amounts are given i
 
 The ratelimit is currently 300 requests per minute per IP. If your application is hitting rate limits, try caching responses, using batch requests, or spreading out your requests over time.
 
-Higher rate limits are granted only in very rare cases. If you believe your use case requires an exception, please [contact us](mailto:support@modrinth.com).
+Higher rate limits are granted only in very rare cases. If you believe your use case requires an exception, please [contact us](mailto:support@cosmods.miki85.cz).
 
 ## User Agents
 To access the Modrinth API, you **must** use provide a uniquely-identifying `User-Agent` header.

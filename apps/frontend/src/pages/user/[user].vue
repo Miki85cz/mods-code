@@ -153,22 +153,22 @@
 						<IntlFormatted :message-id="messages.officialAccountBio">
 							<template #support-link>
 								<a
-									href="https://support.modrinth.com"
+									href="https://support.cosmods.miki85.cz"
 									class="text-link"
 									target="_blank"
 									rel="noopener noreferrer"
 								>
-									https://support.modrinth.com
+									https://support.cosmods.miki85.cz
 								</a>
 							</template>
 							<template #email>
 								<a
-									href="mailto:support@modrinth.com"
+									href="mailto:support@cosmods.miki85.cz"
 									class="text-link"
 									target="_blank"
 									rel="noopener noreferrer"
 								>
-									support@modrinth.com
+									support@cosmods.miki85.cz
 								</a>
 							</template>
 						</IntlFormatted>
@@ -843,7 +843,7 @@ useSeoMeta({
 	description: () => description.value,
 	ogTitle: () => title.value,
 	ogDescription: () => description.value,
-	ogImage: () => user.value?.avatar_url ?? 'https://cdn.modrinth.com/placeholder.png',
+	ogImage: () => user.value?.avatar_url ?? 'https://cdn.cosmods.miki85.cz/placeholder.png',
 })
 
 const projectTypes = computed(() => {

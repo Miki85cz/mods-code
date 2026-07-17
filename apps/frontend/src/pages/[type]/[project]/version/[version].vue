@@ -250,7 +250,7 @@
 										id: 'copy-permalink',
 										action: () =>
 											copyToClipboard(
-												`https://modrinth.com/project/${project.id}/version/${version!.id}`,
+												`https://cosmods.miki85.cz/project/${project.id}/version/${version!.id}`,
 											),
 										shown: flags.developerMode,
 									},
@@ -417,7 +417,7 @@
 									</template>
 									<template #article-link="{ children }">
 										<a
-											href="https://support.modrinth.com/en/articles/8801191-modrinth-maven"
+											href="https://support.cosmods.miki85.cz/en/articles/8801191-modrinth-maven"
 											class="text-link"
 											target="_blank"
 											rel="noopener"
@@ -1174,7 +1174,7 @@ const gradleSnippet = computed(
         forRepository {
             maven {
                 name = "Modrinth"
-                url = "https://api.modrinth.com/maven"
+                url = "https://api.cosmods.miki85.cz/maven"
             }
         }
         // forRepositories(fg.repository) // Uncomment when using ForgeGradle

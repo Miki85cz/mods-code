@@ -4098,7 +4098,7 @@
     "message": "数据导出"
   },
   "settings.account.delete.confirm.description": {
-    "message": "这将**立即删除你的所有用户数据和关注**。此操作不会删除你的项目。删除账户操作不可撤销。<br><br>若你的账户需要帮助，请在 [Modrinth Discord](https://discord.modrinth.com) 获取支持。"
+    "message": "这将**立即删除你的所有用户数据和关注**。此操作不会删除你的项目。删除账户操作不可撤销。<br><br>若你的账户需要帮助，请在 [Modrinth Discord](https://discord.cosmods.miki85.cz) 获取支持。"
   },
   "settings.account.delete.confirm.proceed": {
     "message": "删除该账户"
@@ -4482,7 +4482,7 @@
     "message": "年"
   },
   "settings.billing.midas.benefits.ad-free": {
-    "message": "在 modrinth.com 和 Modrinth 应用上无广告浏览"
+    "message": "在 cosmods.miki85.cz 和 Modrinth 应用上无广告浏览"
   },
   "settings.billing.midas.benefits.badge": {
     "message": "个人资料上显示Modrinth+徽章"

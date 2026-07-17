@@ -4104,7 +4104,7 @@
     "message": "資料匯出"
   },
   "settings.account.delete.confirm.description": {
-    "message": "這個動作將會**立即刪除您的所有使用者資料與追蹤清單**。這不會刪除你的專案。帳號刪除後將無法還原。<br><br>若你需要帳號相關協助，請至 [Modrinth Discord](https://discord.modrinth.com) 取得支援。"
+    "message": "這個動作將會**立即刪除您的所有使用者資料與追蹤清單**。這不會刪除你的專案。帳號刪除後將無法還原。<br><br>若你需要帳號相關協助，請至 [Modrinth Discord](https://discord.cosmods.miki85.cz) 取得支援。"
   },
   "settings.account.delete.confirm.proceed": {
     "message": "刪除這個帳號"
@@ -4488,7 +4488,7 @@
     "message": "年"
   },
   "settings.billing.midas.benefits.ad-free": {
-    "message": "在 modrinth.com 與 Modrinth App 上享受無廣告的瀏覽體驗"
+    "message": "在 cosmods.miki85.cz 與 Modrinth App 上享受無廣告的瀏覽體驗"
   },
   "settings.billing.midas.benefits.badge": {
     "message": "在你的個人檔案顯示 Modrinth+ 徽章"

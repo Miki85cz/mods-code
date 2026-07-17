@@ -49,7 +49,7 @@ pub struct RequestForm {
     form_type: users_compliance::FormType,
 }
 
-/// Submit a compliance form.  
+/// Submit a compliance form.
 #[utoipa::path(
 	context_path = "/payout",
 	tag = "payouts",
@@ -88,7 +88,7 @@ pub async fn post_compliance_form(
                 && !c.tin_matched
             {
                 return Err(ApiError::InvalidInput(
-                    "Your TIN/SSN did not match the IRS records. Please contact support https://support.modrinth.com".to_owned(),
+                    "Your TIN/SSN did not match the IRS records. Please contact support https://support.cosmods.miki85.cz".to_owned(),
                 ));
             }
 
@@ -439,7 +439,7 @@ pub struct WithdrawalFees {
     pub exchange_rate: Option<Decimal>,
 }
 
-/// Calculate payout fees.  
+/// Calculate payout fees.
 #[utoipa::path(
 	context_path = "/payout",
 	tag = "payouts",
@@ -477,7 +477,7 @@ pub async fn calculate_fees(
     }))
 }
 
-/// Create a payout.  
+/// Create a payout.
 #[utoipa::path(
 	context_path = "/payout",
 	tag = "payouts", responses((status = NO_CONTENT))
@@ -598,7 +598,7 @@ pub async fn create_payout(
 
     if requires_manual_review {
         return Err(ApiError::InvalidInput(
-            "More information is required to proceed. Please contact support (https://support.modrinth.com, support@modrinth.com)".to_string(),
+            "More information is required to proceed. Please contact support (https://support.cosmods.miki85.cz, support@cosmods.miki85.cz)".to_string(),
         ));
     }
 
@@ -694,7 +694,7 @@ pub enum PayoutSource {
     Affilites,
 }
 
-/// Get transaction history.  
+/// Get transaction history.
 /// the user withdrew their payouts.
 #[utoipa::path(
 	context_path = "/payout",
@@ -781,7 +781,7 @@ pub async fn transaction_history(
     Ok(web::Json(txn_items))
 }
 
-/// Cancel a payout.  
+/// Cancel a payout.
 #[utoipa::path(
 	context_path = "/payout",
 	tag = "payouts", responses((status = NO_CONTENT))
@@ -904,7 +904,7 @@ pub enum FormCompletionStatus {
     Complete,
 }
 
-/// List payment methods.  
+/// List payment methods.
 #[utoipa::path(
 	context_path = "/payout",
 	tag = "payouts",
@@ -953,7 +953,7 @@ pub struct BalanceResponse {
     form_completion_status: Option<FormCompletionStatus>,
 }
 
-/// Get account balance.  
+/// Get account balance.
 #[utoipa::path(
 	context_path = "/payout",
 	tag = "payouts",
@@ -1181,7 +1181,7 @@ pub struct RevenueData {
     pub creator_revenue: Decimal,
 }
 
-/// Get platform revenue.  
+/// Get platform revenue.
 #[utoipa::path(
 	context_path = "/payout",
 	tag = "payouts",

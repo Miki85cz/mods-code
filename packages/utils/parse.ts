@@ -100,10 +100,10 @@ export const configuredXss = new FilterXSS({
 				const allowedHostnames = [
 					'imgur.com',
 					'i.imgur.com',
-					'cdn-raw.modrinth.com',
-					'cdn.modrinth.com',
-					'staging-cdn-raw.modrinth.com',
-					'staging-cdn.modrinth.com',
+					'cdn-raw.cosmods.miki85.cz',
+					'cdn.cosmods.miki85.cz',
+					'staging-cdn-raw.cosmods.miki85.cz',
+					'staging-cdn.cosmods.miki85.cz',
 					'github.com',
 					'raw.githubusercontent.com',
 					'user-images.githubusercontent.com',
@@ -170,7 +170,7 @@ export const md = (options = {}) => {
 
 			try {
 				const url = new URL(href)
-				const allowedHostnames = ['modrinth.com']
+				const allowedHostnames = ['cosmods.miki85.cz']
 
 				if (allowedHostnames.includes(url.hostname)) {
 					return defaultLinkOpenRenderer(tokens, idx, options, env, self)

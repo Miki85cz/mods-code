@@ -102,7 +102,7 @@
 							times. If it still doesn’t respond please
 							<a
 								class="inline underline"
-								href="https://support.modrinth.com"
+								href="https://support.cosmods.miki85.cz"
 								target="_blank"
 								rel="noopener noreferrer"
 							>
