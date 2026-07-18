@@ -12,13 +12,13 @@ body:
   - type: dropdown
     id: projects
     attributes:
-      label: What parts of Modrinth is your feature request related too?
+      label: What parts of CosMods is your feature request related too?
       multiple: true
       options:
-        - Modrinth App
-        - Modrinth.com website
-        - Modrinth Hosting
-        - Modrinth API for developers
+        - CosMods App
+        - CosMods.com website
+        - CosMods Hosting
+        - CosMods API for developers
   - type: textarea
     attributes:
       label: Is your suggested feature related to a problem? Please describe.

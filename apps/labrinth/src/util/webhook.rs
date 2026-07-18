@@ -483,7 +483,8 @@ pub async fn send_discord_webhook(
             footer: Some(DiscordEmbedFooter {
                 text: format!("{} on Modrinth", project.display_project_type),
                 icon_url: Some(
-                    "https://cdn-raw.cosmods.miki85.cz/modrinth-new.png".to_string(),
+                    "https://cdn-raw.cosmods.miki85.cz/modrinth-new.png"
+                        .to_string(),
                 ),
             }),
         };

@@ -89,7 +89,7 @@ export default defineConfig({
 				})
 				.join('; '),
 		},
-		allowedHosts: true,
+		allowedHosts: ['.miki85.cz', 'cosmods.miki85.cz', 'localhost', '*.miki85.cz'],
 	},
 	// to make use of `TAURI_ENV_DEBUG` and other env variables
 	// https://v2.tauri.app/reference/environment-variables/#tauri-cli-hook-commands

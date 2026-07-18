@@ -8,7 +8,10 @@ import StyledEmail from '../shared/StyledEmail.vue'
 	<StyledEmail
 		title="You've been invited to a server"
 		:manual-links="[
-			{ link: 'https://cosmods.miki85.cz/dashboard/notifications', label: 'Notification dashboard' },
+			{
+				link: 'https://cosmods.miki85.cz/dashboard/notifications',
+				label: 'Notification dashboard',
+			},
 			{ link: 'https://support.cosmods.miki85.cz', label: 'Support Portal' },
 		]"
 	>

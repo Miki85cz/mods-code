@@ -99,10 +99,10 @@
     "message": "عرض"
   },
   "analytics.chart.controls.modrinth-events": {
-    "message": "فعاليات Modrinth"
+    "message": "فعاليات CosMods"
   },
   "analytics.chart.controls.no-modrinth-events": {
-    "message": "لا توجد حالات Modrinth في الرسوم البيانية."
+    "message": "لا توجد حالات CosMods في الرسوم البيانية."
   },
   "analytics.chart.controls.no-project-events": {
     "message": "لا توجد أحداث للمشروع في الرسم البياني."
@@ -132,7 +132,7 @@
     "message": "عرض تفاصيل التحليلات المتعلقة بتحقيق الدخل"
   },
   "analytics.chart.legend.monetization-details.description": {
-    "message": "لا تُحتسب في عملية تحقيق الدخل سوى المشاهدات وعمليات التنزيل التي تتم عبر Modrinth، ويجب على المستخدمين تسجيل الدخول لإجراء عمليات التنزيل."
+    "message": "لا تُحتسب في عملية تحقيق الدخل سوى المشاهدات وعمليات التنزيل التي تتم عبر CosMods، ويجب على المستخدمين تسجيل الدخول لإجراء عمليات التنزيل."
   },
   "analytics.chart.legend.monetization-details.title": {
     "message": "تفاصيل التحليلات المُدرة للدخل"
@@ -210,10 +210,10 @@
     "message": "تحديث"
   },
   "analytics.download-source.app": {
-    "message": "تطبيق Modrinth"
+    "message": "تطبيق CosMods"
   },
   "analytics.download-source.website": {
-    "message": "موقع Modrinth الإلكتروني"
+    "message": "موقع CosMods الإلكتروني"
   },
   "analytics.downloads.suffix": {
     "message": "التنزيلات"
@@ -396,7 +396,7 @@
     "message": "التنزيلات"
   },
   "analytics.stat.monetization-banner.body": {
-    "message": "المشاهدات وعمليات التنزيل التي تتم عبر Modrinth فقط هي المؤهلة لتحقيق الأرباح، ويجب أن تجتاز عملية تصفية لمنع الاحتيال. كما تتطلب عمليات التنزيل من تطبيق Modrinth تسجيل دخول المستخدم. ونظرًا لأن جميع المشاريع لديها نسبة متشابهة من التنزيلات القابلة لتحقيق الأرباح، فلن يتغير إيرادك بشكل ملحوظ إذا تم احتساب جميع عمليات التنزيل."
+    "message": "المشاهدات وعمليات التنزيل التي تتم عبر CosMods فقط هي المؤهلة لتحقيق الأرباح، ويجب أن تجتاز عملية تصفية لمنع الاحتيال. كما تتطلب عمليات التنزيل من تطبيق CosMods تسجيل دخول المستخدم. ونظرًا لأن جميع المشاريع لديها نسبة متشابهة من التنزيلات القابلة لتحقيق الأرباح، فلن يتغير إيرادك بشكل ملحوظ إذا تم احتساب جميع عمليات التنزيل."
   },
   "analytics.stat.monetization-banner.learn-more": {
     "message": "معرفة المزيد"
@@ -432,7 +432,7 @@
     "message": "لينكس"
   },
   "app-marketing.download.linux-disclaimer": {
-    "message": "الإصدارات الخاصة بـ Linux من Modrinth App <issues-link>معروفة بوجود مشاكل</issues-link> على بعض الأنظمة والتكوينات. إذا كان Modrinth App غير مستقر على نظامك، فننصحك بتجربة تطبيقات أخرى مثل <prism-link>Prism Launcher</prism-link> لتثبيت محتوى Modrinth بسهولة."
+    "message": "الإصدارات الخاصة بـ Linux من CosMods App <issues-link>معروفة بوجود مشاكل</issues-link> على بعض الأنظمة والتكوينات. إذا كان CosMods App غير مستقر على نظامك، فننصحك بتجربة تطبيقات أخرى مثل <prism-link>Prism Launcher</prism-link> لتثبيت محتوى CosMods بسهولة."
   },
   "app-marketing.download.mac": {
     "message": "ماك"
@@ -441,10 +441,10 @@
     "message": "خيارات التنزيل"
   },
   "app-marketing.download.terms": {
-    "message": "بتنزيلك Modrinth App فإنك توافق على <terms-link>الشروط</terms-link> و <privacy-link>سياسة الخصوصية</privacy-link>."
+    "message": "بتنزيلك CosMods App فإنك توافق على <terms-link>الشروط</terms-link> و <privacy-link>سياسة الخصوصية</privacy-link>."
   },
   "app-marketing.download.title": {
-    "message": "تنزيل Modrinth App (النسخة التجريبية)"
+    "message": "تنزيل CosMods App (النسخة التجريبية)"
   },
   "app-marketing.download.windows": {
     "message": "ويندوز"
@@ -456,7 +456,7 @@
     "message": "تابع المشروعات"
   },
   "app-marketing.features.importing.description": {
-    "message": "استورد جميع ملفاتك الشخصية المفضلة من المشغل الذي كنت تستخدمه من قبل، وابدأ باستخدام Modrinth App في ثوانٍ!"
+    "message": "استورد جميع ملفاتك الشخصية المفضلة من المشغل الذي كنت تستخدمه من قبل، وابدأ باستخدام CosMods App في ثوانٍ!"
   },
   "app-marketing.features.importing.gdlauncher-alt": {
     "message": "GDLauncher"
@@ -510,7 +510,7 @@
     "message": "% CPU"
   },
   "app-marketing.features.performance.description": {
-    "message": "يعمل Modrinth App بكفاءة أفضل من العديد من مديري المودات الرائدين، باستخدام 150 ميغابايت فقط من الذاكرة العشوائية!"
+    "message": "يعمل CosMods App بكفاءة أفضل من العديد من مديري المودات الرائدين، باستخدام 150 ميغابايت فقط من الذاكرة العشوائية!"
   },
   "app-marketing.features.performance.discord": {
     "message": "ديسكورد"
@@ -546,7 +546,7 @@
     "message": "أداء قوي"
   },
   "app-marketing.features.play.description": {
-    "message": "استخدم Modrinth App لتنزيل ولعب موداتك وحزم المودات المفضلة لديك."
+    "message": "استخدم CosMods App لتنزيل ولعب موداتك وحزم المودات المفضلة لديك."
   },
   "app-marketing.features.play.title": {
     "message": "العب مع موداتك المفضلة"
@@ -567,7 +567,7 @@
     "message": "مختلف عن أي مشغل آخر"
   },
   "app-marketing.features.website.description": {
-    "message": "تم دمج Modrinth App بالكامل مع الموقع، بحيث يمكنك الوصول إلى جميع مشاريعك المفضلة بواسطة التطبيق!"
+    "message": "تم دمج CosMods App بالكامل مع الموقع، بحيث يمكنك الوصول إلى جميع مشاريعك المفضلة بواسطة التطبيق!"
   },
   "app-marketing.features.website.title": {
     "message": "تكامل مع الموقع"
@@ -576,19 +576,19 @@
     "message": "الذي استخدمته من قبل"
   },
   "app-marketing.hero.app-screenshot-alt": {
-    "message": "لقطة شاشة لـ Modrinth App مع نسخة Cobblemon مفتوحة في صفحة \"المحتوى\"."
+    "message": "لقطة شاشة لـ CosMods App مع نسخة Cobblemon مفتوحة في صفحة \"المحتوى\"."
   },
   "app-marketing.hero.description": {
-    "message": "Modrinth App هو مشغل فريد ومفتوح المصدر يتيح لك لعب موداتك المفضلة والحفاظ عليها محدثة، وكل ذلك في حزمة واحدة بسيطة ومنظمة."
+    "message": "CosMods App هو مشغل فريد ومفتوح المصدر يتيح لك لعب موداتك المفضلة والحفاظ عليها محدثة، وكل ذلك في حزمة واحدة بسيطة ومنظمة."
   },
   "app-marketing.hero.download-button": {
-    "message": "تنزيل Modrinth App"
+    "message": "تنزيل CosMods App"
   },
   "app-marketing.hero.download-modrinth-app": {
-    "message": "تنزيل Modrinth App"
+    "message": "تنزيل CosMods App"
   },
   "app-marketing.hero.download-modrinth-app-for-os": {
-    "message": "تنزيل Modrinth App لـ {os}"
+    "message": "تنزيل CosMods App لـ {os}"
   },
   "app-marketing.hero.minecraft-screenshot-alt": {
     "message": "لقطة شاشة لقائمة Cobblemon الرئيسية."
@@ -978,7 +978,7 @@
     "message": "نموذج ضريبي"
   },
   "dashboard.creator-tax-form-modal.security.description": {
-    "message": "تستخدم Modrinth المزود الخارجي Track1099 لجمع وتخزين نماذج الضرائب الخاصة بك بأمان. <security-link>تعرف على المزيد هنا.</security-link>"
+    "message": "تستخدم CosMods المزود الخارجي Track1099 لجمع وتخزين نماذج الضرائب الخاصة بك بأمان. <security-link>تعرف على المزيد هنا.</security-link>"
   },
   "dashboard.creator-tax-form-modal.security.header": {
     "message": "ممارسات الأمن"
@@ -1143,7 +1143,7 @@
     "message": "لسحب رصيدك المتاح بالكامل <b>{available}</b> يرجى تعبئة النموذج أدناه. هذا النموذج مطلوب لأغراض الإبلاغ الضريبي، ولا يلزم تعبئته إلا مرة واحدة."
   },
   "dashboard.creator-withdraw-modal.tax-form-required.body-with-limit": {
-    "message": "يجب عليك إكمال نموذج W-9 أو W-8 لسجلات الضرائب الخاصة بشركة Modrinth حتى نبقى ملتزمين باللوائح الضريبية."
+    "message": "يجب عليك إكمال نموذج W-9 أو W-8 لسجلات الضرائب الخاصة بشركة CosMods حتى نبقى ملتزمين باللوائح الضريبية."
   },
   "dashboard.creator-withdraw-modal.tax-form-required.header": {
     "message": "نموذج ضريبي مطلوب"
@@ -1185,7 +1185,7 @@
     "message": "ايميل غير مؤكد"
   },
   "dashboard.creator-withdraw-modal.tremendous-details.unverified-email-message": {
-    "message": "البريد الإلكتروني الذي أدخلته لا يرتبط بحسابك في Modrinth. لا يمكن Modrinth استرداد المكافآت المرسلة إلى عنوان بريد إلكتروني غير صحيح."
+    "message": "البريد الإلكتروني الذي أدخلته لا يرتبط بحسابك في CosMods. لا يمكن CosMods استرداد المكافآت المرسلة إلى عنوان بريد إلكتروني غير صحيح."
   },
   "dashboard.creator-withdraw-modal.tremendous-details.usd-paypal-warning-header": {
     "message": "تتوفر أقساط مخفضة"
@@ -1224,7 +1224,7 @@
     "message": "قد تخضع الإيرادات المقدرة للتغيير حتى يتم توفيرها. "
   },
   "dashboard.revenue.estimated-tooltip.msg2": {
-    "message": "اضغط لكي تعرف كيف Modrinth يستحمل إيراداتك"
+    "message": "اضغط لكي تعرف كيف CosMods يستحمل إيراداتك"
   },
   "dashboard.revenue.estimated-with-date": {
     "message": "مقدر {date}"
@@ -1497,7 +1497,7 @@
     "message": "ما سرعه خوادم modrinth؟"
   },
   "hosting-marketing.faq.location": {
-    "message": "أين تقع استضافة خوادم Modrinth؟ هل يمكنني اختيار منطقة؟"
+    "message": "أين تقع استضافة خوادم CosMods؟ هل يمكنني اختيار منطقة؟"
   },
   "hosting-marketing.get-started": {
     "message": "ابدأ"
@@ -1512,7 +1512,7 @@
     "message": "أنشئ خادمك"
   },
   "hosting-marketing.hero.host-with-modrinth": {
-    "message": "أدر خادمك التالي مع Modrinth Hosting"
+    "message": "أدر خادمك التالي مع CosMods Hosting"
   },
   "hosting-marketing.included.backups-included": {
     "message": "النسخ الاحتياطية مضمنة"
@@ -1542,16 +1542,16 @@
     "message": "يمكنك إدارة كل شيء على مودرينث"
   },
   "hosting-marketing.why.all-on-modrinth.description": {
-    "message": "خادمك، وتعديلاتك، ولاعبوك، وغير ذلك الكثير موجود جميعها على Modrinth. لا حاجة للتبديل بين المنصات."
+    "message": "خادمك، وتعديلاتك، ولاعبوك، وغير ذلك الكثير موجود جميعها على CosMods. لا حاجة للتبديل بين المنصات."
   },
   "hosting-marketing.why.consistently-fast": {
     "message": "سريع باستمرار"
   },
   "hosting-marketing.why.consistently-fast.description": {
-    "message": "لا يتم تحميل بنيتنا التحتية بشكل زائد أبدًا، مما يعني أن كل خادم مستضاف مع Modrinth يعمل دائمًا بكامل طاقته."
+    "message": "لا يتم تحميل بنيتنا التحتية بشكل زائد أبدًا، مما يعني أن كل خادم مستضاف مع CosMods يعمل دائمًا بكامل طاقته."
   },
   "hosting-marketing.why.description": {
-    "message": "اختر من بين آلاف حزم التعديلات المتوفرة على موقع Modrinth أو أنشئ حزمتك الخاصة. ادعُ أصدقاءك عندما تكون مستعدًا للعب."
+    "message": "اختر من بين آلاف حزم التعديلات المتوفرة على موقع CosMods أو أنشئ حزمتك الخاصة. ادعُ أصدقاءك عندما تكون مستعدًا للعب."
   },
   "hosting-marketing.why.heading": {
     "message": "ابحث عن حزمة تعديلات. الآن أصبح خادمًا."
@@ -1560,22 +1560,22 @@
     "message": "استمتع بتجربة استضافة عصرية وموثوقة"
   },
   "hosting-marketing.why.modern-reliable-hosting.description": {
-    "message": "يتم استضافة خوادم Modrinth Hosting على <contrast>high-performance AMD CPUs with DDR5 RAM</contrast>، وتعمل على برمجيات مخصّصة لضمان تشغيل خادمك بسلاسة."
+    "message": "يتم استضافة خوادم CosMods Hosting على <contrast>high-performance AMD CPUs with DDR5 RAM</contrast>، وتعمل على برمجيات مخصّصة لضمان تشغيل خادمك بسلاسة."
   },
   "hosting-marketing.why.where-mods-are": {
     "message": "العب حيث توجد تعديلاتك"
   },
   "hosting-marketing.why.where-mods-are.description": {
-    "message": "تدمج خدمة Modrinth Hosting عملية تثبيت التعديلات وحزم التعديلات بسلاسة في خادمك."
+    "message": "تدمج خدمة CosMods Hosting عملية تثبيت التعديلات وحزم التعديلات بسلاسة في خادمك."
   },
   "hosting-marketing.why.why-modrinth-hosting": {
-    "message": "لماذا استضافة Modrinth؟"
+    "message": "لماذا استضافة CosMods؟"
   },
   "hosting-marketing.why.your-favorite-mods": {
     "message": "جميع التعديلات المفضلة لديك"
   },
   "hosting-marketing.why.your-favorite-mods.description": {
-    "message": "اختر بين Vanilla و Fabric و Forge و Quilt و NeoForge. إذا كان البرنامج موجودًا على Modrinth، فيمكن تشغيله على خادمك."
+    "message": "اختر بين Vanilla و Fabric و Forge و Quilt و NeoForge. إذا كان البرنامج موجودًا على CosMods، فيمكن تشغيله على خادمك."
   },
   "hosting.plan.out-of-stock": {
     "message": "إنتهى من المخزن"
@@ -1677,7 +1677,7 @@
     "message": "تمثيل مبسط لنافذة ماين كرافت، مع شعار Mojang Studios باللون الأخضر الخاص بمودرنث."
   },
   "landing.launcher.modrinth-app-label": {
-    "message": "Modrinth App"
+    "message": "CosMods App"
   },
   "landing.launcher.prism-launcher-label": {
     "message": "Prism Launcher"
@@ -1779,22 +1779,22 @@
     "message": "شروط الاستخدام"
   },
   "layout.footer.modrinth-information": {
-    "message": "معلومات Modrinth"
+    "message": "معلومات CosMods"
   },
   "layout.footer.open-source": {
-    "message": "Modrinth <github-link>مفتوح المصدر</github-link>."
+    "message": "CosMods <github-link>مفتوح المصدر</github-link>."
   },
   "layout.footer.products": {
     "message": "منتجات"
   },
   "layout.footer.products.app": {
-    "message": "Modrinth App"
+    "message": "CosMods App"
   },
   "layout.footer.products.plus": {
-    "message": "Modrinth+"
+    "message": "CosMods+"
   },
   "layout.footer.products.servers": {
-    "message": "استضافة Modrinth"
+    "message": "استضافة CosMods"
   },
   "layout.footer.resources": {
     "message": "موارد"

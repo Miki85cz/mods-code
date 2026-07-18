@@ -5,7 +5,8 @@
 		<p>
 			This page was created for transparency for how the rewards program works on Modrinth. Feel
 			free to join our Discord or email
-			<a href="mailto:support@cosmods.miki85.cz">support@cosmods.miki85.cz</a> if you have any questions!
+			<a href="mailto:support@cosmods.miki85.cz">support@cosmods.miki85.cz</a> if you have any
+			questions!
 		</p>
 		<p>
 			This document is provided for informational purposes only and does not constitute a legal

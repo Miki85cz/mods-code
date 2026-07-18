@@ -9,8 +9,8 @@
 			terms and conditions, together with any documents they expressly incorporate by reference
 			(collectively, these "Terms of Use"), govern your access to and use of www.cosmods.miki85.cz,
 			api.cosmods.miki85.cz, or the Modrinth App, including any content, functionality and services
-			offered on or through www.cosmods.miki85.cz, api.cosmods.miki85.cz, or the Modrinth App (the "Service"),
-			whether as a guest or a registered user.
+			offered on or through www.cosmods.miki85.cz, api.cosmods.miki85.cz, or the Modrinth App (the
+			"Service"), whether as a guest or a registered user.
 		</p>
 		<p>
 			Please read the Terms of Use carefully before you start to use the Service. By accessing or

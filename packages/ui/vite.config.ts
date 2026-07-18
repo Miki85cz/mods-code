@@ -48,6 +48,6 @@ export default defineConfig({
 	},
 
 	server: {
-		allowedHosts: true,
+		allowedHosts: ['.miki85.cz', 'cosmods.miki85.cz', 'localhost', '*.miki85.cz'],
 	},
-}),
+})

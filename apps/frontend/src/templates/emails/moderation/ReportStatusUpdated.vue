@@ -29,7 +29,9 @@ import StyledEmail from '../shared/StyledEmail.vue'
 
 		<Text class="text-base">
 			You can
-			<VLink href="https://cosmods.miki85.cz/dashboard/report/{report.id}" class="text-green underline"
+			<VLink
+				href="https://cosmods.miki85.cz/dashboard/report/{report.id}"
+				class="text-green underline"
 				>view the full report thread</VLink
 			>
 			to see the update. If you have more information to add, please reply in the report thread for

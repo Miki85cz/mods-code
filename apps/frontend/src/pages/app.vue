@@ -151,7 +151,8 @@ const modManagementData = [
 		name: 'Iris Shaders',
 		author: 'coderbot',
 		version: '1.6.5+1.20.1',
-		iconUrl: 'https://cdn.cosmods.miki85.cz/data/YL57xq9U/dc558eece920db435f9823ce86de0c4cde89800b.png',
+		iconUrl:
+			'https://cdn.cosmods.miki85.cz/data/YL57xq9U/dc558eece920db435f9823ce86de0c4cde89800b.png',
 	},
 	{
 		id: 'gvQqBUqZ',
@@ -187,7 +188,8 @@ const modManagementData = [
 		name: 'Craftify',
 		author: 'ThatGravyBoat',
 		version: '8.5.2023',
-		iconUrl: 'https://cdn.cosmods.miki85.cz/data/nrJ2NpD0/4f21214db060ed4542b1f3983c4113d293480a1b.webp',
+		iconUrl:
+			'https://cdn.cosmods.miki85.cz/data/nrJ2NpD0/4f21214db060ed4542b1f3983c4113d293480a1b.webp',
 	},
 ]
 
@@ -2385,7 +2387,8 @@ useSeoMeta({
 	}
 
 	.landing-hero {
-		background: url('https://cdn-raw.cosmods.miki85.cz/app-landing/cube-light.png') no-repeat center 4rem;
+		background: url('https://cdn-raw.cosmods.miki85.cz/app-landing/cube-light.png') no-repeat center
+			4rem;
 		background-size: cover;
 	}
 

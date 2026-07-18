@@ -159,10 +159,10 @@
     "message": "Uppdatera"
   },
   "analytics.download-source.app": {
-    "message": "Modrinth App"
+    "message": "CosMods App"
   },
   "analytics.download-source.website": {
-    "message": "Modrinth hemsida"
+    "message": "CosMods hemsida"
   },
   "analytics.downloads.suffix": {
     "message": "nedladdningar"
@@ -363,7 +363,7 @@
     "message": "{start} till {end}"
   },
   "analytics.table.csv.filename": {
-    "message": "Modrinth statistik {breakdown} analys - {dateRange}"
+    "message": "CosMods statistik {breakdown} analys - {dateRange}"
   },
   "analytics.table.csv.header.playtime-seconds": {
     "message": "Speltid (sekunder)"
@@ -441,7 +441,7 @@
     "message": "Linux"
   },
   "app-marketing.download.linux-disclaimer": {
-    "message": "Linuxversionerna av Modrinth Appen är <issues-link>kända att ha problem</issues-link> på vissa system och konfigurationer. Om Modrinth App är instabil på ditt system uppmuntrar vi dig att pröva andra appar som <prism-link>Prism Launcher</prism-link> för att enkelt installera innehåll från Modrinth."
+    "message": "Linuxversionerna av CosMods Appen är <issues-link>kända att ha problem</issues-link> på vissa system och konfigurationer. Om CosMods App är instabil på ditt system uppmuntrar vi dig att pröva andra appar som <prism-link>Prism Launcher</prism-link> för att enkelt installera innehåll från CosMods."
   },
   "app-marketing.download.mac": {
     "message": "Mac"
@@ -450,10 +450,10 @@
     "message": "Nedladdningsalternativ"
   },
   "app-marketing.download.terms": {
-    "message": "När du laddar ner Modrinth App godkänner du våra <terms-link>Villkor</terms-link> och vår <privacy-link>Integritetspolicy</privacy-link>."
+    "message": "När du laddar ner CosMods App godkänner du våra <terms-link>Villkor</terms-link> och vår <privacy-link>Integritetspolicy</privacy-link>."
   },
   "app-marketing.download.title": {
-    "message": "Ladda ner Modrinth App (Beta)"
+    "message": "Ladda ner CosMods App (Beta)"
   },
   "app-marketing.download.windows": {
     "message": "Windows"
@@ -465,7 +465,7 @@
     "message": "Följ projekt"
   },
   "app-marketing.features.importing.description": {
-    "message": "Importera alla dina favoritprofiler från din tidigare launcher och kom igång med Modrinth App på ett ögonblick!"
+    "message": "Importera alla dina favoritprofiler från din tidigare launcher och kom igång med CosMods App på ett ögonblick!"
   },
   "app-marketing.features.importing.gdlauncher-alt": {
     "message": "GDLauncher"
@@ -483,7 +483,7 @@
     "message": "av {author}"
   },
   "app-marketing.features.mod-management.description": {
-    "message": "Modrinth gör det enkelt att hantera alla dina moddar på ett och samma ställe. Du kan installera, avinstallera och uppdatera moddar med ett enda klick."
+    "message": "CosMods gör det enkelt att hantera alla dina moddar på ett och samma ställe. Du kan installera, avinstallera och uppdatera moddar med ett enda klick."
   },
   "app-marketing.features.mod-management.installed-mods": {
     "message": "Installerade moddar"
@@ -519,7 +519,7 @@
     "message": "% CPU"
   },
   "app-marketing.features.performance.description": {
-    "message": "Modrinth App presterar bättre än många av de ledande modhanterarna och använder bara 150 MB RAM!"
+    "message": "CosMods App presterar bättre än många av de ledande modhanterarna och använder bara 150 MB RAM!"
   },
   "app-marketing.features.performance.discord": {
     "message": "Discord"
@@ -540,7 +540,7 @@
     "message": "< 150 MB"
   },
   "app-marketing.features.performance.modrinth-app": {
-    "message": "Modrinth App"
+    "message": "CosMods App"
   },
   "app-marketing.features.performance.one-billion-percent": {
     "message": "1 miljard %"
@@ -558,13 +558,13 @@
     "message": "Effektiv"
   },
   "app-marketing.features.play.description": {
-    "message": "Använd Modrinth App för att ladda ner och spela dina favoritmoddar och modpaket."
+    "message": "Använd CosMods App för att ladda ner och spela dina favoritmoddar och modpaket."
   },
   "app-marketing.features.play.title": {
     "message": "Spela dina favoritmoddar"
   },
   "app-marketing.features.sharing.description": {
-    "message": "Skapa, dela och spela modpaket från alla tusentals moddar och modpaket som finns här på Modrinth."
+    "message": "Skapa, dela och spela modpaket från alla tusentals moddar och modpaket som finns här på CosMods."
   },
   "app-marketing.features.sharing.modpack": {
     "message": "Modpaket"
@@ -579,7 +579,7 @@
     "message": "Inte som någon annan launcher"
   },
   "app-marketing.features.website.description": {
-    "message": "Modrinth App är helt integrerad med webbsidan, så att du kan använda alla dina favoritprojekt i appen!"
+    "message": "CosMods App är helt integrerad med webbsidan, så att du kan använda alla dina favoritprojekt i appen!"
   },
   "app-marketing.features.website.title": {
     "message": "Webbsidointegrering"
@@ -588,19 +588,19 @@
     "message": "du använt förut"
   },
   "app-marketing.hero.app-screenshot-alt": {
-    "message": "Skärmdump av Modrinth App med en Cobblemon-instans öppen på sidan ”Innehåll”."
+    "message": "Skärmdump av CosMods App med en Cobblemon-instans öppen på sidan ”Innehåll”."
   },
   "app-marketing.hero.description": {
-    "message": "Modrinth App är en unik launcher med öppen källkod som låter dig spela dina favoritmoddar och hålla de uppdaterade, allt i ett smidigt litet paket."
+    "message": "CosMods App är en unik launcher med öppen källkod som låter dig spela dina favoritmoddar och hålla de uppdaterade, allt i ett smidigt litet paket."
   },
   "app-marketing.hero.download-button": {
-    "message": "Ladda ner Modrinth App"
+    "message": "Ladda ner CosMods App"
   },
   "app-marketing.hero.download-modrinth-app": {
-    "message": "Ladda ner Modrinth App"
+    "message": "Ladda ner CosMods App"
   },
   "app-marketing.hero.download-modrinth-app-for-os": {
-    "message": "Ladda ner Modrinth App för {os}"
+    "message": "Ladda ner CosMods App för {os}"
   },
   "app-marketing.hero.minecraft-screenshot-alt": {
     "message": "Skärmdump av huvudmenyn i Cobblemon-instansen."
@@ -672,7 +672,7 @@
     "message": "Skapa konto"
   },
   "auth.create-account.subscribe.label": {
-    "message": "Håll mig uppdaterad om de coola sakerna Modrinth arbetar på via e-post"
+    "message": "Håll mig uppdaterad om de coola sakerna CosMods arbetar på via e-post"
   },
   "auth.create-account.title": {
     "message": "Skapa ett konto"
@@ -744,7 +744,7 @@
     "message": "Har du inget konto?"
   },
   "auth.sign-in.sign-in-with": {
-    "message": "Logga in på Modrinth"
+    "message": "Logga in på CosMods"
   },
   "auth.sign-in.title": {
     "message": "Logga in"
@@ -840,7 +840,7 @@
     "message": "Är du säker på att du vill radera samlingen?"
   },
   "collection.description": {
-    "message": "{description} - Visa samlingen {name} av {username} på Modrinth"
+    "message": "{description} - Visa samlingen {name} av {username} på CosMods"
   },
   "collection.description.following": {
     "message": "Auto-genererad samling av projekten du följer."
@@ -963,7 +963,7 @@
     "message": "Svara tråden"
   },
   "conversation-thread.reply-modal.help-center-note": {
-    "message": "Ifall du behöver komma i kontakt med moderatorteamet, vänligen använd <help-center-link>Modrinth hjälpcenter</help-center-link> och klicka på den blåa bubblan nere till höger för att kontakta support."
+    "message": "Ifall du behöver komma i kontakt med moderatorteamet, vänligen använd <help-center-link>CosMods hjälpcenter</help-center-link> och klicka på den blåa bubblan nere till höger för att kontakta support."
   },
   "conversation-thread.resubmit-modal.confirmation.description": {
     "message": "Bekräfta att jag tagit itu med meddelandena från moderatorerna"
@@ -1227,7 +1227,7 @@
     "message": "Skatteformulär"
   },
   "dashboard.creator-tax-form-modal.security.description": {
-    "message": "Modrinth anväder tredjepartsleverantören Track1099 för att på ett säkert samla och lagra dina skattedeklarationer. <security-link>Läs mer här.</security-link>"
+    "message": "CosMods anväder tredjepartsleverantören Track1099 för att på ett säkert samla och lagra dina skattedeklarationer. <security-link>Läs mer här.</security-link>"
   },
   "dashboard.creator-tax-form-modal.security.header": {
     "message": "Säkerhetsrutiner"
@@ -1581,7 +1581,7 @@
     "message": "Estimerad inkomst kan ändras tills att den är tillgänglig."
   },
   "dashboard.revenue.estimated-tooltip.msg2": {
-    "message": "Klicka för att läsa om hur Modrinth hanterar din inkomst."
+    "message": "Klicka för att läsa om hur CosMods hanterar din inkomst."
   },
   "dashboard.revenue.estimated-with-date": {
     "message": "Estimerat {date}"
@@ -1782,10 +1782,10 @@
     "message": "Innehåll otillgängligt av juridiska skäl"
   },
   "error.generic.default.list_item.1": {
-    "message": "Se om Modrinth ligger nere på vår <status-link>statussida</status-link>."
+    "message": "Se om CosMods ligger nere på vår <status-link>statussida</status-link>."
   },
   "error.generic.default.list_item.2": {
-    "message": "Om detta fortsätter hända borde du kanske kontakta Modrinth-teamet genom vår <discord-link>Discord server</discord-link>."
+    "message": "Om detta fortsätter hända borde du kanske kontakta CosMods-teamet genom vår <discord-link>Discord server</discord-link>."
   },
   "error.generic.default.list_title": {
     "message": "Vänligen försök igen om några minuter."
@@ -1872,10 +1872,10 @@
     "message": "När din server har hög belastning ger vi den tillfälligt tillgång till ytterligare CPU-trådar för att minska plötsliga fördröjningar och instabilitet. Detta bidrar till att förhindra att TPS sjunker under 20, vilket garanterar en så smidig upplevelse som möjligt. Eftersom dessa extra CPU-trådar endast är tillgängliga under korta perioder vid hög belastning, kanske de inte syns i Spark-rapporter eller andra profilverktyg."
   },
   "hosting-marketing.faq.cpu-kind": {
-    "message": "Vilka typer av CPU:er kör Modrinth Hostings servrar på?"
+    "message": "Vilka typer av CPU:er kör CosMods Hostings servrar på?"
   },
   "hosting-marketing.faq.cpu-kind.answer": {
-    "message": "Modrinth Hostings servar använder AMD Ryzen 7900- och 7950X3D-motsvarande CPU:er vid 5+ GHZ, kombinerat med DDR5-arbetsminne."
+    "message": "CosMods Hostings servar använder AMD Ryzen 7900- och 7950X3D-motsvarande CPU:er vid 5+ GHZ, kombinerat med DDR5-arbetsminne."
   },
   "hosting-marketing.faq.currency": {
     "message": "Vilken valuta är priserna i?"
@@ -1884,19 +1884,19 @@
     "message": "Alla priser är listade i United States dollar (USD)."
   },
   "hosting-marketing.faq.ddos-protection": {
-    "message": "Har Modrinth Hostings servrar DDoS-skydd?"
+    "message": "Har CosMods Hostings servrar DDoS-skydd?"
   },
   "hosting-marketing.faq.ddos-protection.answer": {
-    "message": "Ja. Alla Modrinth Hosting servrar medföljer DDoS-skydd, med upp till 17 Tbps kapacitet på vissa ställen."
+    "message": "Ja. Alla CosMods Hosting servrar medföljer DDoS-skydd, med upp till 17 Tbps kapacitet på vissa ställen."
   },
   "hosting-marketing.faq.heading": {
     "message": "Vanliga frågor"
   },
   "hosting-marketing.faq.how-fast": {
-    "message": "Hur snabba är Modrinth Hostings servrar?"
+    "message": "Hur snabba är CosMods Hostings servrar?"
   },
   "hosting-marketing.faq.how-fast.answer.one": {
-    "message": "Modrinth Hostings servrar bygger på väldigt modern högpresterande hårdvara, men att säga exakt hur det kommer påverka hur din server kör är svårt, då det finns många olika faktorer som påverkar det, som moddarna, datapaketen, pluginsen som du kör på din server och även beteendet av dina spelare."
+    "message": "CosMods Hostings servrar bygger på väldigt modern högpresterande hårdvara, men att säga exakt hur det kommer påverka hur din server kör är svårt, då det finns många olika faktorer som påverkar det, som moddarna, datapaketen, pluginsen som du kör på din server och även beteendet av dina spelare."
   },
   "hosting-marketing.faq.how-fast.answer.two": {
     "message": "De flesta prestandaproblem som kommer upp är ofta på grund av ett ej-optimerad modpaket, mod, datapaket, eller plugin som får servern att lagga. Eftersom våra servrar är av väldigt hög kvalitet, så borde du inte inträffa många problem om du väljer en lämplig plan för innehållet som du har på servern."
@@ -1908,13 +1908,13 @@
     "message": "Ja. Lagringen din server har tillgång till kan ökas utan några ytterligare kostnader. Om du vill ha mer lagringsutrymme, kontakta Modrinths support."
   },
   "hosting-marketing.faq.location": {
-    "message": "Var finns Modrinth Hostings servrar? Kan jag välja region?"
+    "message": "Var finns CosMods Hostings servrar? Kan jag välja region?"
   },
   "hosting-marketing.faq.versions-loaders": {
     "message": "Vilka Minecraft versioner och loaders kan användas?"
   },
   "hosting-marketing.faq.versions-loaders.answer.one": {
-    "message": "Modrinth Hosting kan köra alla versioner av Minecraft: Java Edition ända bak till version 1.2.5, samt snapshots."
+    "message": "CosMods Hosting kan köra alla versioner av Minecraft: Java Edition ända bak till version 1.2.5, samt snapshots."
   },
   "hosting-marketing.faq.versions-loaders.answer.two": {
     "message": "Vi stöder också ett brett utbud av mod- och plugin-laddare, inklusive Fabric, Quilt, Forge och NeoForge för mods, samt Paper och Purpur för plugins. Tillgängligheten beror på om mod- eller plugin-laddaren stöder den valda Minecraft-versionen."
@@ -1932,10 +1932,10 @@
     "message": "Starta din server"
   },
   "hosting-marketing.hero.host-with-modrinth": {
-    "message": "Hosta din nästa server med Modrinth Hosting"
+    "message": "Hosta din nästa server med CosMods Hosting"
   },
   "hosting-marketing.hero.hosting-description": {
-    "message": "Modrinth Hosting är det lättaste sättet att hosta din egna Minecraft: Java Edition server. Installera och spela dina favoritmoddar och modpaket smidigt, allt inom Modrinth-plattformen."
+    "message": "CosMods Hosting är det lättaste sättet att hosta din egna Minecraft: Java Edition server. Installera och spela dina favoritmoddar och modpaket smidigt, allt inom CosMods-plattformen."
   },
   "hosting-marketing.included.advanced-networking": {
     "message": "Avancerad nätverkshantering"
@@ -1956,7 +1956,7 @@
     "message": "Dela din server med en anpassad <contrast>modrinth.gg</contrast> URL."
   },
   "hosting-marketing.included.description": {
-    "message": "Varje server inkluderar en rad funktioner som är designade för att ge en hostingupplevelse som endast Modrinth kan erbjuda."
+    "message": "Varje server inkluderar en rad funktioner som är designade för att ge en hostingupplevelse som endast CosMods kan erbjuda."
   },
   "hosting-marketing.included.file-manager": {
     "message": "Filhanterare som är lätt att använda"
@@ -1971,19 +1971,19 @@
     "message": "Hjälp när du behöver det"
   },
   "hosting-marketing.included.help.description": {
-    "message": "Kontakta Modrinth-teamet för hjälp med din server när som helst."
+    "message": "Kontakta CosMods-teamet för hjälp med din server när som helst."
   },
   "hosting-marketing.included.powerful-console": {
     "message": "En kraftfull konsol, serveregenskapshanterare och mycket mer"
   },
   "hosting-marketing.included.powerful-console.description": {
-    "message": "Modrinth Hosting kommer med kraftfulla verktyg för att hantera din server."
+    "message": "CosMods Hosting kommer med kraftfulla verktyg för att hantera din server."
   },
   "hosting-marketing.included.sftp-access": {
     "message": "SFTP åtkomst"
   },
   "hosting-marketing.included.sftp-access.description": {
-    "message": "Kom åt dina servers filer direkt med SFTP inbyggd i Modrinth Hosting."
+    "message": "Kom åt dina servers filer direkt med SFTP inbyggd i CosMods Hosting."
   },
   "hosting-marketing.included.with-your-server": {
     "message": "Inkluderas med din server"
@@ -2007,19 +2007,19 @@
     "message": "Det finns en server för alla"
   },
   "hosting-marketing.why.all-on-modrinth": {
-    "message": "Hantera allt på Modrinth"
+    "message": "Hantera allt på CosMods"
   },
   "hosting-marketing.why.all-on-modrinth.description": {
-    "message": "Din server, moddar, spelare och mycket mer finns på Modrinth. Du behöver inte växla mellan olika plattformar."
+    "message": "Din server, moddar, spelare och mycket mer finns på CosMods. Du behöver inte växla mellan olika plattformar."
   },
   "hosting-marketing.why.consistently-fast": {
     "message": "Jämnt snabb"
   },
   "hosting-marketing.why.consistently-fast.description": {
-    "message": "Vår infrastruktur är aldrig överbelastad, vilket innebär att varje server som hostas av Modrinth alltid körs med full prestanda."
+    "message": "Vår infrastruktur är aldrig överbelastad, vilket innebär att varje server som hostas av CosMods alltid körs med full prestanda."
   },
   "hosting-marketing.why.description": {
-    "message": "Välj från tusentals modpaket på Modrinth eller skapa ditt egna. Bjud in dina vänner när du är redo att spela."
+    "message": "Välj från tusentals modpaket på CosMods eller skapa ditt egna. Bjud in dina vänner när du är redo att spela."
   },
   "hosting-marketing.why.heading": {
     "message": "Hitta ett modpaket. Nu är det en server."
@@ -2028,22 +2028,22 @@
     "message": "Upplev modern, trygg hosting"
   },
   "hosting-marketing.why.modern-reliable-hosting.description": {
-    "message": "Modrinth Hostings servrar är hostade på <contrast>högpresterande AMD-processorer med DDR5 RAM</contrast> och körs på specialanpassad programvara för att säkerställa att din server fungerar smidigt."
+    "message": "CosMods Hostings servrar är hostade på <contrast>högpresterande AMD-processorer med DDR5 RAM</contrast> och körs på specialanpassad programvara för att säkerställa att din server fungerar smidigt."
   },
   "hosting-marketing.why.where-mods-are": {
     "message": "Spela där dina moddar finns"
   },
   "hosting-marketing.why.where-mods-are.description": {
-    "message": "Modrinth Hosting integrerar mod- och modpaket-installationsprocessen sömlöst i din server."
+    "message": "CosMods Hosting integrerar mod- och modpaket-installationsprocessen sömlöst i din server."
   },
   "hosting-marketing.why.why-modrinth-hosting": {
-    "message": "Varför Modrinth Hosting?"
+    "message": "Varför CosMods Hosting?"
   },
   "hosting-marketing.why.your-favorite-mods": {
     "message": "Alla dina favoritmoddar"
   },
   "hosting-marketing.why.your-favorite-mods.description": {
-    "message": "Välja mellan Vanilla, Fabric, Forge; Quilt och NeoForge. Om det finns på Modrinth så kan din server köra det."
+    "message": "Välja mellan Vanilla, Fabric, Forge; Quilt och NeoForge. Om det finns på CosMods så kan din server köra det."
   },
   "hosting.plan.out-of-stock": {
     "message": "Ej i lager"
@@ -2103,7 +2103,7 @@
     "message": "Följ projekt du älskar"
   },
   "landing.feature.launcher.description": {
-    "message": "Modrinths API med öppen källkod låter launchers lägga till djup integration med Modrinth. Du kan använda Modrinth genom <link>vår egna app</link> och dem flesta populära launchers som ATLauncher, MultiMC och Prism Launcher."
+    "message": "Modrinths API med öppen källkod låter launchers lägga till djup integration med CosMods. Du kan använda CosMods genom <link>vår egna app</link> och dem flesta populära launchers som ATLauncher, MultiMC och Prism Launcher."
   },
   "landing.feature.launcher.heading": {
     "message": "Spela med din launcher"
@@ -2145,7 +2145,7 @@
     "message": "En förenklad representation av ett Minecraftfönster med Mojang Studios logga i Modrinths gröna färg."
   },
   "landing.launcher.modrinth-app-label": {
-    "message": "Modrinth App"
+    "message": "CosMods App"
   },
   "landing.launcher.prism-launcher-label": {
     "message": "Prism Launcher"
@@ -2232,7 +2232,7 @@
     "message": "Besök kontoinställningar"
   },
   "layout.banner.add-email.description": {
-    "message": "Modrinth kräver att du registrerar en e-postadress till ditt konto av säkerhetsskäl."
+    "message": "CosMods kräver att du registrerar en e-postadress till ditt konto av säkerhetsskäl."
   },
   "layout.banner.build-fail.always-ignore": {
     "message": "Ignorera alltid"
@@ -2247,7 +2247,7 @@
     "message": "Fel inträffade vid generering av status från API vid kompilering."
   },
   "layout.banner.staging.description": {
-    "message": "Staging-miljön är helt separat från Modrinths databas. Detta används för test och felsökning och kan köra experimentella versioner av Modrinth som inte släppts än."
+    "message": "Staging-miljön är helt separat från Modrinths databas. Detta används för test och felsökning och kan köra experimentella versioner av CosMods som inte släppts än."
   },
   "layout.banner.staging.title": {
     "message": "Du använder Modrinths staging-miljö"
@@ -2277,7 +2277,7 @@
     "message": "Skicka nytt bekräftelsemejl"
   },
   "layout.banner.verify-email.description": {
-    "message": "Modrinth kräver att du verifierar din e-postadress associerat med ditt konto av säkerhetsskäl."
+    "message": "CosMods kräver att du verifierar din e-postadress associerat med ditt konto av säkerhetsskäl."
   },
   "layout.footer.about": {
     "message": "Om"
@@ -2319,22 +2319,22 @@
     "message": "Användarvillkor"
   },
   "layout.footer.modrinth-information": {
-    "message": "Modrinth-information"
+    "message": "CosMods-information"
   },
   "layout.footer.open-source": {
-    "message": "Modrinth har <github-link>öppen källkod</github-link>."
+    "message": "CosMods har <github-link>öppen källkod</github-link>."
   },
   "layout.footer.products": {
     "message": "Produkter"
   },
   "layout.footer.products.app": {
-    "message": "Modrinth App"
+    "message": "CosMods App"
   },
   "layout.footer.products.plus": {
-    "message": "Modrinth+"
+    "message": "CosMods+"
   },
   "layout.footer.products.servers": {
-    "message": "Modrinth Hosting"
+    "message": "CosMods Hosting"
   },
   "layout.footer.resources": {
     "message": "Resurser"
@@ -2370,7 +2370,7 @@
     "message": "Växla meny"
   },
   "layout.meta.description": {
-    "message": "Ladda ned Minecraft moddar, plugins, datapaket, shaders, resurspaket och modpaket på Modrinth. Upptäck och lägg upp projekt på Modrinth med ett modernt, enkelt att använda gränssnitt och API."
+    "message": "Ladda ned Minecraft moddar, plugins, datapaket, shaders, resurspaket och modpaket på CosMods. Upptäck och lägg upp projekt på CosMods med ett modernt, enkelt att använda gränssnitt och API."
   },
   "layout.meta.og-description": {
     "message": "Utforska och lägg upp Minecraft-innehåll!"
@@ -2391,7 +2391,7 @@
     "message": "Utforska innehåll"
   },
   "layout.nav.get-modrinth-app": {
-    "message": "Installera Modrinth App"
+    "message": "Installera CosMods App"
   },
   "layout.nav.home": {
     "message": "Hem"
@@ -2400,10 +2400,10 @@
     "message": "Skaffa en server"
   },
   "layout.nav.modrinth-app": {
-    "message": "Modrinth App"
+    "message": "CosMods App"
   },
   "layout.nav.modrinth-home-page": {
-    "message": "Modrinth hem sida"
+    "message": "CosMods hem sida"
   },
   "layout.nav.my-servers": {
     "message": "Mina servrar"
@@ -2427,7 +2427,7 @@
     "message": "Sök"
   },
   "layout.nav.upgrade-to-modrinth-plus": {
-    "message": "Uppgradera till Modrinth+"
+    "message": "Uppgradera till CosMods+"
   },
   "moderation.moderate": {
     "message": "Moderera"
@@ -2613,10 +2613,10 @@
     "message": "Ändringar kommer tillämpas på {count} projekt."
   },
   "profile.bio.fallback.creator": {
-    "message": "En Modrinth kreatör."
+    "message": "En CosMods kreatör."
   },
   "profile.bio.fallback.user": {
-    "message": "En Modrinth användare."
+    "message": "En CosMods användare."
   },
   "profile.button.analytics": {
     "message": "Visa användarstatistik"
@@ -2697,10 +2697,10 @@
     "message": "Sparar..."
   },
   "profile.meta.description": {
-    "message": "Ladda ner {username}s projekt på Modrinth"
+    "message": "Ladda ner {username}s projekt på CosMods"
   },
   "profile.meta.description-with-bio": {
-    "message": "{bio} - Ladda ned {username}s projekt på Modrinth"
+    "message": "{bio} - Ladda ned {username}s projekt på CosMods"
   },
   "profile.stats.projects-followers": {
     "message": "{count, plural, one {<stat>{count}</stat> följare} other {<stat>{count}</stat> följare}}"
@@ -2853,7 +2853,7 @@
     "message": "Granska projekt"
   },
   "project.actions.servers-promo.description": {
-    "message": "Modrinth Hosting är det lättaste sättet att spela med dina vänner utan svårigheter!"
+    "message": "CosMods Hosting är det lättaste sättet att spela med dina vänner utan svårigheter!"
   },
   "project.actions.servers-promo.pricing": {
     "message": "Börjar vid {price}<small> / månad</small>"
@@ -2895,7 +2895,7 @@
     "message": "{title} stöttar inte {gameVersion} för {platform}"
   },
   "project.download.no-app": {
-    "message": "Har du inte Modrinth appen?"
+    "message": "Har du inte CosMods appen?"
   },
   "project.download.platform-unsupported-tooltip": {
     "message": "{title} stöttar inte {platform} för {gameVersion}"
@@ -2913,7 +2913,7 @@
     "message": "Ladda ner {title}"
   },
   "project.environment.migration-no-permission.message": {
-    "message": "Vi har förbättrat miljösystemet på Modrinth och nya inställningar är tillgängliga. Du har inte behörighet att ändra dessa inställningar, men meddela en annan medlem i projektet att miljömetadatan måste verifieras."
+    "message": "Vi har förbättrat miljösystemet på CosMods och nya inställningar är tillgängliga. Du har inte behörighet att ändra dessa inställningar, men meddela en annan medlem i projektet att miljömetadatan måste verifieras."
   },
   "project.environment.migration-no-permission.title": {
     "message": "Miljömetadata måste verifieras"
@@ -2922,7 +2922,7 @@
     "message": "Läs mer om denna ändring"
   },
   "project.environment.migration.message": {
-    "message": "Vi har förbättrat miljösystemet på Modrinth och nya inställningar finns nu tillgängliga. Vänligen titta till ditt projekts inställningar och verifiera att metadatan stämmer."
+    "message": "Vi har förbättrat miljösystemet på CosMods och nya inställningar finns nu tillgängliga. Vänligen titta till ditt projekts inställningar och verifiera att metadatan stämmer."
   },
   "project.environment.migration.review-button": {
     "message": "Verifiera miljöinställningar"
@@ -2961,7 +2961,7 @@
     "message": "Denna tråd är inte aktivt följd, men kan bli undersökt för information om projektet om de behövs."
   },
   "project.moderation.thread.private-description": {
-    "message": "Det här är en privat konversationstråd med Modrinth-moderatorerna. De kan meddela dig om problem angående detta projekt."
+    "message": "Det här är en privat konversationstråd med CosMods-moderatorerna. De kan meddela dig om problem angående detta projekt."
   },
   "project.moderation.thread.title": {
     "message": "Moderationsmeddelanden"
@@ -3630,16 +3630,16 @@
     "message": "Återkalla"
   },
   "settings.billing.charges.description": {
-    "message": "Alla dina tidigare Modrinth fakturor listas här:"
+    "message": "Alla dina tidigare CosMods fakturor listas här:"
   },
   "settings.billing.charges.product.medal-trial": {
     "message": "Medal provserver"
   },
   "settings.billing.charges.product.midas": {
-    "message": "Modrinth Plus"
+    "message": "CosMods Plus"
   },
   "settings.billing.charges.product.pyro": {
-    "message": "Modrinth Hosting"
+    "message": "CosMods Hosting"
   },
   "settings.billing.charges.title": {
     "message": "Tidigare fakturor"
@@ -3657,13 +3657,13 @@
     "message": "år"
   },
   "settings.billing.midas.benefits.ad-free": {
-    "message": "Annonsfritt surfande på cosmods.miki85.cz och Modrinth App"
+    "message": "Annonsfritt surfande på cosmods.miki85.cz och CosMods App"
   },
   "settings.billing.midas.benefits.badge": {
-    "message": "Modrinth+ märke på din profil"
+    "message": "CosMods+ märke på din profil"
   },
   "settings.billing.midas.benefits.support": {
-    "message": "Stötta Modrinth och kreatörer direkt"
+    "message": "Stötta CosMods och kreatörer direkt"
   },
   "settings.billing.midas.benefits.title": {
     "message": "Förmåner"
@@ -3687,7 +3687,7 @@
     "message": "Din betalning behandlas just nu. Förmåner kommer att aktiveras när betalningen slutförs."
   },
   "settings.billing.midas.upsell": {
-    "message": "Prenumerera på Modrinth Plus!"
+    "message": "Prenumerera på CosMods Plus!"
   },
   "settings.billing.modal.cancel.action": {
     "message": "Avbryt prenumeration"
@@ -3747,7 +3747,7 @@
     "message": "{gb} GB RAM"
   },
   "settings.billing.pyro.resubscribe.error.text": {
-    "message": "Ett fel inträffade när du återprenumererade till din Modrinth server."
+    "message": "Ett fel inträffade när du återprenumererade till din CosMods server."
   },
   "settings.billing.pyro.resubscribe.error.title": {
     "message": "Fel vid återprenumerering"
@@ -3765,10 +3765,10 @@
     "message": "{gb} GB utbytesminne"
   },
   "settings.billing.pyro_subscription.description": {
-    "message": "Hantera dina Modrinth Server-prenumerationer."
+    "message": "Hantera dina CosMods Server-prenumerationer."
   },
   "settings.billing.pyro_subscription.title": {
-    "message": "Modrinth Server-prenumerationer"
+    "message": "CosMods Server-prenumerationer"
   },
   "settings.billing.renews": {
     "message": "Förnyas {date}"
@@ -3783,7 +3783,7 @@
     "message": "Prenumerera"
   },
   "settings.billing.subscription.description": {
-    "message": "Hantera dina Modrinth-prenumerationer."
+    "message": "Hantera dina CosMods-prenumerationer."
   },
   "settings.billing.subscription.title": {
     "message": "Prenumerationer"
@@ -3810,7 +3810,7 @@
     "message": "Inaktivera utvecklarläge"
   },
   "settings.display.banner.developer-mode.description": {
-    "message": "<strong>Utvecklarläge</strong> är aktiverat. Detta tillåter dig att visa interna ID:n för olika saker genom Modrinth vilket kan vara användbart om du är en utvecklare och använder Modrinths API. Klicka på Modrinth-loggan längst ned fem gånger för att aktivera utvecklarläge."
+    "message": "<strong>Utvecklarläge</strong> är aktiverat. Detta tillåter dig att visa interna ID:n för olika saker genom CosMods vilket kan vara användbart om du är en utvecklare och använder Modrinths API. Klicka på CosMods-loggan längst ned fem gånger för att aktivera utvecklarläge."
   },
   "settings.display.flags.description": {
     "message": "Aktivera eller inaktivera vissa funktioner på denna enhet."
@@ -3873,16 +3873,16 @@
     "message": "Avancerad rendering"
   },
   "settings.display.sidebar.external-links-new-tab.description": {
-    "message": "Får länkar som leder utanför Modrinth att öppna en ny flik. Oavsett vad denna inställning har ställts in på kommer länkar med samma domän och i Markdown-beskrivningar att öppnas i samma flik, och länkar på annonser och redigeringssidor öppnas i en ny flik."
+    "message": "Får länkar som leder utanför CosMods att öppna en ny flik. Oavsett vad denna inställning har ställts in på kommer länkar med samma domän och i Markdown-beskrivningar att öppnas i samma flik, och länkar på annonser och redigeringssidor öppnas i en ny flik."
   },
   "settings.display.sidebar.external-links-new-tab.title": {
     "message": "Öppna externa länkar i en ny flik"
   },
   "settings.display.sidebar.hide-app-promos.description": {
-    "message": "Döljer \"Installera Modrinth App\" knappen från primär navigering. Modrinth App-sidan kan fortfarande hittas på landningssidan eller i sidfoten."
+    "message": "Döljer \"Installera CosMods App\" knappen från primär navigering. CosMods App-sidan kan fortfarande hittas på landningssidan eller i sidfoten."
   },
   "settings.display.sidebar.hide-app-promos.title": {
-    "message": "Dölj \"Installera Modrinth\" knapp"
+    "message": "Dölj \"Installera CosMods\" knapp"
   },
   "settings.display.sidebar.left-aligned-content-sidebar.title": {
     "message": "Vänsterjusterad sidofält på innehållssidor"
@@ -3897,7 +3897,7 @@
     "message": "Högerjusterad sidofält på innehållssidor"
   },
   "settings.display.theme.description": {
-    "message": "Välj färgtema för Modrinth på denna enhet."
+    "message": "Välj färgtema för CosMods på denna enhet."
   },
   "settings.display.theme.title": {
     "message": "Färgtema"
@@ -3963,7 +3963,7 @@
     "message": "Om mig"
   },
   "settings.profile.description": {
-    "message": "Din profilinformation visas offentligt på Modrinth och genom <docs-link>Modrinth API:t</docs-link>."
+    "message": "Din profilinformation visas offentligt på CosMods och genom <docs-link>CosMods API:t</docs-link>."
   },
   "settings.profile.head-title": {
     "message": "Profilinställningar"
@@ -3987,7 +3987,7 @@
     "message": "Nuvarande session"
   },
   "settings.sessions.description": {
-    "message": "Här är alla enheter som är inloggade på ditt Modrinth konto. Du kan logga ut från var och en individuellt.\n\nOm du ser en enhet som du inte känner igen loggar du ut från enheten och ändrar lösenordet på ditt Modrinth konto omedelbart."
+    "message": "Här är alla enheter som är inloggade på ditt CosMods konto. Du kan logga ut från var och en individuellt.\n\nOm du ser en enhet som du inte känner igen loggar du ut från enheten och ändrar lösenordet på ditt CosMods konto omedelbart."
   },
   "settings.sessions.last-accessed-ago": {
     "message": "Användes {ago}"
@@ -4008,7 +4008,7 @@
     "message": "Visning"
   },
   "ui.latest-news-row.latest-news": {
-    "message": "Senaste nytt från Modrinth"
+    "message": "Senaste nytt från CosMods"
   },
   "ui.latest-news-row.view-all": {
     "message": "Visa alla nyheter"

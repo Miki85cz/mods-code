@@ -96,7 +96,7 @@
     "message": "ディスプレイ"
   },
   "analytics.chart.controls.modrinth-events": {
-    "message": "Modrinth"
+    "message": "CosMods"
   },
   "analytics.chart.controls.no-modrinth-events": {
     "message": "Modrinthのイベントがありません。"
@@ -144,10 +144,10 @@
     "message": "更新"
   },
   "analytics.download-source.app": {
-    "message": "Modrinth App"
+    "message": "CosMods App"
   },
   "analytics.download-source.website": {
-    "message": "Modrinth Web"
+    "message": "CosMods Web"
   },
   "analytics.downloads.suffix": {
     "message": "ダウンロード"
@@ -375,7 +375,7 @@
     "message": "Linux"
   },
   "app-marketing.download.linux-disclaimer": {
-    "message": "Modrinth AppのLinux版は、特定のシステムや構成において<issues-link>問題が発生することが確認されています</issues-link>。お使いのシステムでModrinthアプリが不安定な場合は、Modrinthコンテンツを簡単にインストールできる<prism-link>Prism Launcher</prism-link>などの他のランチャーをお試しください。"
+    "message": "CosMods AppのLinux版は、特定のシステムや構成において<issues-link>問題が発生することが確認されています</issues-link>。お使いのシステムでModrinthアプリが不安定な場合は、Modrinthコンテンツを簡単にインストールできる<prism-link>Prism Launcher</prism-link>などの他のランチャーをお試しください。"
   },
   "app-marketing.download.mac": {
     "message": "Mac"
@@ -384,10 +384,10 @@
     "message": "ダウンロードオプション"
   },
   "app-marketing.download.terms": {
-    "message": "Modrinth Appをダウンロードすることで、<terms-link>利用規約</terms-link>および <privacy-link>プライバシーポリシー</privacy-link> に同意したとみなします。"
+    "message": "CosMods Appをダウンロードすることで、<terms-link>利用規約</terms-link>および <privacy-link>プライバシーポリシー</privacy-link> に同意したとみなします。"
   },
   "app-marketing.download.title": {
-    "message": "Modrinth App (ベータ版) をダウンロードする"
+    "message": "CosMods App (ベータ版) をダウンロードする"
   },
   "app-marketing.download.windows": {
     "message": "Windows"
@@ -399,7 +399,7 @@
     "message": "プロジェクトをフォローする"
   },
   "app-marketing.features.importing.description": {
-    "message": "以前使用していたランチャーからお気に入りのプロファイルをすべてインポートし、Modrinth Appをすぐに使い始めましょう！"
+    "message": "以前使用していたランチャーからお気に入りのプロファイルをすべてインポートし、CosMods Appをすぐに使い始めましょう！"
   },
   "app-marketing.features.importing.gdlauncher-alt": {
     "message": "GDLauncher"
@@ -453,7 +453,7 @@
     "message": "% CPU"
   },
   "app-marketing.features.performance.description": {
-    "message": "Modrinth AppのRAM使用量は、わずか150MB。多くの主要なModマネージャーよりも効率的です！"
+    "message": "CosMods AppのRAM使用量は、わずか150MB。多くの主要なModマネージャーよりも効率的です！"
   },
   "app-marketing.features.performance.discord": {
     "message": "Discord"
@@ -474,7 +474,7 @@
     "message": "< 150 MB"
   },
   "app-marketing.features.performance.modrinth-app": {
-    "message": "Modrinth App"
+    "message": "CosMods App"
   },
   "app-marketing.features.performance.one-billion-percent": {
     "message": "10億%"
@@ -492,7 +492,7 @@
     "message": "効率的"
   },
   "app-marketing.features.play.description": {
-    "message": "Modrinth Appを使用して、お気に入りのModとModパックをダウンロードしてプレイしましょう。"
+    "message": "CosMods Appを使用して、お気に入りのModとModパックをダウンロードしてプレイしましょう。"
   },
   "app-marketing.features.play.title": {
     "message": "お気に入りのModで遊ぶ"
@@ -513,7 +513,7 @@
     "message": "他のランチャーと異なる点"
   },
   "app-marketing.features.website.description": {
-    "message": "Modrinth Appはウェブサイトと完全に統合されているため、あなたはすべてのお気に入りのプロジェクトにアプリからアクセスできます！"
+    "message": "CosMods Appはウェブサイトと完全に統合されているため、あなたはすべてのお気に入りのプロジェクトにアプリからアクセスできます！"
   },
   "app-marketing.features.website.title": {
     "message": "ウェブサイトとの統合"
@@ -522,16 +522,16 @@
     "message": "以前に使用したことある"
   },
   "app-marketing.hero.app-screenshot-alt": {
-    "message": "Modrinth Appのスクリーンショット。Cobblemonインスタンスで「コンテンツ」ページが開かれている。"
+    "message": "CosMods Appのスクリーンショット。Cobblemonインスタンスで「コンテンツ」ページが開かれている。"
   },
   "app-marketing.hero.description": {
-    "message": "Modrinth Appは、お気に入りのModで遊んだり、アップデートを簡単に管理できる、独自のオープンソースランチャーです。"
+    "message": "CosMods Appは、お気に入りのModで遊んだり、アップデートを簡単に管理できる、独自のオープンソースランチャーです。"
   },
   "app-marketing.hero.download-button": {
-    "message": "Modrinth Appをダウンロードする"
+    "message": "CosMods Appをダウンロードする"
   },
   "app-marketing.hero.download-modrinth-app": {
-    "message": "Modrinth Appをダウンロードする"
+    "message": "CosMods Appをダウンロードする"
   },
   "app-marketing.hero.download-modrinth-app-for-os": {
     "message": "{os}向けのModrinth Appをダウンロード"
@@ -690,7 +690,7 @@
     "message": "本当にこのコレクションを削除しますか？"
   },
   "collection.description": {
-    "message": "{description} - Modrinth の {username} によるコレクション {name} を表示します"
+    "message": "{description} - CosMods の {username} によるコレクション {name} を表示します"
   },
   "collection.description.following": {
     "message": "あなたがフォローしているプロジェクトがすべて含まれた自動生成のコレクションです。"
@@ -1671,10 +1671,10 @@
     "message": "サーバーに高い負荷がかかっている場合、ラグの発生や不安定さを軽減するために、一時的に追加のCPUスレッドへのアクセスを許可します。これにより、TPSが20を下回るのを防ぎ、可能な限りスムーズな動作を実現します。これらの追加のCPUスレッドの負荷が高いときにのみ短時間利用可能となるため、Sparkレポートなどのプロファイリングツールには表示されない場合があります。"
   },
   "hosting-marketing.faq.cpu-kind": {
-    "message": "Modrinth Hostingのサーバーはどのような種類のCPUを使用していますか？"
+    "message": "CosMods Hostingのサーバーはどのような種類のCPUを使用していますか？"
   },
   "hosting-marketing.faq.cpu-kind.answer": {
-    "message": "Modrinth Hostingのサーバーは、5GHz以上のクロック速度を持つ、AMD Ryzen 7900および7950X3D相当のCPUとDDR5メモリを搭載しています。"
+    "message": "CosMods Hostingのサーバーは、5GHz以上のクロック速度を持つ、AMD Ryzen 7900および7950X3D相当のCPUとDDR5メモリを搭載しています。"
   },
   "hosting-marketing.faq.currency": {
     "message": "価格はどの通貨で表示されていますか？"
@@ -1683,7 +1683,7 @@
     "message": "価格はすべて米ドル（USD）で表示されています。"
   },
   "hosting-marketing.faq.ddos-protection": {
-    "message": "Modrinth HostingのサーバーにはDDoS攻撃対策が施されていますか？"
+    "message": "CosMods HostingのサーバーにはDDoS攻撃対策が施されていますか？"
   },
   "hosting-marketing.faq.ddos-protection.answer": {
     "message": "はい。すべてのModrinth HostingサーバーにはDDoS攻撃対策が付属しており、さらに一部の地域では最大17Tbpsの容量を備えています。"
@@ -1695,7 +1695,7 @@
     "message": "Modrinthでホストするサーバーの速度はどのくらいですか？"
   },
   "hosting-marketing.faq.how-fast.answer.one": {
-    "message": "Modrinth Hostingのサーバーは非常に近代的で高性能なハードウェア上でホストされていますが、サーバーの実効速度がどの程度になるかは断言が難しいです。サーバー上で稼働しているMod、データパック、プラグイン、さらにはユーザーの行動など、速度に影響を与える要素が多岐にわたるためです。"
+    "message": "CosMods Hostingのサーバーは非常に近代的で高性能なハードウェア上でホストされていますが、サーバーの実効速度がどの程度になるかは断言が難しいです。サーバー上で稼働しているMod、データパック、プラグイン、さらにはユーザーの行動など、速度に影響を与える要素が多岐にわたるためです。"
   },
   "hosting-marketing.faq.how-fast.answer.two": {
     "message": "多くのパフォーマンスの問題は、最適化されていないModパック、Mod、データパック、プラグインが原因で、サーバーに遅延が生じる傾向があります。当社のサーバーは非常に高性能であるため、サーバーで実行するコンテンツに適したプランを選択すれば、大きな問題に直面することはありません。"
@@ -1734,10 +1734,10 @@
     "message": "あなたのサーバーを始める"
   },
   "hosting-marketing.hero.host-with-modrinth": {
-    "message": "Modrinth Hostingで次のサーバーをホストしよう"
+    "message": "CosMods Hostingで次のサーバーをホストしよう"
   },
   "hosting-marketing.hero.hosting-description": {
-    "message": "Modrinth Hostingは、Minecraft: Java Editionサーバーを最も簡単にホストする方法です。お気に入りのModやModパックをすべてModrinthプラットフォーム内で、シームレスにインストールしてプレイできます。"
+    "message": "CosMods Hostingは、Minecraft: Java Editionサーバーを最も簡単にホストする方法です。お気に入りのModやModパックをすべてModrinthプラットフォーム内で、シームレスにインストールしてプレイできます。"
   },
   "hosting-marketing.included.advanced-networking": {
     "message": "高度なネットワーク管理"
@@ -1779,13 +1779,13 @@
     "message": "強力なコンソール、サーバー設定管理ツールなど"
   },
   "hosting-marketing.included.powerful-console.description": {
-    "message": "Modrinth Hostingには、サーバーを管理するための強力なツールが備わっています。"
+    "message": "CosMods Hostingには、サーバーを管理するための強力なツールが備わっています。"
   },
   "hosting-marketing.included.sftp-access": {
     "message": "SFTPアクセス"
   },
   "hosting-marketing.included.sftp-access.description": {
-    "message": "Modrinth Hosting に組み込まれた SFTP を使って、サーバーのファイルに直接アクセスできます。"
+    "message": "CosMods Hosting に組み込まれた SFTP を使って、サーバーのファイルに直接アクセスできます。"
   },
   "hosting-marketing.included.with-your-server": {
     "message": "サーバーに含まれています"
@@ -1827,13 +1827,13 @@
     "message": "モダンで信頼性の高いホスティングを体験"
   },
   "hosting-marketing.why.modern-reliable-hosting.description": {
-    "message": "Modrinth Hostingのサーバーは、<contrast>高性能AMD CPUおよびDDR5 RAM</contrast>を採用し、カスタムソフトウェアにより安定したパフォーマンスを提供します。"
+    "message": "CosMods Hostingのサーバーは、<contrast>高性能AMD CPUおよびDDR5 RAM</contrast>を採用し、カスタムソフトウェアにより安定したパフォーマンスを提供します。"
   },
   "hosting-marketing.why.where-mods-are": {
     "message": "あなたのModがある場所でプレイする"
   },
   "hosting-marketing.why.where-mods-are.description": {
-    "message": "Modrinth Hostingは、サーバーへのModおよびModパックのインストールの過程をシームレスに統合します。"
+    "message": "CosMods Hostingは、サーバーへのModおよびModパックのインストールの過程をシームレスに統合します。"
   },
   "hosting-marketing.why.why-modrinth-hosting": {
     "message": "なぜModrinth Hostingなのか？"
@@ -1944,7 +1944,7 @@
     "message": "Minecraftのウィンドウを簡略化したイラスト。Mojang StudiosのロゴがModrinthのブランドカラーである緑で描かれています。"
   },
   "landing.launcher.modrinth-app-label": {
-    "message": "Modrinth App"
+    "message": "CosMods App"
   },
   "landing.launcher.prism-launcher-label": {
     "message": "Prism Launcher"
@@ -2136,13 +2136,13 @@
     "message": "製品"
   },
   "layout.footer.products.app": {
-    "message": "Modrinth App"
+    "message": "CosMods App"
   },
   "layout.footer.products.plus": {
-    "message": "Modrinth+"
+    "message": "CosMods+"
   },
   "layout.footer.products.servers": {
-    "message": "Modrinth Hosting"
+    "message": "CosMods Hosting"
   },
   "layout.footer.resources": {
     "message": "リソース"
@@ -2199,7 +2199,7 @@
     "message": "コンテンツを探索"
   },
   "layout.nav.get-modrinth-app": {
-    "message": "Modrinth Appを入手"
+    "message": "CosMods Appを入手"
   },
   "layout.nav.home": {
     "message": "ホーム"
@@ -2208,7 +2208,7 @@
     "message": "サーバーをホスト"
   },
   "layout.nav.modrinth-app": {
-    "message": "Modrinth App"
+    "message": "CosMods App"
   },
   "layout.nav.modrinth-home-page": {
     "message": "Modrinthホームページ"
@@ -2235,7 +2235,7 @@
     "message": "検索"
   },
   "layout.nav.upgrade-to-modrinth-plus": {
-    "message": "Modrinth+にアップグレード"
+    "message": "CosMods+にアップグレード"
   },
   "moderation.moderate": {
     "message": "適度"
@@ -2763,7 +2763,7 @@
     "message": "プロジェクトを評価"
   },
   "project.actions.servers-promo.description": {
-    "message": "Modrinth Hostingは手間を掛けず、簡単に友達と遊べます！"
+    "message": "CosMods Hostingは手間を掛けず、簡単に友達と遊べます！"
   },
   "project.actions.servers-promo.pricing": {
     "message": "{price}<small> / 月</small>から"
@@ -2790,7 +2790,7 @@
     "message": "{title}は{platform}の{gameVersion}に対応していません"
   },
   "project.download.no-app": {
-    "message": "Modrinth Appをお持ちでないですか？"
+    "message": "CosMods Appをお持ちでないですか？"
   },
   "project.download.platform-unsupported-tooltip": {
     "message": "{title}は{gameVersion}の{platform}に対応していません"
@@ -3279,7 +3279,7 @@
     "message": "サーバーと同期"
   },
   "servers.manage.content.title": {
-    "message": "コンテンツ - {serverName} - Modrinth"
+    "message": "コンテンツ - {serverName} - CosMods"
   },
   "servers.notice.actions": {
     "message": "アクション"
@@ -3336,7 +3336,7 @@
     "message": "データのエクスポート"
   },
   "settings.account.delete.confirm.description": {
-    "message": "これにより**即座にあなたのすべてのユーザーデータとフォローが削除されます**。プロジェクトは削除されません。アカウントの削除は取り消せません。<br><br>アカウントについてサポートが必要な場合は、[Modrinth Discord](https://discord.cosmods.miki85.cz)にてご連絡ください。"
+    "message": "これにより**即座にあなたのすべてのユーザーデータとフォローが削除されます**。プロジェクトは削除されません。アカウントの削除は取り消せません。<br><br>アカウントについてサポートが必要な場合は、[CosMods Discord](https://discord.cosmods.miki85.cz)にてご連絡ください。"
   },
   "settings.account.delete.confirm.proceed": {
     "message": "このアカウントを削除"
@@ -3660,10 +3660,10 @@
     "message": "Medal Server トライアル"
   },
   "settings.billing.charges.product.midas": {
-    "message": "Modrinth Plus"
+    "message": "CosMods Plus"
   },
   "settings.billing.charges.product.pyro": {
-    "message": "Modrinth Hosting"
+    "message": "CosMods Hosting"
   },
   "settings.billing.charges.title": {
     "message": "過去の請求"
@@ -3684,7 +3684,7 @@
     "message": "cosmods.miki85.czとModrinth Appを広告なしでブラウジング"
   },
   "settings.billing.midas.benefits.badge": {
-    "message": "Modrinth+バッジをプロフィールに表示"
+    "message": "CosMods+バッジをプロフィールに表示"
   },
   "settings.billing.midas.benefits.support": {
     "message": "Modrinthとクリエイターを直接支援"
@@ -3711,7 +3711,7 @@
     "message": "決済を処理中です。 特典は決済の完了後に有効になります。"
   },
   "settings.billing.midas.upsell": {
-    "message": "Modrinth Plusに加入しよう！"
+    "message": "CosMods Plusに加入しよう！"
   },
   "settings.billing.modal.cancel.action": {
     "message": "サブスクリプションを解除する"
@@ -3807,10 +3807,10 @@
     "message": "{gb} GB スワップ領域"
   },
   "settings.billing.pyro_subscription.description": {
-    "message": "Modrinth Server のサブスクリプションを管理する。"
+    "message": "CosMods Server のサブスクリプションを管理する。"
   },
   "settings.billing.pyro_subscription.title": {
-    "message": "Modrinth Server のサブスクリプション"
+    "message": "CosMods Server のサブスクリプション"
   },
   "settings.billing.renews": {
     "message": "次の更新日: {date}"
@@ -3825,7 +3825,7 @@
     "message": "加入"
   },
   "settings.billing.subscription.description": {
-    "message": "Modrinth のサブスクリプションを管理する。"
+    "message": "CosMods のサブスクリプションを管理する。"
   },
   "settings.billing.subscription.title": {
     "message": "サブスクリプション"
@@ -3843,7 +3843,7 @@
     "message": "開発者モードを無効にする"
   },
   "settings.display.banner.developer-mode.description": {
-    "message": "<strong>開発者モード</strong> が有効です。これにより、Modrinth全体の様々な内部IDを表示することができ、Modrinth APIを使用する開発に役立ちます。ページの下部にあるModrinthロゴを5回クリックすると、開発者モードが切り替わります。"
+    "message": "<strong>開発者モード</strong> が有効です。これにより、Modrinth全体の様々な内部IDを表示することができ、CosMods APIを使用する開発に役立ちます。ページの下部にあるModrinthロゴを5回クリックすると、開発者モードが切り替わります。"
   },
   "settings.display.flags.description": {
     "message": "このデバイスで特定の機能を有効または無効にします。"
@@ -3912,10 +3912,10 @@
     "message": "外部リンクを新しいタブで開く"
   },
   "settings.display.sidebar.hide-app-promos.description": {
-    "message": "「Modrinth Appを入手」ボタンをプライマリナビゲーションから非表示にします。Modrinth Appのページは、ランディングページまたはフッターに表示されます。"
+    "message": "「CosMods Appを入手」ボタンをプライマリナビゲーションから非表示にします。CosMods Appのページは、ランディングページまたはフッターに表示されます。"
   },
   "settings.display.sidebar.hide-app-promos.title": {
-    "message": "Modrinth Appのプロモーションを非表示"
+    "message": "CosMods Appのプロモーションを非表示"
   },
   "settings.display.sidebar.left-aligned-content-sidebar.title": {
     "message": "コンテンツの左寄せサイドバー"
@@ -3942,7 +3942,7 @@
     "message": "PATを作成"
   },
   "settings.pats.description": {
-    "message": "PATはModrinthのAPIにアクセスするために使用できます。いつでも作成と取り消しができます。詳しくは<doc-link>Modrinth APIドキュメント</doc-link>を確認してください。"
+    "message": "PATはModrinthのAPIにアクセスするために使用できます。いつでも作成と取り消しができます。詳しくは<doc-link>CosMods APIドキュメント</doc-link>を確認してください。"
   },
   "settings.pats.modal.create.action": {
     "message": "PATを作成"
@@ -3996,7 +3996,7 @@
     "message": "自己紹介"
   },
   "settings.profile.description": {
-    "message": "あなたのプロフィール情報は、Modrinth上および<docs-link>Modrinth API</docs-link>を通じて一般公開されます。"
+    "message": "あなたのプロフィール情報は、Modrinth上および<docs-link>CosMods API</docs-link>を通じて一般公開されます。"
   },
   "settings.profile.head-title": {
     "message": "プロフィール設定"

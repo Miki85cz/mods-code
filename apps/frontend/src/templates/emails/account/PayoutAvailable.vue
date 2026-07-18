@@ -34,7 +34,8 @@ import StyledEmail from '../shared/StyledEmail.vue'
 		<Text class="text-base">
 			If you have any questions about the creator rewards program, please contact support through
 			the
-			<VLink href="https://support.cosmods.miki85.cz" class="text-green underline">Support Portal</VLink
+			<VLink href="https://support.cosmods.miki85.cz" class="text-green underline"
+				>Support Portal</VLink
 			>.
 		</Text>
 

@@ -30,7 +30,7 @@
     "message": "Linux"
   },
   "app-marketing.download.linux-disclaimer": {
-    "message": "Linux versionerne af Modrinth er <issues-link>kendt for at have fejl</issues-link> på bestemte systemer og konfigurationer. Hvis Modrinth er ustabil på dit system, vi opfordre dig til at prøve andre apps så som <prism-link>Prism Launcher</prism-link> for at nemt installere Modrinth indhold."
+    "message": "Linux versionerne af CosMods er <issues-link>kendt for at have fejl</issues-link> på bestemte systemer og konfigurationer. Hvis CosMods er ustabil på dit system, vi opfordre dig til at prøve andre apps så som <prism-link>Prism Launcher</prism-link> for at nemt installere CosMods indhold."
   },
   "app-marketing.download.mac": {
     "message": "Mac"
@@ -39,10 +39,10 @@
     "message": "Download muligheder"
   },
   "app-marketing.download.terms": {
-    "message": "Ved at download Modrinth App, acceptere du vores <terms-link>servicevilkår</terms-link> og <privacy-link>privatlivspolitik</privacy-link>."
+    "message": "Ved at download CosMods App, acceptere du vores <terms-link>servicevilkår</terms-link> og <privacy-link>privatlivspolitik</privacy-link>."
   },
   "app-marketing.download.title": {
-    "message": "Download Modrinth (Beta)"
+    "message": "Download CosMods (Beta)"
   },
   "app-marketing.download.windows": {
     "message": "Windows"
@@ -54,7 +54,7 @@
     "message": "Følg projekter"
   },
   "app-marketing.features.importing.description": {
-    "message": "Importer alle dine favorit profiler fra launcher du brugte før, og kom i gang med Modrinth inde for få sekunder!"
+    "message": "Importer alle dine favorit profiler fra launcher du brugte før, og kom i gang med CosMods inde for få sekunder!"
   },
   "app-marketing.features.importing.gdlauncher-alt": {
     "message": "GDLauncher"
@@ -72,7 +72,7 @@
     "message": "af {author}"
   },
   "app-marketing.features.mod-management.description": {
-    "message": "Modrinth gør det nemt at håndtere alle dine mods i et sted. Du kan installere, afinstallere, og opdatere mods med et enkelt klik."
+    "message": "CosMods gør det nemt at håndtere alle dine mods i et sted. Du kan installere, afinstallere, og opdatere mods med et enkelt klik."
   },
   "app-marketing.features.mod-management.installed-mods": {
     "message": "Installerede mods"
@@ -108,7 +108,7 @@
     "message": "% CPU"
   },
   "app-marketing.features.performance.description": {
-    "message": "Modrinth App præsterer bedre end mange af de førende mod-håndteringsværktøjer og bruger kun 150 MB RAM!"
+    "message": "CosMods App præsterer bedre end mange af de førende mod-håndteringsværktøjer og bruger kun 150 MB RAM!"
   },
   "app-marketing.features.performance.discord": {
     "message": "Discord"
@@ -126,7 +126,7 @@
     "message": "< 150 MB"
   },
   "app-marketing.features.performance.modrinth-app": {
-    "message": "Modrinth"
+    "message": "CosMods"
   },
   "app-marketing.features.performance.one-billion-percent": {
     "message": "1 billion %"
@@ -144,13 +144,13 @@
     "message": "Effektiv"
   },
   "app-marketing.features.play.description": {
-    "message": "Brug Modrinth App til at hente og spille med dine foretrukne mods og modpakker."
+    "message": "Brug CosMods App til at hente og spille med dine foretrukne mods og modpakker."
   },
   "app-marketing.features.play.title": {
     "message": "Leg med dine yndlingsmods"
   },
   "app-marketing.features.sharing.description": {
-    "message": "Opret, del og spil modpakker med tusindvis af mods og modpakker, der er vært her på Modrinth."
+    "message": "Opret, del og spil modpakker med tusindvis af mods og modpakker, der er vært her på CosMods."
   },
   "app-marketing.features.sharing.modpack": {
     "message": "Modpack"
@@ -165,7 +165,7 @@
     "message": "Som ingen anden launcher"
   },
   "app-marketing.features.website.description": {
-    "message": "Modrinth App er fuldt integreret med hjemmesiden, så du kan få adgang til alle dine yndlingsprojekter direkte fra appen!"
+    "message": "CosMods App er fuldt integreret med hjemmesiden, så du kan få adgang til alle dine yndlingsprojekter direkte fra appen!"
   },
   "app-marketing.features.website.title": {
     "message": "Integration med hjemmesiden"
@@ -174,19 +174,19 @@
     "message": "du har brugt før"
   },
   "app-marketing.hero.app-screenshot-alt": {
-    "message": "Skærmbillede af Modrinth App med en Cobblemon-instans åbnet på siden 'Indhold'."
+    "message": "Skærmbillede af CosMods App med en Cobblemon-instans åbnet på siden 'Indhold'."
   },
   "app-marketing.hero.description": {
-    "message": "Modrinth App er en unik, open source-launcher, der giver dig mulighed for at spille dine yndlingsmods og holde dem opdateret – alt samlet i én praktisk pakke."
+    "message": "CosMods App er en unik, open source-launcher, der giver dig mulighed for at spille dine yndlingsmods og holde dem opdateret – alt samlet i én praktisk pakke."
   },
   "app-marketing.hero.download-button": {
-    "message": "Hent Modrinth Appen"
+    "message": "Hent CosMods Appen"
   },
   "app-marketing.hero.download-modrinth-app": {
-    "message": "Hent Modrinth Appen"
+    "message": "Hent CosMods Appen"
   },
   "app-marketing.hero.download-modrinth-app-for-os": {
-    "message": "Hent Modrinth Appen til {os}"
+    "message": "Hent CosMods Appen til {os}"
   },
   "app-marketing.hero.minecraft-screenshot-alt": {
     "message": "Skærmbilleder af Cobblemon instance'ens primære menu skærm."
@@ -261,7 +261,7 @@
     "message": "Log ind"
   },
   "auth.sign-up.legal-dislaimer": {
-    "message": "Ved at oprette en konto, accepterer du Modrinth's <terms-link>Vilkår</terms-link> og <privacy-policy-link>Privatlivspolitik</privacy-policy-link>."
+    "message": "Ved at oprette en konto, accepterer du CosMods's <terms-link>Vilkår</terms-link> og <privacy-policy-link>Privatlivspolitik</privacy-policy-link>."
   },
   "auth.sign-up.sign-in-option.title": {
     "message": "Har du allerede en konto?"
@@ -324,7 +324,7 @@
     "message": "Er du sikker på, at du vil slette denne samling?"
   },
   "collection.description": {
-    "message": "{description} - Se samlingen {name} af {username} på Modrinth"
+    "message": "{description} - Se samlingen {name} af {username} på CosMods"
   },
   "collection.description.following": {
     "message": "Auto-genererede samling af alle de projekter, du følger."
@@ -555,7 +555,7 @@
     "message": "Skatteformular"
   },
   "dashboard.creator-tax-form-modal.security.description": {
-    "message": "Modrinth bruger tredjepartsudbyder Track1099 til sikkert at indsamle og opbevare dine skatteformularer. <security-link>Læs mere her.</security-link>"
+    "message": "CosMods bruger tredjepartsudbyder Track1099 til sikkert at indsamle og opbevare dine skatteformularer. <security-link>Læs mere her.</security-link>"
   },
   "dashboard.creator-tax-form-modal.security.header": {
     "message": "Sikkerhedspraksisser"
@@ -813,7 +813,7 @@
     "message": "Samlingen er måske privat."
   },
   "error.collection.404.list_item.3": {
-    "message": "Samlingen er måske blevet taget ned af Modrinth's moderatorteam for at være i strid imod vores <tou-link>Vilkår for brug</tou-link>."
+    "message": "Samlingen er måske blevet taget ned af CosMods's moderatorteam for at være i strid imod vores <tou-link>Vilkår for brug</tou-link>."
   },
   "error.collection.404.list_title": {
     "message": "Hvorfor?"
@@ -834,10 +834,10 @@
     "message": "Indholdet er ikke tilgængeligt af lovmæssige årsager"
   },
   "error.generic.default.list_item.1": {
-    "message": "Tjek om Modrinth er nede på vores <status-link>Status side</status-link>."
+    "message": "Tjek om CosMods er nede på vores <status-link>Status side</status-link>."
   },
   "error.generic.default.list_item.2": {
-    "message": "Hvis der bliver ved med at ske, kan du dele det Modrinth Team ved at join vores <discord-link>Discord server</discord-link>."
+    "message": "Hvis der bliver ved med at ske, kan du dele det CosMods Team ved at join vores <discord-link>Discord server</discord-link>."
   },
   "error.generic.default.list_title": {
     "message": "Venligst prøv igen om nogle minutter."
@@ -855,7 +855,7 @@
     "message": "Organisationens ejer har måske ændret URL'en eller slettet den."
   },
   "error.organization.404.list_item.3": {
-    "message": "Organisationen er måske blevet taget ned af Modrinth's moderatorteam for at være i strid imod vores <tou-link>Vilkår for brug</tou-link>."
+    "message": "Organisationen er måske blevet taget ned af CosMods's moderatorteam for at være i strid imod vores <tou-link>Vilkår for brug</tou-link>."
   },
   "error.organization.404.list_title": {
     "message": "Hvorfor?"
@@ -870,7 +870,7 @@
     "message": "Projektets ejer har måske ændret URL'en, lavet projektet privat, eller slettet den."
   },
   "error.project.404.list_item.3": {
-    "message": "Projektet er måske blevet taget ned af Modrinth's moderatorteam for at være i strid imod vores <tou-link>Vilkår for brug</tou-link>."
+    "message": "Projektet er måske blevet taget ned af CosMods's moderatorteam for at være i strid imod vores <tou-link>Vilkår for brug</tou-link>."
   },
   "error.project.404.list_title": {
     "message": "Hvorfor?"
@@ -885,7 +885,7 @@
     "message": "Brugeren har måske ændret deres brugernavn eller slettet deres konto."
   },
   "error.user.404.list_item.3": {
-    "message": "Brugeren's konto er måske blevet slettet for at gå i strid imod Modrinth's <tou-link>Brugsbetingelser</tou-link>."
+    "message": "Brugeren's konto er måske blevet slettet for at gå i strid imod CosMods's <tou-link>Brugsbetingelser</tou-link>."
   },
   "error.user.404.list_title": {
     "message": "Hvorfor?"
@@ -924,10 +924,10 @@
     "message": "Når din server er under ekstremt pres, giver vi den midlertidig adgang til flere CPU-tråde til at hjælpe med mitigere lag spikes og ustabilitet. Dette hjælper med at hindre TPSen fra at gå under 20, for at spøge for den bedste oplevelse muligt. Siden de ekstra CPU-tråde er kun kort tilgængelig under perioder med ekstremt pres, de vil måske ikke blive vist i en Spark rapporter eller andre analyseredskaber."
   },
   "hosting-marketing.faq.cpu-kind": {
-    "message": "Hvilken form for CPU'er køre Modrinth Hosting servere på?"
+    "message": "Hvilken form for CPU'er køre CosMods Hosting servere på?"
   },
   "hosting-marketing.faq.cpu-kind.answer": {
-    "message": "Modrinth Hosting servere er drevet af AMD Ryzen 7900 og 7950X3D lignende CPU'er på 5+ GHz, parret med DDR5 hukommelse."
+    "message": "CosMods Hosting servere er drevet af AMD Ryzen 7900 og 7950X3D lignende CPU'er på 5+ GHz, parret med DDR5 hukommelse."
   },
   "hosting-marketing.faq.currency": {
     "message": "Hvilken valuta er priser i?"
@@ -936,19 +936,19 @@
     "message": "Alle priser er vist i amerikanske dollars (USD)."
   },
   "hosting-marketing.faq.ddos-protection": {
-    "message": "Har Modrinth Hosting servere DDoS beskyttelse?"
+    "message": "Har CosMods Hosting servere DDoS beskyttelse?"
   },
   "hosting-marketing.faq.ddos-protection.answer": {
-    "message": "Ja. Alle Modrinth servere kommer med DDoS beskyttelse, med op til 17 Tbps kapacitet i nogle lokationer."
+    "message": "Ja. Alle CosMods servere kommer med DDoS beskyttelse, med op til 17 Tbps kapacitet i nogle lokationer."
   },
   "hosting-marketing.faq.heading": {
     "message": "Ofte Spurgt Spørgsmål"
   },
   "hosting-marketing.faq.how-fast": {
-    "message": "Hvor hurtige er Modrinth Hosting servere?"
+    "message": "Hvor hurtige er CosMods Hosting servere?"
   },
   "hosting-marketing.faq.how-fast.answer.one": {
-    "message": "Modrinth Hosting servere er hosted på meget moderne hardware med høj ydeevne, men det er svært at sige hvordan det lige præcis vil oversætte til hvor hurtig din server vil køre fordi der er så mange faktorer der er i effekt, så som mods, datapakker, eller plugins du køre på din server, og endda bruger adfærd."
+    "message": "CosMods Hosting servere er hosted på meget moderne hardware med høj ydeevne, men det er svært at sige hvordan det lige præcis vil oversætte til hvor hurtig din server vil køre fordi der er så mange faktorer der er i effekt, så som mods, datapakker, eller plugins du køre på din server, og endda bruger adfærd."
   },
   "hosting-marketing.faq.how-fast.answer.two": {
     "message": "De fleste problemer med ydeevne sker ofte på grund af en ikke optimeret modpack, mod, datapakke, eller plugin som er grunden til serveren lagger. Siden vores servere har meget høj ydeevne, du burde ikke komme i problemer så længe du vælger den passende plan til det indhold du kører på din server."
@@ -957,16 +957,16 @@
     "message": "Kan jeg øge lagerpladsen på min server?"
   },
   "hosting-marketing.faq.increase-storage.answer": {
-    "message": "Ja, lagerplads kan blive øget på din server uden nogen ekstra omkostninger. Hvis du har behov for mere plads, ræk ud til Modrinth Support."
+    "message": "Ja, lagerplads kan blive øget på din server uden nogen ekstra omkostninger. Hvis du har behov for mere plads, ræk ud til CosMods Support."
   },
   "hosting-marketing.faq.location": {
-    "message": "Hvor er Modrinth Hosting servere placeret? Kan jeg vælge et område?"
+    "message": "Hvor er CosMods Hosting servere placeret? Kan jeg vælge et område?"
   },
   "hosting-marketing.faq.versions-loaders": {
     "message": "Hvilken Minecraft version og loaders kan blive brugt?"
   },
   "hosting-marketing.faq.versions-loaders.answer.one": {
-    "message": "Modrinth Hosting servere kan køre enhver version af Minecraft: Java Edition helt tilbage til version 1.2.5, inkludere også snapshot versioner."
+    "message": "CosMods Hosting servere kan køre enhver version af Minecraft: Java Edition helt tilbage til version 1.2.5, inkludere også snapshot versioner."
   },
   "hosting-marketing.faq.versions-loaders.answer.two": {
     "message": "Vi understøtter også en bred række af mods og plugin loaders, inkludere Fabric, Quilt, Forge, og NeoForge til mods, og Paper og Purpur til plugins. Tilgængelighed variere på baggrund af om mod eller plugin loaderen undersøtter den valgte Minecraft version."
@@ -984,10 +984,10 @@
     "message": "Start din server"
   },
   "hosting-marketing.hero.host-with-modrinth": {
-    "message": "Host din næste server med Modrinth Hosting"
+    "message": "Host din næste server med CosMods Hosting"
   },
   "hosting-marketing.hero.hosting-description": {
-    "message": "Modrinth Hosting er den nemmeste måde at host din egen Minecraft: Java Edition server. Nemt installer og spil dine favorit mods og modpacks, alt sammen inde på Modrinth platformen."
+    "message": "CosMods Hosting er den nemmeste måde at host din egen Minecraft: Java Edition server. Nemt installer og spil dine favorit mods og modpacks, alt sammen inde på CosMods platformen."
   },
   "hosting-marketing.included.advanced-networking": {
     "message": "Avanceret netværksstyring"
@@ -1008,7 +1008,7 @@
     "message": "Del din server med et brugerdefineret <contrast>modrinth.gg</contrast> URL."
   },
   "hosting-marketing.included.description": {
-    "message": "Inkluderet med alle servere er en række af funktioner designed til at give en hosting oplevelse som kun Modrinth kan give."
+    "message": "Inkluderet med alle servere er en række af funktioner designed til at give en hosting oplevelse som kun CosMods kan give."
   },
   "hosting-marketing.included.file-manager": {
     "message": "Nem filhåndtering"
@@ -1023,19 +1023,19 @@
     "message": "Hjælp når du har behov for det"
   },
   "hosting-marketing.included.help.description": {
-    "message": "Ræk ud til Modrinth holdet for hjælp med din server på hvert et tidspunkt."
+    "message": "Ræk ud til CosMods holdet for hjælp med din server på hvert et tidspunkt."
   },
   "hosting-marketing.included.powerful-console": {
     "message": "En kraftfuld konsol, administrering af serveregenskaber, og meget mere"
   },
   "hosting-marketing.included.powerful-console.description": {
-    "message": "Modrinth Hosting kommer med kraftfulde værktøjer til at styre din server."
+    "message": "CosMods Hosting kommer med kraftfulde værktøjer til at styre din server."
   },
   "hosting-marketing.included.sftp-access": {
     "message": "SFTP adgang"
   },
   "hosting-marketing.included.sftp-access.description": {
-    "message": "Få adgang til dine servers filer direkte med SFTP bygget ind i Modrinth Hosting."
+    "message": "Få adgang til dine servers filer direkte med SFTP bygget ind i CosMods Hosting."
   },
   "hosting-marketing.included.with-your-server": {
     "message": "Inkluderet med din server"
@@ -1059,19 +1059,19 @@
     "message": "Der er en server for alle"
   },
   "hosting-marketing.why.all-on-modrinth": {
-    "message": "Styr det hele på Modrinth"
+    "message": "Styr det hele på CosMods"
   },
   "hosting-marketing.why.all-on-modrinth.description": {
-    "message": "Din server, mods, spillere, og mere er alle på Modrinth. Ingen grund til at skifte imellem platforme."
+    "message": "Din server, mods, spillere, og mere er alle på CosMods. Ingen grund til at skifte imellem platforme."
   },
   "hosting-marketing.why.consistently-fast": {
     "message": "Hele tiden hurtig"
   },
   "hosting-marketing.why.consistently-fast.description": {
-    "message": "Vores infrastruktur er aldrig overbelastet, hvilket betyder at alle servere hosted med Modrinth altid køre med fuld ydeevne."
+    "message": "Vores infrastruktur er aldrig overbelastet, hvilket betyder at alle servere hosted med CosMods altid køre med fuld ydeevne."
   },
   "hosting-marketing.why.description": {
-    "message": "Vælg imellem tusinder af modpacks på Modrinth eller lav din egen. Inviter dine venner når du klar til at spille."
+    "message": "Vælg imellem tusinder af modpacks på CosMods eller lav din egen. Inviter dine venner når du klar til at spille."
   },
   "hosting-marketing.why.heading": {
     "message": "Find en modpack. Nu er det en server."
@@ -1080,22 +1080,22 @@
     "message": "Oplev moderne, pålidelig hosting"
   },
   "hosting-marketing.why.modern-reliable-hosting.description": {
-    "message": "Modrinth Hosting servere er hosted på <contrast>AMD CPUer med høj ydeevne med DDR5 RAM</contrast>, køre på specialudviklet for at sikre din server køre uden problemer."
+    "message": "CosMods Hosting servere er hosted på <contrast>AMD CPUer med høj ydeevne med DDR5 RAM</contrast>, køre på specialudviklet for at sikre din server køre uden problemer."
   },
   "hosting-marketing.why.where-mods-are": {
     "message": "Spil hvor dine mods er"
   },
   "hosting-marketing.why.where-mods-are.description": {
-    "message": "Modrinth Hosting gør installering af mods og modpacks problemfrit til din server."
+    "message": "CosMods Hosting gør installering af mods og modpacks problemfrit til din server."
   },
   "hosting-marketing.why.why-modrinth-hosting": {
-    "message": "Hvorfor Modrinth Hosting?"
+    "message": "Hvorfor CosMods Hosting?"
   },
   "hosting-marketing.why.your-favorite-mods": {
     "message": "Alle dine favorit mods"
   },
   "hosting-marketing.why.your-favorite-mods.description": {
-    "message": "Vælg imellem Vanilla, Fabric, Forge, Quilt og NeoForge. Hvis det er på Modrinth, det kan køre på din server."
+    "message": "Vælg imellem Vanilla, Fabric, Forge, Quilt og NeoForge. Hvis det er på CosMods, det kan køre på din server."
   },
   "hosting.plan.out-of-stock": {
     "message": "Ikke på lager"
@@ -1110,7 +1110,7 @@
     "message": "Gå til kontrolpanel"
   },
   "landing.creator.feature.constantly-evolving.description": {
-    "message": "Få den bedste modding oplevelse muligt med konstante opdateringer fra Modrinth holdet"
+    "message": "Få den bedste modding oplevelse muligt med konstante opdateringer fra CosMods holdet"
   },
   "landing.creator.feature.constantly-evolving.title": {
     "message": "Konstant Udvikling"
@@ -1155,7 +1155,7 @@
     "message": "Følg projekter du elsker"
   },
   "landing.feature.launcher.description": {
-    "message": "Modrinths open source API lader launchers tilføje dyb integration med Modrinth. Du kan bruge Modrinth gennem <link>vores egen app</link> og nogle af de mest poplære launchers så som ATLauncher, MultiMC, og Prism Launcher."
+    "message": "Modrinths open source API lader launchers tilføje dyb integration med CosMods. Du kan bruge CosMods gennem <link>vores egen app</link> og nogle af de mest poplære launchers så som ATLauncher, MultiMC, og Prism Launcher."
   },
   "landing.feature.launcher.heading": {
     "message": "Spil med din yndlings launcher"
@@ -1194,10 +1194,10 @@
     "message": "ATLauncher"
   },
   "landing.launcher.graphic-alt": {
-    "message": "En simplificeretrepræsentation af et Minecraft vindue, med Mojang Studio logoet i Modrinth grøn."
+    "message": "En simplificeretrepræsentation af et Minecraft vindue, med Mojang Studio logoet i CosMods grøn."
   },
   "landing.launcher.modrinth-app-label": {
-    "message": "Modrinth App"
+    "message": "CosMods App"
   },
   "landing.launcher.prism-launcher-label": {
     "message": "Prism Launcher"
@@ -1278,7 +1278,7 @@
     "message": "Send bekræftelsesmail igen"
   },
   "layout.banner.verify-email.description": {
-    "message": "For sikkerhedsgrunde kræver Modrinth at du bekræfter den e-mail adresse tilknyttet til din konto."
+    "message": "For sikkerhedsgrunde kræver CosMods at du bekræfter den e-mail adresse tilknyttet til din konto."
   },
   "layout.footer.about": {
     "message": "Om"
@@ -1317,22 +1317,22 @@
     "message": "Brugsvilkår"
   },
   "layout.footer.modrinth-information": {
-    "message": "Modrinth information"
+    "message": "CosMods information"
   },
   "layout.footer.open-source": {
-    "message": "Modrinth er <github-link>open source</github-link>."
+    "message": "CosMods er <github-link>open source</github-link>."
   },
   "layout.footer.products": {
     "message": "Produkter"
   },
   "layout.footer.products.app": {
-    "message": "Modrinth App"
+    "message": "CosMods App"
   },
   "layout.footer.products.plus": {
-    "message": "Modrinth+"
+    "message": "CosMods+"
   },
   "layout.footer.products.servers": {
-    "message": "Modrinth Hosting"
+    "message": "CosMods Hosting"
   },
   "layout.footer.resources": {
     "message": "Ressourcer"
@@ -1368,7 +1368,7 @@
     "message": "Vis/skjul menu"
   },
   "layout.meta.description": {
-    "message": "Download Minecraft mods, plugins, datapakker, shaders, ressourcepakker, og modpacks på Modrinth. Opdag og udgiv projekter på Modrinth med et moderne, en brugervenligt hjemmeside og API."
+    "message": "Download Minecraft mods, plugins, datapakker, shaders, ressourcepakker, og modpacks på CosMods. Opdag og udgiv projekter på CosMods med et moderne, en brugervenligt hjemmeside og API."
   },
   "layout.meta.og-description": {
     "message": "Opdag og udgiv Minecraft indhold!"
@@ -1389,7 +1389,7 @@
     "message": "Opdag indhold"
   },
   "layout.nav.get-modrinth-app": {
-    "message": "Hent Modrinth-app"
+    "message": "Hent CosMods-app"
   },
   "layout.nav.home": {
     "message": "Hjem"
@@ -1398,10 +1398,10 @@
     "message": "Host en server"
   },
   "layout.nav.modrinth-app": {
-    "message": "Modrinth App"
+    "message": "CosMods App"
   },
   "layout.nav.modrinth-home-page": {
-    "message": "Modrinth forside"
+    "message": "CosMods forside"
   },
   "layout.nav.my-servers": {
     "message": "Mine servere"
@@ -1425,7 +1425,7 @@
     "message": "Søg"
   },
   "layout.nav.upgrade-to-modrinth-plus": {
-    "message": "Opgrader til Modrinth+"
+    "message": "Opgrader til CosMods+"
   },
   "moderation.page.projects": {
     "message": "Projekter"
@@ -1557,10 +1557,10 @@
     "message": "Bank Overførsel (ZAR)"
   },
   "profile.bio.fallback.creator": {
-    "message": "En Modrinth skaber."
+    "message": "En CosMods skaber."
   },
   "profile.bio.fallback.user": {
-    "message": "En Modrinth bruger."
+    "message": "En CosMods bruger."
   },
   "profile.button.edit-role": {
     "message": "Rediger rolle"
@@ -1620,10 +1620,10 @@
     "message": "Gemmer..."
   },
   "profile.meta.description": {
-    "message": "Download {username}'s projekter på Modrinth"
+    "message": "Download {username}'s projekter på CosMods"
   },
   "profile.meta.description-with-bio": {
-    "message": "{bio} - Download {username}'s projekter på Modrinth"
+    "message": "{bio} - Download {username}'s projekter på CosMods"
   },
   "profile.stats.projects-followers": {
     "message": "{count, plural, one {<stat>{count}</stat> projekt følger} other {<stat>{count}</stat> projekt følgere}}"
@@ -1659,7 +1659,7 @@
     "message": "Genindsende til godkendelse"
   },
   "project-moderation-nags.resubmit-for-review-desc": {
-    "message": "Dit projekt er blevet {status, select, rejected {afvist} withheld {tilbageholdt} other {{status}}} af Modrinth's personale. I de fleste tilfælde kan du genindsende til godkendelse, når du har fulgt personalets instruktioner."
+    "message": "Dit projekt er blevet {status, select, rejected {afvist} withheld {tilbageholdt} other {{status}}} af CosMods's personale. I de fleste tilfælde kan du genindsende til godkendelse, når du har fulgt personalets instruktioner."
   },
   "project-moderation-nags.submit-checklist-tooltip": {
     "message": "Du skal gennemføre de nødvendige trin i tjeklisten for udgivelse!"
@@ -1746,7 +1746,7 @@
     "message": "Vis ikke igen"
   },
   "project.actions.servers-promo.description": {
-    "message": "Modrinth Hosting er den nemmeste måde at spille med dine venner uden problemer!"
+    "message": "CosMods Hosting er den nemmeste måde at spille med dine venner uden problemer!"
   },
   "project.actions.servers-promo.title": {
     "message": "Lav en server"
@@ -1764,7 +1764,7 @@
     "message": "{title} understøtter ikke {gameVersion} til {platform}"
   },
   "project.download.no-app": {
-    "message": "Har ikke Modrinth App?"
+    "message": "Har ikke CosMods App?"
   },
   "project.download.platform-unsupported-tooltip": {
     "message": "{title} understøtter ikke {platform} til {gameVersion}"
@@ -1968,7 +1968,7 @@
     "message": "Om dig"
   },
   "settings.profile.description": {
-    "message": "Dine profiloplysninger kan ses offentligt på Modrinth og via <docs-link>Modrinth API</docs-link>."
+    "message": "Dine profiloplysninger kan ses offentligt på CosMods og via <docs-link>CosMods API</docs-link>."
   },
   "settings.profile.profile-info": {
     "message": "Profiloplysninger"
@@ -1986,7 +1986,7 @@
     "message": "Nuværende session"
   },
   "settings.sessions.description": {
-    "message": "Her er alle enheder, der i øjeblikket er logget ind med din Modrinth-konto. Du kan logge ud af hver enhed individuelt.\n\nHvis du ser en enhed, du ikke genkender, bør du straks logge ud af den og ændre adgangskoden til din Modrinth-konto."
+    "message": "Her er alle enheder, der i øjeblikket er logget ind med din CosMods-konto. Du kan logge ud af hver enhed individuelt.\n\nHvis du ser en enhed, du ikke genkender, bør du straks logge ud af den og ændre adgangskoden til din CosMods-konto."
   },
   "settings.sessions.last-accessed-ago": {
     "message": "Sidst tilgået {ago}"
@@ -2004,7 +2004,7 @@
     "message": "Udvikler"
   },
   "ui.latest-news-row.latest-news": {
-    "message": "Seneste nyheder fra Modrinth"
+    "message": "Seneste nyheder fra CosMods"
   },
   "ui.latest-news-row.view-all": {
     "message": "Vis alle nyheder"

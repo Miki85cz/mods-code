@@ -9,7 +9,10 @@ import StyledEmail from '../shared/StyledEmail.vue'
 		title="Project ownership transferred"
 		:manual-links="[
 			{ link: 'https://cosmods.miki85.cz/project/{project.id}', label: 'Project page' },
-			{ link: 'https://cosmods.miki85.cz/dashboard/notifications', label: 'Notification dashboard' },
+			{
+				link: 'https://cosmods.miki85.cz/dashboard/notifications',
+				label: 'Notification dashboard',
+			},
 			{ link: 'https://support.cosmods.miki85.cz', label: 'Support Portal' },
 		]"
 	>
@@ -53,7 +56,8 @@ import StyledEmail from '../shared/StyledEmail.vue'
 
 		<Text class="text-base">
 			If you did not initiate this transfer, please contact support immediately through the
-			<VLink href="https://support.cosmods.miki85.cz" class="text-green underline">Support Portal</VLink
+			<VLink href="https://support.cosmods.miki85.cz" class="text-green underline"
+				>Support Portal</VLink
 			>.
 		</Text>
 	</StyledEmail>

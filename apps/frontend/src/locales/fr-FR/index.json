@@ -99,10 +99,10 @@
     "message": "Afficher"
   },
   "analytics.chart.controls.modrinth-events": {
-    "message": "Événements Modrinth"
+    "message": "Événements CosMods"
   },
   "analytics.chart.controls.no-modrinth-events": {
-    "message": "Aucun événement Modrinth dans le graphique."
+    "message": "Aucun événement CosMods dans le graphique."
   },
   "analytics.chart.controls.no-project-events": {
     "message": "Aucun événement projet dans le graphique."
@@ -132,7 +132,7 @@
     "message": "Voir les détails des statistiques de monétisation"
   },
   "analytics.chart.legend.monetization-details.description": {
-    "message": "Seules les vues et les téléchargements effectués via Modrinth sont pris en compte pour la monétisation, et les téléchargements nécessitent que les utilisateurs soient connectés."
+    "message": "Seules les vues et les téléchargements effectués via CosMods sont pris en compte pour la monétisation, et les téléchargements nécessitent que les utilisateurs soient connectés."
   },
   "analytics.chart.legend.monetization-details.title": {
     "message": "Détails des statistiques de monétisation"
@@ -213,10 +213,10 @@
     "message": "Mettre à jour"
   },
   "analytics.download-source.app": {
-    "message": "Modrinth App"
+    "message": "CosMods App"
   },
   "analytics.download-source.website": {
-    "message": "Site web de Modrinth"
+    "message": "Site web de CosMods"
   },
   "analytics.downloads.suffix": {
     "message": "téléchargements"
@@ -399,7 +399,7 @@
     "message": "Téléchargements"
   },
   "analytics.stat.monetization-banner.body": {
-    "message": "Seules les vues et les téléchargements effectués via Modrinth sont éligibles à la monétisation et doivent passer un filtrage de prévention de la fraude. Les téléchargements de l'application Modrinth exigent également que l'utilisateur soit connecté. Parce que tous les projets ont un ratio similaire de téléchargements monétisés, vos revenus ne changeraient pas de manière significative si tous les téléchargements étaient comptés."
+    "message": "Seules les vues et les téléchargements effectués via CosMods sont éligibles à la monétisation et doivent passer un filtrage de prévention de la fraude. Les téléchargements de l'application CosMods exigent également que l'utilisateur soit connecté. Parce que tous les projets ont un ratio similaire de téléchargements monétisés, vos revenus ne changeraient pas de manière significative si tous les téléchargements étaient comptés."
   },
   "analytics.stat.monetization-banner.learn-more": {
     "message": "En savoir plus"
@@ -438,7 +438,7 @@
     "message": "{start} à {end}"
   },
   "analytics.table.csv.filename": {
-    "message": "Modrinth Analytics {breakdown} Répartition - {dateRange}"
+    "message": "CosMods Analytics {breakdown} Répartition - {dateRange}"
   },
   "analytics.table.csv.header.playtime-seconds": {
     "message": "Temps de jeu (en secondes)"
@@ -546,7 +546,7 @@
     "message": "Linux"
   },
   "app-marketing.download.linux-disclaimer": {
-    "message": "Les versions Linux de Modrinth App sont <issues-link>connues pour présenter des problèmes</issues-link> sur certains systèmes et configurations. Si Modrinth App est instable sur votre système, nous vous encourageons à essayer d'autres applications telles que <prism-link>Prism Launcher</prism-link> pour installer facilement le contenu Modrinth."
+    "message": "Les versions Linux de CosMods App sont <issues-link>connues pour présenter des problèmes</issues-link> sur certains systèmes et configurations. Si CosMods App est instable sur votre système, nous vous encourageons à essayer d'autres applications telles que <prism-link>Prism Launcher</prism-link> pour installer facilement le contenu CosMods."
   },
   "app-marketing.download.mac": {
     "message": "Mac"
@@ -555,10 +555,10 @@
     "message": "Options de téléchargement"
   },
   "app-marketing.download.terms": {
-    "message": "En téléchargeant Modrinth App, vous acceptez nos <terms-link>Conditions générales</terms-link> et notre <privacy-link>Politique de confidentialité</privacy-link>."
+    "message": "En téléchargeant CosMods App, vous acceptez nos <terms-link>Conditions générales</terms-link> et notre <privacy-link>Politique de confidentialité</privacy-link>."
   },
   "app-marketing.download.title": {
-    "message": "Télécharger Modrinth App (bêta)"
+    "message": "Télécharger CosMods App (bêta)"
   },
   "app-marketing.download.windows": {
     "message": "Windows"
@@ -570,7 +570,7 @@
     "message": "Suivre des projets"
   },
   "app-marketing.features.importing.description": {
-    "message": "Importez tous vos profils préférés depuis l'ancien launcher et démarrez Modrinth App en quelques secondes !"
+    "message": "Importez tous vos profils préférés depuis l'ancien launcher et démarrez CosMods App en quelques secondes !"
   },
   "app-marketing.features.importing.gdlauncher-alt": {
     "message": "GDLauncher"
@@ -588,7 +588,7 @@
     "message": "par {author}"
   },
   "app-marketing.features.mod-management.description": {
-    "message": "Modrinth rend facile la gestion des mods en un seul endroit. Vous pouvez installer, désinstaller et mettre à jour vos mods en un seul clic."
+    "message": "CosMods rend facile la gestion des mods en un seul endroit. Vous pouvez installer, désinstaller et mettre à jour vos mods en un seul clic."
   },
   "app-marketing.features.mod-management.installed-mods": {
     "message": "Mods installés"
@@ -612,7 +612,7 @@
     "message": "Mode hors-ligne"
   },
   "app-marketing.features.open-source.description": {
-    "message": "Le launcher Modrinth est entièrement open source. Vous pouvez consulter le code source sur notre <github-link>GitHub</github-link> !"
+    "message": "Le launcher CosMods est entièrement open source. Vous pouvez consulter le code source sur notre <github-link>GitHub</github-link> !"
   },
   "app-marketing.features.open-source.title": {
     "message": "Open source"
@@ -624,7 +624,7 @@
     "message": "% Processeur"
   },
   "app-marketing.features.performance.description": {
-    "message": "Modrinth App est plus performante que la plupart des autres gestionnaires de mods, tout en n'utilisant que 150 Mo de mémoire vive !"
+    "message": "CosMods App est plus performante que la plupart des autres gestionnaires de mods, tout en n'utilisant que 150 Mo de mémoire vive !"
   },
   "app-marketing.features.performance.discord": {
     "message": "Discord"
@@ -645,7 +645,7 @@
     "message": "< 150 Mo"
   },
   "app-marketing.features.performance.modrinth-app": {
-    "message": "Modrinth App"
+    "message": "CosMods App"
   },
   "app-marketing.features.performance.one-billion-percent": {
     "message": "1 milliard %"
@@ -663,13 +663,13 @@
     "message": "Performant"
   },
   "app-marketing.features.play.description": {
-    "message": "Utilisez Modrinth App pour télécharger et jouer avec vos mods et modpacks préférés."
+    "message": "Utilisez CosMods App pour télécharger et jouer avec vos mods et modpacks préférés."
   },
   "app-marketing.features.play.title": {
     "message": "Jouez avec vos mods préférés"
   },
   "app-marketing.features.sharing.description": {
-    "message": "Créez, partagez et jouez sur des modpacks avec les milliers de mods et modpack présents ici sur Modrinth."
+    "message": "Créez, partagez et jouez sur des modpacks avec les milliers de mods et modpack présents ici sur CosMods."
   },
   "app-marketing.features.sharing.modpack": {
     "message": "Modpack"
@@ -684,7 +684,7 @@
     "message": "Contrairement à tous les autres launchers"
   },
   "app-marketing.features.website.description": {
-    "message": "Modrinth App est entièrement intégrée au site Web, vous pouvez donc accéder à tous vos projets préférés depuis l'application !"
+    "message": "CosMods App est entièrement intégrée au site Web, vous pouvez donc accéder à tous vos projets préférés depuis l'application !"
   },
   "app-marketing.features.website.title": {
     "message": "Intégration au site Web"
@@ -693,19 +693,19 @@
     "message": "vous avez utilisé avant"
   },
   "app-marketing.hero.app-screenshot-alt": {
-    "message": "Capture d'écran de Modrinth App avec une instance Cobblemon ouverte sur la page « Contenu »."
+    "message": "Capture d'écran de CosMods App avec une instance Cobblemon ouverte sur la page « Contenu »."
   },
   "app-marketing.hero.description": {
-    "message": "Modrinth App est un launcher unique et open source qui vous permet de jouer à vos mods préférés et de les maintenir à jour, le tout dans une seule petite application."
+    "message": "CosMods App est un launcher unique et open source qui vous permet de jouer à vos mods préférés et de les maintenir à jour, le tout dans une seule petite application."
   },
   "app-marketing.hero.download-button": {
-    "message": "Télécharger Modrinth App"
+    "message": "Télécharger CosMods App"
   },
   "app-marketing.hero.download-modrinth-app": {
-    "message": "Télécharger Modrinth App"
+    "message": "Télécharger CosMods App"
   },
   "app-marketing.hero.download-modrinth-app-for-os": {
-    "message": "Téléchargez Modrinth App pour {os}"
+    "message": "Téléchargez CosMods App pour {os}"
   },
   "app-marketing.hero.minecraft-screenshot-alt": {
     "message": "Capture d’écran du menu principal de l'instance de Cobblemon."
@@ -774,7 +774,7 @@
     "message": "Date de naissance requise"
   },
   "auth.create-account.date-of-birth.under13-helper": {
-    "message": "Vous ne rencontrez pas les conditions d'âge requises pour créer un compte sur Modrinth."
+    "message": "Vous ne rencontrez pas les conditions d'âge requises pour créer un compte sur CosMods."
   },
   "auth.create-account.info-panel.source-code-link": {
     "message": "Code source pertinent"
@@ -789,7 +789,7 @@
     "message": "Vérification de sécurité"
   },
   "auth.create-account.subscribe.label": {
-    "message": "Me tenir au courant des trucs cools sur lesquels Modrinth travaille par e-mail"
+    "message": "Me tenir au courant des trucs cools sur lesquels CosMods travaille par e-mail"
   },
   "auth.create-account.title": {
     "message": "Créer un Compte"
@@ -861,7 +861,7 @@
     "message": "Vous n'avez pas de compte ?"
   },
   "auth.sign-in.sign-in-with": {
-    "message": "Se connecter à Modrinth"
+    "message": "Se connecter à CosMods"
   },
   "auth.sign-in.title": {
     "message": "Se connecter"
@@ -873,7 +873,7 @@
     "message": "Continuer avec un E-mail"
   },
   "auth.sign-up.legal-dislaimer": {
-    "message": "En créant un compte, vous acceptez les <terms-link>Conditions d'utilisation</terms-link> et la <privacy-policy-link>Politique de confidentialité</privacy-policy-link> de Modrinth."
+    "message": "En créant un compte, vous acceptez les <terms-link>Conditions d'utilisation</terms-link> et la <privacy-policy-link>Politique de confidentialité</privacy-policy-link> de CosMods."
   },
   "auth.sign-up.show-fewer-options": {
     "message": "Voir moins d'options"
@@ -957,7 +957,7 @@
     "message": "Êtes-vous sûr·e de vouloir supprimer cette collection ?"
   },
   "collection.description": {
-    "message": "{description} - Voir la collection {name} par {username} sur Modrinth"
+    "message": "{description} - Voir la collection {name} par {username} sur CosMods"
   },
   "collection.description.following": {
     "message": "Collection générée automatiquement de tous vos projets favoris."
@@ -1080,7 +1080,7 @@
     "message": "Répondre au fil"
   },
   "conversation-thread.reply-modal.help-center-note": {
-    "message": "Si vous devez entrer en contact avec l'équipe de modération, veuillez utiliser le <help-center-link>Modrinth Help Center</help-center-link> et cliquez sur la bulle bleue dans le coin inférieur droit pour contacter le support."
+    "message": "Si vous devez entrer en contact avec l'équipe de modération, veuillez utiliser le <help-center-link>CosMods Help Center</help-center-link> et cliquez sur la bulle bleue dans le coin inférieur droit pour contacter le support."
   },
   "conversation-thread.resubmit-modal.confirmation.description": {
     "message": "Confirmer que j'ai adressé les messages des modérateurs"
@@ -1344,7 +1344,7 @@
     "message": "Déclaration de revenus"
   },
   "dashboard.creator-tax-form-modal.security.description": {
-    "message": "Modrinth utilise les services d'un tiers, Track1099, pour collecter et enregistrer de manière sécurisée vos déclarations de revenus. <security-link>En savoir plus</security-link>"
+    "message": "CosMods utilise les services d'un tiers, Track1099, pour collecter et enregistrer de manière sécurisée vos déclarations de revenus. <security-link>En savoir plus</security-link>"
   },
   "dashboard.creator-tax-form-modal.security.header": {
     "message": "Pratiques de sécurité"
@@ -1509,7 +1509,7 @@
     "message": "Pour retirer la totalité <b>{available}</b> de votre solde disponible, veuillez remplir le formulaire ci-dessous. Cette démarche est obligatoire pour votre déclaration fiscale et ne doit être effectuée qu'une seule fois."
   },
   "dashboard.creator-withdraw-modal.tax-form-required.body-with-limit": {
-    "message": "Vous devez remplir un formulaire W-9 ou W-8 pour les dossiers fiscaux de Modrinth afin que nous restions en conformité avec la réglementation fiscale."
+    "message": "Vous devez remplir un formulaire W-9 ou W-8 pour les dossiers fiscaux de CosMods afin que nous restions en conformité avec la réglementation fiscale."
   },
   "dashboard.creator-withdraw-modal.tax-form-required.header": {
     "message": "Formulaire fiscal requis"
@@ -1551,7 +1551,7 @@
     "message": "Adresse e-mail non vérifiée"
   },
   "dashboard.creator-withdraw-modal.tremendous-details.unverified-email-message": {
-    "message": "L'adresse e-mail de livraison que vous avez entré n'est pas associée à votre compte Modrinth. Modrinth ne peut pas récupérer les récompenses envoyées à la mauvaise adresse mail."
+    "message": "L'adresse e-mail de livraison que vous avez entré n'est pas associée à votre compte CosMods. CosMods ne peut pas récupérer les récompenses envoyées à la mauvaise adresse mail."
   },
   "dashboard.creator-withdraw-modal.tremendous-details.usd-paypal-warning-header": {
     "message": "Frais réduits disponibles"
@@ -1569,7 +1569,7 @@
     "message": "Vous avez atteint votre limite de retrait de <b>{withdrawLimit}</b>. Vous devez remplir un formulaire fiscal pour effectuer un retrait supplémentaire."
   },
   "dashboard.discord-roles.banner.body": {
-    "message": "Vous êtes éligible aux rôles {roles}. Associez votre compte Discord via Modrinth et nous les synchroniserons automatiquement."
+    "message": "Vous êtes éligible aux rôles {roles}. Associez votre compte Discord via CosMods et nous les synchroniserons automatiquement."
   },
   "dashboard.discord-roles.banner.cta": {
     "message": "Associer Discord"
@@ -1752,7 +1752,7 @@
     "message": "Les revenus estimés peuvent être modifiés jusqu'à leur publication."
   },
   "dashboard.revenue.estimated-tooltip.msg2": {
-    "message": "Cliquez pour lire comment Modrinth gère votre revenu."
+    "message": "Cliquez pour lire comment CosMods gère votre revenu."
   },
   "dashboard.revenue.estimated-with-date": {
     "message": "Estimé pour {date}"
@@ -1773,7 +1773,7 @@
     "message": "Retiré"
   },
   "dashboard.revenue.tos": {
-    "message": "En téléchargeant des projets sur Modrinth et en retirant de l'argent de votre compte, vous acceptez les <terms-link>Conditions du programme de récompenses</terms-link>. En savoir plus sur le <info-link>Programme de récompenses</info-link>."
+    "message": "En téléchargeant des projets sur CosMods et en retirant de l'argent de votre compte, vous acceptez les <terms-link>Conditions du programme de récompenses</terms-link>. En savoir plus sur le <info-link>Programme de récompenses</info-link>."
   },
   "dashboard.revenue.transactions.btn.download-csv": {
     "message": "Télécharger comme CSV"
@@ -1956,7 +1956,7 @@
     "message": "Sélectionner un modpack à insaller après la réinitialisation"
   },
   "discover.seo.description": {
-    "message": "Recherchez et explorez des milliers de {projectType} Minecraft sur Modrinth avec des résultats instantanés et précis. Nos filtres vous aident à trouver rapidement les meilleurs {projectType}."
+    "message": "Recherchez et explorez des milliers de {projectType} Minecraft sur CosMods avec des résultats instantanés et précis. Nos filtres vous aident à trouver rapidement les meilleurs {projectType}."
   },
   "discover.seo.title": {
     "message": "Chercher des {projectType}"
@@ -1971,7 +1971,7 @@
     "message": "La collection est peut-être privée."
   },
   "error.collection.404.list_item.3": {
-    "message": "La collection a peut-être été retirée par l’équipe de modération de Modrinth pour violation de nos <tou-link>Conditions d’utilisation</tou-link>."
+    "message": "La collection a peut-être été retirée par l’équipe de modération de CosMods pour violation de nos <tou-link>Conditions d’utilisation</tou-link>."
   },
   "error.collection.404.list_title": {
     "message": "Pourquoi ?"
@@ -1998,10 +1998,10 @@
     "message": "Contenu indisponible pour des raisons légal"
   },
   "error.generic.default.list_item.1": {
-    "message": "Vérifiez si Modrinth est hors ligne sur notre <status-link>page de statut</status-link>."
+    "message": "Vérifiez si CosMods est hors ligne sur notre <status-link>page de statut</status-link>."
   },
   "error.generic.default.list_item.2": {
-    "message": "Si cela continue, vous pouvez informer l’équipe de Modrinth en rejoignant notre <discord-link>serveur Discord</discord-link>."
+    "message": "Si cela continue, vous pouvez informer l’équipe de CosMods en rejoignant notre <discord-link>serveur Discord</discord-link>."
   },
   "error.generic.default.list_title": {
     "message": "Veuillez réessayer dans quelques minutes."
@@ -2019,7 +2019,7 @@
     "message": "Le propriétaire de l’organisation a peut-être changé l’URL ou l’a supprimée."
   },
   "error.organization.404.list_item.3": {
-    "message": "L’organisation a peut-être été supprimée par l’équipe de modération de Modrinth pour violation de nos <tou-link>Conditions d’utilisation</tou-link>."
+    "message": "L’organisation a peut-être été supprimée par l’équipe de modération de CosMods pour violation de nos <tou-link>Conditions d’utilisation</tou-link>."
   },
   "error.organization.404.list_title": {
     "message": "Pourquoi ?"
@@ -2034,7 +2034,7 @@
     "message": "Le propriétaire du projet a peut-être changé l’URL, rendu le projet privé ou l’a supprimé."
   },
   "error.project.404.list_item.3": {
-    "message": "Le projet a peut-être été retiré par l’équipe de modération de Modrinth pour violation de nos <tou-link>Conditions d’utilisation</tou-link>."
+    "message": "Le projet a peut-être été retiré par l’équipe de modération de CosMods pour violation de nos <tou-link>Conditions d’utilisation</tou-link>."
   },
   "error.project.404.list_title": {
     "message": "Pourquoi ?"
@@ -2049,7 +2049,7 @@
     "message": "L’utilisateur a peut-être changé de nom d’utilisateur ou supprimé son compte."
   },
   "error.user.404.list_item.3": {
-    "message": "Le compte de l’utilisateur a peut-être été supprimé pour violation des <tou-link>Conditions d’utilisation</tou-link> de Modrinth."
+    "message": "Le compte de l’utilisateur a peut-être été supprimé pour violation des <tou-link>Conditions d’utilisation</tou-link> de CosMods."
   },
   "error.user.404.list_title": {
     "message": "Pourquoi ?"
@@ -2091,10 +2091,10 @@
     "message": "Lorsque votre serveur est fortement sollicité, nous lui accordons temporairement l'accès à des threads de processeur supplémentaires afin d'atténuer les pics de latence et l'instabilité. Cela permet d'éviter que le TPS ne descende en dessous de 20, garantissant ainsi une expérience aussi fluide que possible. Étant donné que ces threads de processeur supplémentaires ne sont disponibles que brièvement pendant les périodes de forte charge, ils peuvent ne pas apparaître dans les rapports Spark ou d'autres outils de profilage."
   },
   "hosting-marketing.faq.cpu-kind": {
-    "message": "Sur quelle sorte de processeurs Modrinth Hosting exécute-t-il les serveurs ?"
+    "message": "Sur quelle sorte de processeurs CosMods Hosting exécute-t-il les serveurs ?"
   },
   "hosting-marketing.faq.cpu-kind.answer": {
-    "message": "Les serveurs de Modrinth Hosting sont équipés de processeurs AMD Ryzen 7900 et 7950X3D équivalents cadencés à plus de 5 GHz, associés à une mémoire DDR5."
+    "message": "Les serveurs de CosMods Hosting sont équipés de processeurs AMD Ryzen 7900 et 7950X3D équivalents cadencés à plus de 5 GHz, associés à une mémoire DDR5."
   },
   "hosting-marketing.faq.currency": {
     "message": "Dans quelle devise sont les prix ?"
@@ -2103,19 +2103,19 @@
     "message": "Tous les prix sont indiqués en dollars américains (USD)."
   },
   "hosting-marketing.faq.ddos-protection": {
-    "message": "Les serveurs de Modrinth Hosting ont-ils une protection DDoS ?"
+    "message": "Les serveurs de CosMods Hosting ont-ils une protection DDoS ?"
   },
   "hosting-marketing.faq.ddos-protection.answer": {
-    "message": "Oui. Tous les serveurs de Modrinth Hosting sont équipés d'une protection DDoS, avec une capacité allant jusqu'à 17 Tbps dans certains endroits."
+    "message": "Oui. Tous les serveurs de CosMods Hosting sont équipés d'une protection DDoS, avec une capacité allant jusqu'à 17 Tbps dans certains endroits."
   },
   "hosting-marketing.faq.heading": {
     "message": "Foire aux Questions"
   },
   "hosting-marketing.faq.how-fast": {
-    "message": "À quel point les serveurs de Modrinth Hosting sont-ils rapides ?"
+    "message": "À quel point les serveurs de CosMods Hosting sont-ils rapides ?"
   },
   "hosting-marketing.faq.how-fast.answer.one": {
-    "message": "Les serveurs de Modrinth Hosting sont hébergés sur du matériel très moderne et performant, mais il est difficile de dire exactement comment cela se traduira par la vitesse à laquelle votre serveur fonctionnera, car il y a tellement de facteurs qui l'affectent, tels que les mods, les packs de données ou les plugins que vous exécutez sur votre serveur, et même le comportement de l'utilisateur."
+    "message": "Les serveurs de CosMods Hosting sont hébergés sur du matériel très moderne et performant, mais il est difficile de dire exactement comment cela se traduira par la vitesse à laquelle votre serveur fonctionnera, car il y a tellement de facteurs qui l'affectent, tels que les mods, les packs de données ou les plugins que vous exécutez sur votre serveur, et même le comportement de l'utilisateur."
   },
   "hosting-marketing.faq.how-fast.answer.two": {
     "message": "La plupart des problèmes de performance qui surviennent ont tendance à être la faute d'un modpack, mod, pack de données ou plugin non optimisé qui provoque du lag chez le serveur. Puisque nos serveurs sont très haut de gamme, vous ne devriez pas rencontrer beaucoup de problèmes tant que vous choisissez un plan approprié pour le contenu que vous diffusez sur le serveur."
@@ -2124,10 +2124,10 @@
     "message": "Puis-je augmenter le stockage sur mon serveur ?"
   },
   "hosting-marketing.faq.increase-storage.answer": {
-    "message": "Oui, le stockage peut être augmenté sur votre serveur sans coût supplémentaire. Si vous avez besoin de plus de stockage, contactez Modrinth Support."
+    "message": "Oui, le stockage peut être augmenté sur votre serveur sans coût supplémentaire. Si vous avez besoin de plus de stockage, contactez CosMods Support."
   },
   "hosting-marketing.faq.location": {
-    "message": "Où se trouvent les serveurs de Modrinth Hosting ? Puis-je choisir une région ?"
+    "message": "Où se trouvent les serveurs de CosMods Hosting ? Puis-je choisir une région ?"
   },
   "hosting-marketing.faq.location.answer": {
     "message": "Nous avons des serveurs disponibles en Amérique du Nord, en Europe, en Asie du Sud-Est et en Australie au moment où vous pouvez choisir à l'achat. Davantage de régions à venir à l'avenir ! Si vous souhaitez changer de région, veuillez contacter le support."
@@ -2136,7 +2136,7 @@
     "message": "Quelles versions de Minecraft et loaders peuvent-être utilisés ?"
   },
   "hosting-marketing.faq.versions-loaders.answer.one": {
-    "message": "Les serveurs de Modrinth Hosting peuvent exécuter n'importe quelle version de Minecraft : Java Edition jusqu'à la version 1.2.5, y compris les snapshots."
+    "message": "Les serveurs de CosMods Hosting peuvent exécuter n'importe quelle version de Minecraft : Java Edition jusqu'à la version 1.2.5, y compris les snapshots."
   },
   "hosting-marketing.faq.versions-loaders.answer.two": {
     "message": "Nous prenons également en charge une large gamme de mod loaders et de plugins, y compris Fabric, Quilt, Forge et NeoForge pour les mods, ainsi que Paper et Purpur pour les plugins. La disponibilité dépend si le chargeur de mod ou de plugin prend en charge la version sélectionnée de Minecraft."
@@ -2154,10 +2154,10 @@
     "message": "Commencer votre serveur"
   },
   "hosting-marketing.hero.host-with-modrinth": {
-    "message": "Jouez tous ensemble avec Modrinth Hosting"
+    "message": "Jouez tous ensemble avec CosMods Hosting"
   },
   "hosting-marketing.hero.hosting-description": {
-    "message": "Modrinth Hosting est le moyen le plus simple d'héberger votre propre serveur pour Minecraft : Java Edition. Installez et jouez sans problème avec vos mods et modpacks préférés, le tout sur la plateforme Modrinth."
+    "message": "CosMods Hosting est le moyen le plus simple d'héberger votre propre serveur pour Minecraft : Java Edition. Installez et jouez sans problème avec vos mods et modpacks préférés, le tout sur la plateforme CosMods."
   },
   "hosting-marketing.included.advanced-networking": {
     "message": "Gestion de réseautage avancé"
@@ -2178,7 +2178,7 @@
     "message": "Partagez votre serveur avec une URL <contrast>modrinth.gg</contrast> personnalisée."
   },
   "hosting-marketing.included.description": {
-    "message": "Chaque serveur inclus une suite de fonctionnalités conçues pour offrir une expérience d'hébergement que seul Modrinth peut offrir."
+    "message": "Chaque serveur inclus une suite de fonctionnalités conçues pour offrir une expérience d'hébergement que seul CosMods peut offrir."
   },
   "hosting-marketing.included.file-manager": {
     "message": "Gestionnaire de fichiers facile à utiliser"
@@ -2193,19 +2193,19 @@
     "message": "Un coup de main à portée de main"
   },
   "hosting-marketing.included.help.description": {
-    "message": "Contactez l'équipe Modrinth pour obtenir de l'aide avec votre serveur à tout moment."
+    "message": "Contactez l'équipe CosMods pour obtenir de l'aide avec votre serveur à tout moment."
   },
   "hosting-marketing.included.powerful-console": {
     "message": "Une console puissante, un gestionnaire des propriétés du serveur, et plus encore"
   },
   "hosting-marketing.included.powerful-console.description": {
-    "message": "Modrinth Hosting est livré avec des outils puissants pour gérer votre serveur."
+    "message": "CosMods Hosting est livré avec des outils puissants pour gérer votre serveur."
   },
   "hosting-marketing.included.sftp-access": {
     "message": "Accès SFTP"
   },
   "hosting-marketing.included.sftp-access.description": {
-    "message": "Accédez aux fichiers de votre serveur directement avec SFTP intégré dans Modrinth Hosting."
+    "message": "Accédez aux fichiers de votre serveur directement avec SFTP intégré dans CosMods Hosting."
   },
   "hosting-marketing.included.with-your-server": {
     "message": "Inclus avec votre serveur"
@@ -2229,19 +2229,19 @@
     "message": "Il y a un serveur pour tout le monde"
   },
   "hosting-marketing.why.all-on-modrinth": {
-    "message": "C'est sur Modrinth que ça se passe"
+    "message": "C'est sur CosMods que ça se passe"
   },
   "hosting-marketing.why.all-on-modrinth.description": {
-    "message": "Vos serveurs, vos mods, vous joueurs, et plus encore, le tout sur Modrinth. Pas besoin de passer d'une plateforme à l'autre."
+    "message": "Vos serveurs, vos mods, vous joueurs, et plus encore, le tout sur CosMods. Pas besoin de passer d'une plateforme à l'autre."
   },
   "hosting-marketing.why.consistently-fast": {
     "message": "Constamment rapide"
   },
   "hosting-marketing.why.consistently-fast.description": {
-    "message": "Notre infrastructure reste non surchargée, garantissant des performances optimales pour chaque serveur Modrinth."
+    "message": "Notre infrastructure reste non surchargée, garantissant des performances optimales pour chaque serveur CosMods."
   },
   "hosting-marketing.why.description": {
-    "message": "Choisissez parmi les milliers de modpacks disponibles sur Modrinth ou créez le vôtre. Invitez vos amis lorsque vous êtes prêt à jouer."
+    "message": "Choisissez parmi les milliers de modpacks disponibles sur CosMods ou créez le vôtre. Invitez vos amis lorsque vous êtes prêt à jouer."
   },
   "hosting-marketing.why.heading": {
     "message": "Un modpack. Pouf, c'est un serveur."
@@ -2250,22 +2250,22 @@
     "message": "Profitez d'un hébergement moderne et fiable"
   },
   "hosting-marketing.why.modern-reliable-hosting.description": {
-    "message": "Les serveurs d'hébergement Modrinth sont hébergés sur des <contrast>processeurs AMD hautes performances avec une mémoire vive DDR5</contrast>, fonctionnant sur un logiciel sur mesure pour assurer le bon fonctionnement de votre serveur."
+    "message": "Les serveurs d'hébergement CosMods sont hébergés sur des <contrast>processeurs AMD hautes performances avec une mémoire vive DDR5</contrast>, fonctionnant sur un logiciel sur mesure pour assurer le bon fonctionnement de votre serveur."
   },
   "hosting-marketing.why.where-mods-are": {
     "message": "Jouez là où se trouvent vos mods"
   },
   "hosting-marketing.why.where-mods-are.description": {
-    "message": "Modrinth Hosting intègre parfaitement le processus d'installation de mods et de modpacks dans votre serveur."
+    "message": "CosMods Hosting intègre parfaitement le processus d'installation de mods et de modpacks dans votre serveur."
   },
   "hosting-marketing.why.why-modrinth-hosting": {
-    "message": "Pourquoi Modrinth Hosting ?"
+    "message": "Pourquoi CosMods Hosting ?"
   },
   "hosting-marketing.why.your-favorite-mods": {
     "message": "Tous vos mods préférés"
   },
   "hosting-marketing.why.your-favorite-mods.description": {
-    "message": "Choisissez entre Vanilla, Fabric, Forge, Quilt et NeoForge. Tout le contenu de Modrinth est compatible avec votre serveur."
+    "message": "Choisissez entre Vanilla, Fabric, Forge, Quilt et NeoForge. Tout le contenu de CosMods est compatible avec votre serveur."
   },
   "hosting.plan.out-of-stock": {
     "message": "En rupture de stock"
@@ -2280,7 +2280,7 @@
     "message": "Accéder au tableau de bord"
   },
   "landing.creator.feature.constantly-evolving.description": {
-    "message": "Profitez de la meilleure expérience de modding possible grâce aux mises à jour régulières de l’équipe Modrinth"
+    "message": "Profitez de la meilleure expérience de modding possible grâce aux mises à jour régulières de l’équipe CosMods"
   },
   "landing.creator.feature.constantly-evolving.title": {
     "message": "En constante évolution"
@@ -2325,13 +2325,13 @@
     "message": "Trouvez les projets que vous adorez"
   },
   "landing.feature.launcher.description": {
-    "message": "L’API open-source de Modrinth permet aux launchers d’ajouter des intégrations à Modrinth. Vous pouvez utiliser Modrinth depuis notre <link>application officielle</link> ou depuis les launchers les plus populaires, par exemple ATLauncher, MultiMC et Prism Launcher."
+    "message": "L’API open-source de CosMods permet aux launchers d’ajouter des intégrations à CosMods. Vous pouvez utiliser CosMods depuis notre <link>application officielle</link> ou depuis les launchers les plus populaires, par exemple ATLauncher, MultiMC et Prism Launcher."
   },
   "landing.feature.launcher.heading": {
     "message": "Jouez avec vos launchers préférés"
   },
   "landing.feature.search.description": {
-    "message": "La recherche ultra-rapide de Modrinth et ses filtres puissants vous permettent de trouver ce que vous cherchez au fur et à mesure que vous tapez."
+    "message": "La recherche ultra-rapide de CosMods et ses filtres puissants vous permettent de trouver ce que vous cherchez au fur et à mesure que vous tapez."
   },
   "landing.feature.search.heading": {
     "message": "Trouvez ce que vous voulez, en toute facilité"
@@ -2367,7 +2367,7 @@
     "message": "Une représentation simplifiée d'une fenêtre Minecraft, avec le logo de Mojang Studios en vert."
   },
   "landing.launcher.modrinth-app-label": {
-    "message": "Modrinth App"
+    "message": "CosMods App"
   },
   "landing.launcher.prism-launcher-label": {
     "message": "Prism Launcher"
@@ -2463,13 +2463,13 @@
     "message": "Consulter les paramètres du compte"
   },
   "layout.banner.add-email.description": {
-    "message": "Pour des raisons de sécurité, Modrinth a besoin que vous enregistriez une adresse e-mail sur votre compte."
+    "message": "Pour des raisons de sécurité, CosMods a besoin que vous enregistriez une adresse e-mail sur votre compte."
   },
   "layout.banner.build-fail.always-ignore": {
     "message": "Toujours ignorer"
   },
   "layout.banner.build-fail.description": {
-    "message": "Ce déploiement du frontend de Modrinth n’a pas pu générer l’état à partir de l’API. Cela peut être dû à une panne ou à une erreur de configuration. Rebuild lorsque l’API sera disponible. Codes d’erreur : {errors} ; L’URL actuelle de l’API est : {url}"
+    "message": "Ce déploiement du frontend de CosMods n’a pas pu générer l’état à partir de l’API. Cela peut être dû à une panne ou à une erreur de configuration. Rebuild lorsque l’API sera disponible. Codes d’erreur : {errors} ; L’URL actuelle de l’API est : {url}"
   },
   "layout.banner.build-fail.ignore": {
     "message": "ignorer"
@@ -2478,16 +2478,16 @@
     "message": "Erreur lors de la génération de l’état à partir de l’API pendant la construction."
   },
   "layout.banner.preview.description": {
-    "message": "Si vous souhaitez accéder au site web officiel de Modrinth, rendez-vous sûr {url}. Cette version anticipée est utilisée par l'équipe de Modrinth à des fins de test. Elle a été créée avec {ref}."
+    "message": "Si vous souhaitez accéder au site web officiel de CosMods, rendez-vous sûr {url}. Cette version anticipée est utilisée par l'équipe de CosMods à des fins de test. Elle a été créée avec {ref}."
   },
   "layout.banner.preview.title": {
-    "message": "Ceci est un déploiement de prévisualisation du site Modrinth."
+    "message": "Ceci est un déploiement de prévisualisation du site CosMods."
   },
   "layout.banner.staging.description": {
-    "message": "L'environnement d'essai fonctionne sur une copie de la base de données en production de Modrinth. Il est utilisé à des fins de test et de débogage, et peut exécuter des versions en cours de développement du backend ou du frontend de Modrinth plus récentes que l'instance en production."
+    "message": "L'environnement d'essai fonctionne sur une copie de la base de données en production de CosMods. Il est utilisé à des fins de test et de débogage, et peut exécuter des versions en cours de développement du backend ou du frontend de CosMods plus récentes que l'instance en production."
   },
   "layout.banner.staging.title": {
-    "message": "Vous êtes en train de visualiser l'environnement d'essai de Modrinth"
+    "message": "Vous êtes en train de visualiser l'environnement d'essai de CosMods"
   },
   "layout.banner.subscription-payment-failed.button": {
     "message": "Mettre à jour les informations de facturation"
@@ -2502,7 +2502,7 @@
     "message": "Remplir la déclaration de revenus"
   },
   "layout.banner.tax.description": {
-    "message": "Vous avez déjà retiré plus de {threshold} de Modrinth cette année. Afin de respecter la réglementation fiscale, vous devez remplir une déclaration de revenus. Vos retraits sont suspendus jusqu'à réception de ce formulaire."
+    "message": "Vous avez déjà retiré plus de {threshold} de CosMods cette année. Afin de respecter la réglementation fiscale, vous devez remplir une déclaration de revenus. Vos retraits sont suspendus jusqu'à réception de ce formulaire."
   },
   "layout.banner.tax.title": {
     "message": "Déclaration de revenus nécessaire"
@@ -2520,7 +2520,7 @@
     "message": "Renvoyer un e-mail de vérification"
   },
   "layout.banner.verify-email.description": {
-    "message": "Pour des raisons de sécurité, Modrinth a besoin que vous vérifiiez l'adresse e-mail associée à votre compte."
+    "message": "Pour des raisons de sécurité, CosMods a besoin que vous vérifiiez l'adresse e-mail associée à votre compte."
   },
   "layout.footer.about": {
     "message": "À propos"
@@ -2562,22 +2562,22 @@
     "message": "Conditions d’utilisation"
   },
   "layout.footer.modrinth-information": {
-    "message": "Information Modrinth"
+    "message": "Information CosMods"
   },
   "layout.footer.open-source": {
-    "message": "Modrinth est <github-link>open source</github-link>."
+    "message": "CosMods est <github-link>open source</github-link>."
   },
   "layout.footer.products": {
     "message": "Produits"
   },
   "layout.footer.products.app": {
-    "message": "Modrinth App"
+    "message": "CosMods App"
   },
   "layout.footer.products.plus": {
-    "message": "Modrinth+"
+    "message": "CosMods+"
   },
   "layout.footer.products.servers": {
-    "message": "Modrinth Hosting"
+    "message": "CosMods Hosting"
   },
   "layout.footer.resources": {
     "message": "Ressources"
@@ -2613,7 +2613,7 @@
     "message": "Basculer le menu"
   },
   "layout.meta.description": {
-    "message": "Téléchargez des mods, plugins, datapacks, shaders, packs de ressources et modpacks Minecraft sur Modrinth. Découvrez et publiez des projets sur Modrinth avec une interface moderne, facile à utiliser, et une API."
+    "message": "Téléchargez des mods, plugins, datapacks, shaders, packs de ressources et modpacks Minecraft sur CosMods. Découvrez et publiez des projets sur CosMods avec une interface moderne, facile à utiliser, et une API."
   },
   "layout.meta.og-description": {
     "message": "Découvrez et publiez du contenu Minecraft !"
@@ -2634,7 +2634,7 @@
     "message": "Découvrir du contenu"
   },
   "layout.nav.get-modrinth-app": {
-    "message": "Obtenir Modrinth App"
+    "message": "Obtenir CosMods App"
   },
   "layout.nav.home": {
     "message": "Accueil"
@@ -2643,10 +2643,10 @@
     "message": "Héberger un serveur"
   },
   "layout.nav.modrinth-app": {
-    "message": "Modrinth App"
+    "message": "CosMods App"
   },
   "layout.nav.modrinth-home-page": {
-    "message": "Page d'accueil de Modrinth"
+    "message": "Page d'accueil de CosMods"
   },
   "layout.nav.my-servers": {
     "message": "Mes serveurs"
@@ -2670,7 +2670,7 @@
     "message": "Rechercher"
   },
   "layout.nav.upgrade-to-modrinth-plus": {
-    "message": "Passer à Modrinth+"
+    "message": "Passer à CosMods+"
   },
   "moderation.exclude-technical-review": {
     "message": "Exclure la révision technique"
@@ -3003,10 +3003,10 @@
     "message": "Les modifications seront appliquées à {count, plural, one {# projet} other {# projets}}."
   },
   "profile.bio.fallback.creator": {
-    "message": "Un créateur Modrinth."
+    "message": "Un créateur CosMods."
   },
   "profile.bio.fallback.user": {
-    "message": "Un utilisateur Modrinth."
+    "message": "Un utilisateur CosMods."
   },
   "profile.button.analytics": {
     "message": "Voir les analyses de l'utilisateur"
@@ -3096,16 +3096,16 @@
     "message": "Sauvegarde en cours..."
   },
   "profile.meta.description": {
-    "message": "Téléchargez les projets de {username} sur Modrinth"
+    "message": "Téléchargez les projets de {username} sur CosMods"
   },
   "profile.meta.description-with-bio": {
-    "message": "{bio} - Téléchargez les projets de {username} sur Modrinth"
+    "message": "{bio} - Téléchargez les projets de {username} sur CosMods"
   },
   "profile.official-account": {
-    "message": "Compte Modrinth Officiel"
+    "message": "Compte CosMods Officiel"
   },
   "profile.official-account.bio": {
-    "message": "Le compte utilisateur officiel de Modrinth. Obtenez de l’aide via <support-link></support-link> ou par e-mail à <email></email>"
+    "message": "Le compte utilisateur officiel de CosMods. Obtenez de l’aide via <support-link></support-link> ou par e-mail à <email></email>"
   },
   "profile.stats.projects-followers": {
     "message": "{count, plural, one {<stat>{count}</stat> personne adore} other {<stat>{count}</stat> personnes adorent}}"
@@ -3144,7 +3144,7 @@
     "message": "Soumettre à nouveau pour révision"
   },
   "project-moderation-nags.resubmit-for-review-desc": {
-    "message": "Votre projet à été {status, select, rejected {rejeté} withheld {retenue} other {{status}}} par un employé de Modrinth. La plupart des cas vous pouvez renvoyer votre projet pour l'examination après avoir compris et appliqué la consigne du message de l'employé."
+    "message": "Votre projet à été {status, select, rejected {rejeté} withheld {retenue} other {{status}}} par un employé de CosMods. La plupart des cas vous pouvez renvoyer votre projet pour l'examination après avoir compris et appliqué la consigne du message de l'employé."
   },
   "project-moderation-nags.submit-checklist-tooltip": {
     "message": "Vous devez compléter les étapes obligatoires dans la liste de contrôle de publication !"
@@ -3258,7 +3258,7 @@
     "message": "Vérifier le projet"
   },
   "project.actions.servers-promo.description": {
-    "message": "Les serveurs Modrinth Hosting sont la solution la plus facile pour jouer entre amis facilement !"
+    "message": "Les serveurs CosMods Hosting sont la solution la plus facile pour jouer entre amis facilement !"
   },
   "project.actions.servers-promo.pricing": {
     "message": "À partir de {price}<small> / mois</small>"
@@ -3351,13 +3351,13 @@
     "message": "{title} ne supporte pas {gameVersion} pour {platform}"
   },
   "project.download.install-with-app": {
-    "message": "Installer avec Modrinth App"
+    "message": "Installer avec CosMods App"
   },
   "project.download.manually": {
     "message": "Télécharger manuellement"
   },
   "project.download.no-app": {
-    "message": "Vous n'avez pas Modrinth App ?"
+    "message": "Vous n'avez pas CosMods App ?"
   },
   "project.download.no-game-versions-found": {
     "message": "Aucune version de jeu trouvée"
@@ -3396,7 +3396,7 @@
     "message": "Loader inconnu"
   },
   "project.environment.migration-no-permission.message": {
-    "message": "Nous venons de remanier le système d'Environnements sur Modrinth et de nouvelles options sont désormais disponibles. Vous n'avez pas l'autorisation de modifier ces paramètres, veuillez informer un autre membre du projet que les métadonnées de l'environnement doivent être vérifiées."
+    "message": "Nous venons de remanier le système d'Environnements sur CosMods et de nouvelles options sont désormais disponibles. Vous n'avez pas l'autorisation de modifier ces paramètres, veuillez informer un autre membre du projet que les métadonnées de l'environnement doivent être vérifiées."
   },
   "project.environment.migration-no-permission.title": {
     "message": "Les métadonnées de l'environnement doivent être examinées"
@@ -3405,7 +3405,7 @@
     "message": "En apprendre davantage au sujet de cette modification"
   },
   "project.environment.migration.message": {
-    "message": "Nous venons de refaire le système d’environnements sur Modrinth et de nouvelles options sont désormais disponibles. Veuillez vérifier que les métadonnées sont correctes."
+    "message": "Nous venons de refaire le système d’environnements sur CosMods et de nouvelles options sont désormais disponibles. Veuillez vérifier que les métadonnées sont correctes."
   },
   "project.environment.migration.review-button": {
     "message": "Vérifier les paramètres d'environnement"
@@ -3438,10 +3438,10 @@
     "message": "Votre projet est privé, il n'est accessible que par vous et les personnes que vous invitez."
   },
   "project.moderation.admonition.approved.body.public": {
-    "message": "Votre projet est publié et est découvrable sur Modrinth."
+    "message": "Votre projet est publié et est découvrable sur CosMods."
   },
   "project.moderation.admonition.approved.body.unlisted": {
-    "message": "Votre projet est non répertorié, ce qui signifie qu'il n'est accessible qu'avec un lien direct et ne sera pas découvrable sur Modrinth."
+    "message": "Votre projet est non répertorié, ce qui signifie qu'il n'est accessible qu'avec un lien direct et ne sera pas découvrable sur CosMods."
   },
   "project.moderation.admonition.approved.body.visibility-message": {
     "message": "Vous pouvez changer la visibilité de votre projet dans les <visibility-settings-link>paramètres de visibilité</visibility-settings-link> de votre projet."
@@ -3450,7 +3450,7 @@
     "message": "Projet approuvé"
   },
   "project.moderation.admonition.draft.body": {
-    "message": "Ce projet est un brouillon et ne peut être vu par les autres jusqu'à ce qu'il soit soumis à la révision et approuvé par les modérateurs de Modrinth."
+    "message": "Ce projet est un brouillon et ne peut être vu par les autres jusqu'à ce qu'il soit soumis à la révision et approuvé par les modérateurs de CosMods."
   },
   "project.moderation.admonition.draft.header": {
     "message": "Brouillon"
@@ -3468,10 +3468,10 @@
     "message": "Soumettre à plusieurs reprises votre projet sans répondre à toutes les préoccupations de modération peut d'abord entraîner une suspension de compte."
   },
   "project.moderation.admonition.under-review.body.1": {
-    "message": "Votre projet est en file d'attente pour être examiné par l'équipe de modération de Modrinth."
+    "message": "Votre projet est en file d'attente pour être examiné par l'équipe de modération de CosMods."
   },
   "project.moderation.admonition.under-review.body.2": {
-    "message": "Votre projet sera scanné puis examiné par les modérateurs humains pour s'assurer qu'il répond aux règles des <rules-link>règle du contenu</rules-link> et des <terms-link>conditions d'utilisation</terms-link> de Modrinth."
+    "message": "Votre projet sera scanné puis examiné par les modérateurs humains pour s'assurer qu'il répond aux règles des <rules-link>règle du contenu</rules-link> et des <terms-link>conditions d'utilisation</terms-link> de CosMods."
   },
   "project.moderation.admonition.under-review.body.3": {
     "message": "Vous pouvez toujours modifier votre projet, cela n'affectera pas votre position dans la file d'attente."
@@ -3480,7 +3480,7 @@
     "message": "Nous visons à examiner les soumissions dans les 24 à 48 heures, mais certains projets peuvent être menacés. Cela ne reflète pas un problème avec votre soumission."
   },
   "project.moderation.admonition.under-review.body.5": {
-    "message": "<emphasis>Nous apprécions votre patience pendant que nos modérateurs travaillent dur pour garder Modrinth en sécurité, et nous sommes impatients de vous aider à partager votre contenu !</emphasis>"
+    "message": "<emphasis>Nous apprécions votre patience pendant que nos modérateurs travaillent dur pour garder CosMods en sécurité, et nous sommes impatients de vous aider à partager votre contenu !</emphasis>"
   },
   "project.moderation.admonition.under-review.header": {
     "message": "Projet en cours de révision"
@@ -3501,7 +3501,7 @@
     "message": "Les modérateurs de contenu ne peuvent pas fournir de support pour la plupart des problèmes et les messages à ce fil ne notifient pas le personnel."
   },
   "project.moderation.thread.help-center-note.2": {
-    "message": "Si vous avez besoin d'aide ou si vous avez des demandes de renseignements supplémentaires, veuillez visiter le <help-center-link>Modrinth Help Center</help-center-link> et cliquez sur la bulle bleue pour contacter le support."
+    "message": "Si vous avez besoin d'aide ou si vous avez des demandes de renseignements supplémentaires, veuillez visiter le <help-center-link>CosMods Help Center</help-center-link> et cliquez sur la bulle bleue pour contacter le support."
   },
   "project.moderation.thread.private-description": {
     "message": "Il s'agit d'un fil de conversation privé avec les modérateurs du Modrinthe. Ils peuvent vous envoyer un message avec des problèmes concernant ce projet."
@@ -3582,7 +3582,7 @@
     "message": "Contenu externe inconnu"
   },
   "project.settings.permissions.bad-proof.description": {
-    "message": "L'équipe de modération de Modrinth a rejeté les informations d'autorisation que vous avez fournies pour certains contenus externes. Veuillez examiner les éléments rejetés ci-dessous et fournir une preuve acceptable lub supprimer le contenu."
+    "message": "L'équipe de modération de CosMods a rejeté les informations d'autorisation que vous avez fournies pour certains contenus externes. Veuillez examiner les éléments rejetés ci-dessous et fournir une preuve acceptable lub supprimer le contenu."
   },
   "project.settings.permissions.bad-proof.title": {
     "message": "Certaines preuves ont été rejetées"
@@ -3606,13 +3606,13 @@
     "message": "Tout développer"
   },
   "project.settings.permissions.fail.description": {
-    "message": "Il se peut que vous n'ayez pas l'autorisation de redistribuer une partie du contenu externe de votre projet. Pour pouvoir publier na Modrinth, veuillez supprimer ce contenu ou fournir la preuve que vous avez l'autorisation de l'utiliser."
+    "message": "Il se peut que vous n'ayez pas l'autorisation de redistribuer une partie du contenu externe de votre projet. Pour pouvoir publier na CosMods, veuillez supprimer ce contenu ou fournir la preuve que vous avez l'autorisation de l'utiliser."
   },
   "project.settings.permissions.fail.title": {
     "message": "Certains contenus ne peuvent pas être inclus"
   },
   "project.settings.permissions.info-banner.description": {
-    "message": "Si vous incluez du contenu qui n'est pas hébergé sur Modrinth, vous devez nous indiquer sa provenance et vérifier que vous avez l'autorisation de distribuer te pliki. Découvrez <link>notre annonce de ce nouveau système</link> pour en savoir plus !"
+    "message": "Si vous incluez du contenu qui n'est pas hébergé sur CosMods, vous devez nous indiquer sa provenance et vérifier que vous avez l'autorisation de distribuer te pliki. Découvrez <link>notre annonce de ce nouveau système</link> pour en savoir plus !"
   },
   "project.settings.permissions.info-banner.title": {
     "message": "En savoir plus sur les autorisations de distribution"
@@ -3624,7 +3624,7 @@
     "message": "Aucun fichier externe ne correspond à votre recherche."
   },
   "project.settings.permissions.not-allowed.description": {
-    "message": "Une partie du contenu externe inclus ne peut pas être distribuée sur Modrinth car elle enfreint nos règles relatives au contenu et doit être supprimée."
+    "message": "Une partie du contenu externe inclus ne peut pas être distribuée sur CosMods car elle enfreint nos règles relatives au contenu et doit être supprimée."
   },
   "project.settings.permissions.pending-approval-count": {
     "message": "{count, plural, =0 {Aucune attribution n'a besoin d'approbation} one {# attribution a besoin d'approbation} other {# attributions ont besoin d'approbation}}"
@@ -3690,7 +3690,7 @@
     "message": "Impossible de trouver {item}"
   },
   "report.for.violation": {
-    "message": "Violation des <rules-link>Règles</rules-link> ou des <terms-link>Conditions d’utilisation</terms-link> de Modrinth"
+    "message": "Violation des <rules-link>Règles</rules-link> ou des <terms-link>Conditions d’utilisation</terms-link> de CosMods"
   },
   "report.for.violation.description": {
     "message": "Exemples : contenu malveillant, spam, offensant, trompeur, mensonger ou illégal."
@@ -3735,7 +3735,7 @@
     "message": "Quel type de contenu signalez-vous ?"
   },
   "report.question.report-reason": {
-    "message": "Quelle règle de Modrinth {item} viole-t-il ?"
+    "message": "Quelle règle de CosMods {item} viole-t-il ?"
   },
   "report.report-content": {
     "message": "Signaler le contenu aux modérateurs"
@@ -3939,7 +3939,7 @@
     "message": "Créer des rapports"
   },
   "scopes.sessionAccess.description": {
-    "message": "Accéder aux sessions émises par Modrinth"
+    "message": "Accéder aux sessions émises par CosMods"
   },
   "scopes.sessionAccess.label": {
     "message": "Accéder aux sessions"
@@ -4038,7 +4038,7 @@
     "message": "Synchroniser avec le serveur"
   },
   "servers.manage.content.title": {
-    "message": "Contenu - {serverName} - Modrinth"
+    "message": "Contenu - {serverName} - CosMods"
   },
   "servers.notice.actions": {
     "message": "Actions"
@@ -4092,13 +4092,13 @@
     "message": "Génération de l’export..."
   },
   "settings.account.data-export.description": {
-    "message": "Demandez une copie de toutes vos données personnelles que vous avez téléchargées sur Modrinth. Cette opération peut prendre plusieurs minutes."
+    "message": "Demandez une copie de toutes vos données personnelles que vous avez téléchargées sur CosMods. Cette opération peut prendre plusieurs minutes."
   },
   "settings.account.data-export.title": {
     "message": "Export des données"
   },
   "settings.account.delete.confirm.description": {
-    "message": "Cela supprimera **immédiatement tous vos projets et vos suivis**. La suppression de votre compte est irréversible.<br><br>Si vous avez besoin d'aide avec votre compte, contactez le serveur [Discord de Modrinth](https://discord.cosmods.miki85.cz)."
+    "message": "Cela supprimera **immédiatement tous vos projets et vos suivis**. La suppression de votre compte est irréversible.<br><br>Si vous avez besoin d'aide avec votre compte, contactez le serveur [Discord de CosMods](https://discord.cosmods.miki85.cz)."
   },
   "settings.account.delete.confirm.proceed": {
     "message": "Supprimer ce compte"
@@ -4383,7 +4383,7 @@
     "message": "Êtes-vous sûr·e de vouloir supprimer cette application ?"
   },
   "settings.applications.description.intro": {
-    "message": "Les applications permettent d'authentifier les utilisateurs de Modrinth auprès de vos produits. Pour plus d'informations, consultez la <docs-link>documentation de l'API Modrinth</docs-link>."
+    "message": "Les applications permettent d'authentifier les utilisateurs de CosMods auprès de vos produits. Pour plus d'informations, consultez la <docs-link>documentation de l'API CosMods</docs-link>."
   },
   "settings.applications.field.description": {
     "message": "Description"
@@ -4437,7 +4437,7 @@
     "message": "par"
   },
   "settings.authorizations.description": {
-    "message": "Lorsque vous autorisez une application avec votre compte Modrinth, vous lui accordez l’accès à votre compte. Vous pouvez gérer et consulter les accès à votre compte ici à tout moment."
+    "message": "Lorsque vous autorisez une application avec votre compte CosMods, vous lui accordez l’accès à votre compte. Vous pouvez gérer et consulter les accès à votre compte ici à tout moment."
   },
   "settings.authorizations.empty-state": {
     "message": "Nous ne pouvons pas afficher vos applications autorisées pour le moment, nous travaillons à résoudre ce problème. Veuillez revenir sur cette page ultérieurement !"
@@ -4455,16 +4455,16 @@
     "message": "Êtes-vous sûr·e de vouloir révoquer cette application ?"
   },
   "settings.billing.charges.description": {
-    "message": "Toutes vos transactions passées sur votre compte Modrinth seront affichées ici :"
+    "message": "Toutes vos transactions passées sur votre compte CosMods seront affichées ici :"
   },
   "settings.billing.charges.product.medal-trial": {
     "message": "Essai du serveur Medal"
   },
   "settings.billing.charges.product.midas": {
-    "message": "Modrinth Plus"
+    "message": "CosMods Plus"
   },
   "settings.billing.charges.product.pyro": {
-    "message": "Hébergement Modrinth"
+    "message": "Hébergement CosMods"
   },
   "settings.billing.charges.title": {
     "message": "Charges passées"
@@ -4482,13 +4482,13 @@
     "message": "an"
   },
   "settings.billing.midas.benefits.ad-free": {
-    "message": "Navigation sans publicité sur cosmods.miki85.cz et Modrinth App"
+    "message": "Navigation sans publicité sur cosmods.miki85.cz et CosMods App"
   },
   "settings.billing.midas.benefits.badge": {
-    "message": "Badge Modrinth+ sur votre profil"
+    "message": "Badge CosMods+ sur votre profil"
   },
   "settings.billing.midas.benefits.support": {
-    "message": "Soutenez directement Modrinth et les créateurs"
+    "message": "Soutenez directement CosMods et les créateurs"
   },
   "settings.billing.midas.benefits.title": {
     "message": "Avantages"
@@ -4512,7 +4512,7 @@
     "message": "Votre paiement est en cours de traitement. Les avantages seront activés une fois le paiement terminé."
   },
   "settings.billing.midas.upsell": {
-    "message": "Devenez abonné à Modrinth Plus !"
+    "message": "Devenez abonné à CosMods Plus !"
   },
   "settings.billing.modal.cancel.action": {
     "message": "Annuler l’abonnement"
@@ -4569,7 +4569,7 @@
     "message": "{shared} processeurs partagés (pics jusqu’à {bursts} processeurs)"
   },
   "settings.billing.pyro.linked-server.not-found": {
-    "message": "Un serveur lié n’a pas pu être trouvé pour cet abonnement. Il y a plusieurs explications possibles. Si vous venez d’acheter votre serveur, c’est normal. Il peut prendre jusqu’à une heure pour que votre serveur soit provisionné. Sinon, si vous avez acheté ce serveur il y a un certain temps, il a probablement été suspendu depuis. Si ce n’est pas ce à quoi vous vous attendiez, veuillez contacter le support Modrinth avec les informations suivantes :"
+    "message": "Un serveur lié n’a pas pu être trouvé pour cet abonnement. Il y a plusieurs explications possibles. Si vous venez d’acheter votre serveur, c’est normal. Il peut prendre jusqu’à une heure pour que votre serveur soit provisionné. Sinon, si vous avez acheté ce serveur il y a un certain temps, il a probablement été suspendu depuis. Si ce n’est pas ce à quoi vous vous attendiez, veuillez contacter le support CosMods avec les informations suivantes :"
   },
   "settings.billing.pyro.linked-server.server-id": {
     "message": "ID du serveur : {id}"
@@ -4581,7 +4581,7 @@
     "message": "{gb} Go de mémoire vive"
   },
   "settings.billing.pyro.resubscribe.error.text": {
-    "message": "Une erreur est survenue lors de la tentative de réabonnement à votre serveur Modrinth."
+    "message": "Une erreur est survenue lors de la tentative de réabonnement à votre serveur CosMods."
   },
   "settings.billing.pyro.resubscribe.error.title": {
     "message": "Erreur lors du réabonnement"
@@ -4608,10 +4608,10 @@
     "message": "{gb} Go de swap"
   },
   "settings.billing.pyro_subscription.description": {
-    "message": "Gérer vos abonnements au serveur Modrinth."
+    "message": "Gérer vos abonnements au serveur CosMods."
   },
   "settings.billing.pyro_subscription.title": {
-    "message": "Abonnements au serveur Modrinth"
+    "message": "Abonnements au serveur CosMods"
   },
   "settings.billing.renews": {
     "message": "Renouvellement le {date}"
@@ -4626,7 +4626,7 @@
     "message": "S’abonner"
   },
   "settings.billing.subscription.description": {
-    "message": "Gérer vos abonnements Modrinth."
+    "message": "Gérer vos abonnements CosMods."
   },
   "settings.billing.subscription.title": {
     "message": "Abonnements"
@@ -4653,7 +4653,7 @@
     "message": "Désactiver le mode développeur"
   },
   "settings.display.banner.developer-mode.description": {
-    "message": "<strong>Le mode développeur</strong> est activé. Cela vous permettra de voir les ID internes de diverses choses dans Modrinth qui peuvent être utiles si vous êtes un développeur utilisant l'API de Modrinth. Cliquez 5 fois sur le logo Modrinth en bas de la page pour désactiver le mode développeur."
+    "message": "<strong>Le mode développeur</strong> est activé. Cela vous permettra de voir les ID internes de diverses choses dans CosMods qui peuvent être utiles si vous êtes un développeur utilisant l'API de CosMods. Cliquez 5 fois sur le logo CosMods en bas de la page pour désactiver le mode développeur."
   },
   "settings.display.flags.description": {
     "message": "Activer ou désactiver certaines fonctionnalités sur cet appareil."
@@ -4716,16 +4716,16 @@
     "message": "Rendu avancé"
   },
   "settings.display.sidebar.external-links-new-tab.description": {
-    "message": "Les liens qui vont en dehors de Modrinth s'ouvrent dans un nouvel onglet. Peu importe ce paramètre, les liens sur le même domaine et dans les descriptions Markdown s'ouvriront dans le même onglet, et les liens sur les publicités et les pages d'édition s'ouvriront dans un nouvel onglet."
+    "message": "Les liens qui vont en dehors de CosMods s'ouvrent dans un nouvel onglet. Peu importe ce paramètre, les liens sur le même domaine et dans les descriptions Markdown s'ouvriront dans le même onglet, et les liens sur les publicités et les pages d'édition s'ouvriront dans un nouvel onglet."
   },
   "settings.display.sidebar.external-links-new-tab.title": {
     "message": "Ouvre les liens externes dans un nouvel onglet"
   },
   "settings.display.sidebar.hide-app-promos.description": {
-    "message": "Cache les boutons « Obtenir Modrinth App » de la navigation principale. La page de Modrinth App peut toujours être trouvée sur la page d'accueil ou dans le pied de page."
+    "message": "Cache les boutons « Obtenir CosMods App » de la navigation principale. La page de CosMods App peut toujours être trouvée sur la page d'accueil ou dans le pied de page."
   },
   "settings.display.sidebar.hide-app-promos.title": {
-    "message": "Cache les publicités de Modrinth App"
+    "message": "Cache les publicités de CosMods App"
   },
   "settings.display.sidebar.left-aligned-content-sidebar.title": {
     "message": "Barre latérale alignée à gauche sur les pages de contenus"
@@ -4740,7 +4740,7 @@
     "message": "Filtres de la barre latérale alignés à droite sur les pages de recherche"
   },
   "settings.display.theme.description": {
-    "message": "Sélectionnez votre thème de couleur préféré pour Modrinth sur cet appareil."
+    "message": "Sélectionnez votre thème de couleur préféré pour CosMods sur cet appareil."
   },
   "settings.display.theme.title": {
     "message": "Thème de couleur"
@@ -4752,7 +4752,7 @@
     "message": "Créer un PAT"
   },
   "settings.pats.description": {
-    "message": "Les PAT peuvent être utilisés pour accéder à l'API de Modrinth. Ils peuvent être créés et révoqués à tout moment. Pour plus d'informations, voir <doc-link>La documentation API de Modrinth</doc-link>."
+    "message": "Les PAT peuvent être utilisés pour accéder à l'API de CosMods. Ils peuvent être créés et révoqués à tout moment. Pour plus d'informations, voir <doc-link>La documentation API de CosMods</doc-link>."
   },
   "settings.pats.modal.create.action": {
     "message": "Créer un PAT"
@@ -4806,7 +4806,7 @@
     "message": "À propos"
   },
   "settings.profile.description": {
-    "message": "Votre information de profil est visible publiquement sur Modrinth et sur la <docs-link>Modrinth API</docs-link>."
+    "message": "Votre information de profil est visible publiquement sur CosMods et sur la <docs-link>CosMods API</docs-link>."
   },
   "settings.profile.head-title": {
     "message": "Paramètres du profil"
@@ -4830,7 +4830,7 @@
     "message": "Session actuelle"
   },
   "settings.sessions.description": {
-    "message": "Voici tous les appareils actuellement connectés à votre compte Modrinth. Vous pouvez vous déconnecter de chacun d'eux individuellement.\n\nSi vous voyez une connexion inconnue sur un appareil, déconnectez-vous de celui-ci et changez le mot de passe de votre compte Modrinth immédiatement."
+    "message": "Voici tous les appareils actuellement connectés à votre compte CosMods. Vous pouvez vous déconnecter de chacun d'eux individuellement.\n\nSi vous voyez une connexion inconnue sur un appareil, déconnectez-vous de celui-ci et changez le mot de passe de votre compte CosMods immédiatement."
   },
   "settings.sessions.last-accessed-ago": {
     "message": "Dernier accès {ago}"
@@ -4851,7 +4851,7 @@
     "message": "Affichage"
   },
   "ui.latest-news-row.latest-news": {
-    "message": "Dernières nouveautés de Modrinth"
+    "message": "Dernières nouveautés de CosMods"
   },
   "ui.latest-news-row.view-all": {
     "message": "Voir toutes les actualités"
@@ -4863,7 +4863,7 @@
     "message": "Abonné !"
   },
   "ui.newsletter-button.tooltip": {
-    "message": "S'abonner au journal Modrinth"
+    "message": "S'abonner au journal CosMods"
   },
   "version.all-versions": {
     "message": "Toutes les versions"
@@ -4953,10 +4953,10 @@
     "message": "Coordonnées Maven :"
   },
   "version.section.content.dev-info.maven-description": {
-    "message": "Les projets sur Modrinth sont automatiquement disponibles via un dépôt Maven pour une utilisation avec des outils de build JVM tels que <gradle-link>Gradle</gradle-link>. Pour en savoir plus sur l'API Maven de Modrinth, <article-link>cliquez ici</article-link>."
+    "message": "Les projets sur CosMods sont automatiquement disponibles via un dépôt Maven pour une utilisation avec des outils de build JVM tels que <gradle-link>Gradle</gradle-link>. Pour en savoir plus sur l'API Maven de CosMods, <article-link>cliquez ici</article-link>."
   },
   "version.section.content.dev-info.maven-note": {
-    "message": "Remarque : Lorsque cela est possible, il est préférable d'utiliser le dépôt Maven du créateur, car il contient des informations sur les dépendances transitives que l'API Maven de Modrinth ne fournit pas. Vous risquez également de vous retrouver avec des dépendances en double si vous combinez des dépôts Maven Modrinth et non-Modrinth pour vos dépendances, car l'identifiant de groupe (group ID) différera lorsqu'il est fourni via l'API Maven de Modrinth."
+    "message": "Remarque : Lorsque cela est possible, il est préférable d'utiliser le dépôt Maven du créateur, car il contient des informations sur les dépendances transitives que l'API Maven de CosMods ne fournit pas. Vous risquez également de vous retrouver avec des dépendances en double si vous combinez des dépôts Maven CosMods et non-CosMods pour vos dépendances, car l'identifiant de groupe (group ID) différera lorsqu'il est fourni via l'API Maven de CosMods."
   },
   "version.section.content.dev-info.version-id": {
     "message": "ID de version :"

@@ -349,14 +349,17 @@ export function flattenProjectVariables(
 	// Navigation related variables
 	vars[`PROJECT_PERMANENT_LINK`] = `https://cosmods.miki85.cz/project/${project.id}`
 	vars[`PROJECT_SETTINGS_LINK`] = `https://cosmods.miki85.cz/project/${project.id}/settings`
-	vars[`PROJECT_SETTINGS_FLINK`] = `[Settings](https://cosmods.miki85.cz/project/${project.id}/settings)`
+	vars[`PROJECT_SETTINGS_FLINK`] =
+		`[Settings](https://cosmods.miki85.cz/project/${project.id}/settings)`
 	vars[`PROJECT_TITLE_FLINK`] = `[Name](https://cosmods.miki85.cz/project/${project.id}/settings)`
 	vars[`PROJECT_SLUG_FLINK`] = `[URL](https://cosmods.miki85.cz/project/${project.id}/settings)`
-	vars[`PROJECT_SUMMARY_FLINK`] = `[Summary](https://cosmods.miki85.cz/project/${project.id}/settings)`
+	vars[`PROJECT_SUMMARY_FLINK`] =
+		`[Summary](https://cosmods.miki85.cz/project/${project.id}/settings)`
 	vars[`PROJECT_ENVIRONMENT_FLINK`] =
 		`[Environment Information](https://cosmods.miki85.cz/project/${project.id}/settings/environment)` // Depreciated
 	vars[`PROJECT_TAGS_LINK`] = `https://cosmods.miki85.cz/project/${project.id}/settings/tags`
-	vars[`PROJECT_TAGS_FLINK`] = `[Tags](https://cosmods.miki85.cz/project/${project.id}/settings/tags)`
+	vars[`PROJECT_TAGS_FLINK`] =
+		`[Tags](https://cosmods.miki85.cz/project/${project.id}/settings/tags)`
 	vars[`PROJECT_DESCRIPTION_LINK`] =
 		`https://cosmods.miki85.cz/project/${project.id}/settings/description`
 	vars[`PROJECT_DESCRIPTION_FLINK`] =
@@ -376,17 +379,20 @@ export function flattenProjectVariables(
 	vars[`PROJECT_MODERATION_LINK`] = `https://cosmods.miki85.cz/project/${project.id}/moderation`
 	vars[`PROJECT_MODERATION_FLINK`] =
 		`[moderation tab](https://cosmods.miki85.cz/project/${project.id}/moderation)`
-	vars[`PROJECT_SERVER_SETTINGS`] = `https://cosmods.miki85.cz/project/${project.id}/settings/server`
+	vars[`PROJECT_SERVER_SETTINGS`] =
+		`https://cosmods.miki85.cz/project/${project.id}/settings/server`
 	vars[`PROJECT_SERVER_SETTINGS_FLINK`] =
 		`[Server Settings](https://cosmods.miki85.cz/project/${project.id}/settings/server)`
-	vars[`PROJECT_LANGUAGE_SETTINGS`] = `https://cosmods.miki85.cz/project/${project.id}/settings/server`
+	vars[`PROJECT_LANGUAGE_SETTINGS`] =
+		`https://cosmods.miki85.cz/project/${project.id}/settings/server`
 	vars[`PROJECT_LANGUAGE_SETTINGS_FLINK`] =
 		`[Language Settings](https://cosmods.miki85.cz/project/${project.id}/settings/server)`
 	vars[`PROJECT_PERMISSIONS_LINK`] =
 		`https://cosmods.miki85.cz/project/${project.id}/settings/permissions`
 	vars[`PROJECT_PERMISSIONS_FLINK`] =
 		`[Permissions settings](https://cosmods.miki85.cz/project/${project.id}/settings/permissions)`
-	vars[`PROJECT_MONETIZATION_SETTINGS_LINK`] = `https://cosmods.miki85.cz/project/${project.id}/settings`
+	vars[`PROJECT_MONETIZATION_SETTINGS_LINK`] =
+		`https://cosmods.miki85.cz/project/${project.id}/settings`
 	vars[`PROJECT_MONETIZATION_SETTINGS_FLINK`] =
 		`[Monetization settings](https://cosmods.miki85.cz/project/${project.id}/settings)`
 

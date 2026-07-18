@@ -9,7 +9,10 @@ import StyledEmail from '../shared/StyledEmail.vue'
 		title="You've been invited to a project"
 		:manual-links="[
 			{ link: 'https://cosmods.miki85.cz/project/{project.id}', label: 'Project page' },
-			{ link: 'https://cosmods.miki85.cz/dashboard/notifications', label: 'Notification dashboard' },
+			{
+				link: 'https://cosmods.miki85.cz/dashboard/notifications',
+				label: 'Notification dashboard',
+			},
 			{ link: 'https://support.cosmods.miki85.cz', label: 'Support Portal' },
 		]"
 	>

@@ -31,8 +31,8 @@ import StyledEmail from '../shared/StyledEmail.vue'
 			<VLink href="https://cosmods.miki85.cz/legal/rules" class="text-green underline"
 				>Content Rules</VLink
 			>, <VLink href="https://cosmods.miki85.cz/legal/terms">Terms of Service</VLink> and
-			<VLink href="https://cosmods.miki85.cz/legal/copyright">Copyright Policy</VLink>. You'll receive an
-			email update once we've completed our review.
+			<VLink href="https://cosmods.miki85.cz/legal/copyright">Copyright Policy</VLink>. You'll
+			receive an email update once we've completed our review.
 		</Text>
 
 		<Text class="text-base">

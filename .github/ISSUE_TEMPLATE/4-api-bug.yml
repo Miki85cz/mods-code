@@ -1,5 +1,5 @@
-name: 🛠 Bug with Modrinth API
-description: For issues with the Modrinth API for developers.
+name: 🛠 Bug with CosMods API
+description: For issues with the CosMods API for developers.
 labels: [api, backend]
 type: 'bug'
 body:

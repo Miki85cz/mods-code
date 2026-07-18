@@ -29,7 +29,8 @@ const cobblemonProject: ContentModpackCardProject = {
 	id: '5FFgwNNP',
 	slug: 'cobblemon-fabric',
 	title: 'Cobblemon Official Modpack [Fabric]',
-	icon_url: 'https://cdn.cosmods.miki85.cz/data/5FFgwNNP/e7f9ee2e9d361623847853fe2ddce42f519ee64f.png',
+	icon_url:
+		'https://cdn.cosmods.miki85.cz/data/5FFgwNNP/e7f9ee2e9d361623847853fe2ddce42f519ee64f.png',
 	description: 'The official modpack of the Cobblemon mod, for Fabric!',
 	downloads: 4940845,
 	followers: 2051,
@@ -39,7 +40,8 @@ const simplyOptimizedProject: ContentModpackCardProject = {
 	id: 'BYfVnHa7',
 	slug: 'sop',
 	title: 'Simply Optimized',
-	icon_url: 'https://cdn.cosmods.miki85.cz/data/BYfVnHa7/845e93223da7e8d1ed1a33364b5bdb4c316ac518.png',
+	icon_url:
+		'https://cdn.cosmods.miki85.cz/data/BYfVnHa7/845e93223da7e8d1ed1a33364b5bdb4c316ac518.png',
 	description:
 		'The leading, well-researched optimization modpack with a focus on pure performance.',
 	downloads: 2903242,
