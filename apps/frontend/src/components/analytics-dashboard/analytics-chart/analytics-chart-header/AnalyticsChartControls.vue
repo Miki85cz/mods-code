@@ -28,7 +28,7 @@
 			</span>
 			<span
 				v-if="activeControlCount > 0"
-				class="inline-flex min-w-5 items-center justify-center rounded-full bg-highlight-green px-1.5 text-xs font-semibold leading-5 text-green"
+				class="inline-flex min-w-5 items-center justify-center rounded-full bg-highlight-blue px-1.5 text-xs font-semibold leading-5 text-blue"
 			>
 				{{ activeControlCount }}
 			</span>

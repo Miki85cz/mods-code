@@ -13,7 +13,7 @@
 					:href="`modrinth://mod/${project.slug}`"
 					@click="installWithApp"
 				>
-					<ModrinthIcon aria-hidden="true" />
+					<ModrinthIconBlack aria-hidden="true" />
 					<span class="min-w-0 text-center">
 						{{ formatMessage(messages.installWithModrinthApp) }}
 					</span>
@@ -38,7 +38,7 @@
 
 <script setup lang="ts">
 import type { Labrinth } from '@modrinth/api-client'
-import { ModrinthIcon } from '@modrinth/assets'
+import { ModrinthIconBlack } from '@modrinth/assets'
 import { ButtonStyled, defineMessages, useVIntl } from '@modrinth/ui'
 import type { DisplayProjectType } from '@modrinth/utils'
 import { ref } from 'vue'

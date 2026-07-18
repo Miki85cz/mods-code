@@ -12,6 +12,7 @@ import _FourOhFourNotFound from './branding/404.svg?component'
 // Branding
 import _BrowserWindowSuccessIllustration from './branding/illustrations/browser-window-success.svg?component'
 import _ModrinthIcon from './branding/logo.svg?component'
+import _ModrinthIconBlack from './branding/logoblack.svg?component'
 import _ModrinthPlusIcon from './branding/modrinth-plus.svg?component'
 import _AngryRinthbot from './branding/rinthbot/angry.webp'
 import _AnnoyedRinthbot from './branding/rinthbot/annoyed.webp'
@@ -83,6 +84,7 @@ import _NoSearchResultIllustration from './illustrations/no-search-result.svg?co
 import _NoTasksIllustration from './illustrations/no-tasks.svg?component'
 
 export const ModrinthIcon = _ModrinthIcon
+export const ModrinthIconBlack = _ModrinthIconBlack
 export const BrowserWindowSuccessIllustration = _BrowserWindowSuccessIllustration
 export const FourOhFourNotFound = _FourOhFourNotFound
 export const ModrinthPlusIcon = _ModrinthPlusIcon
